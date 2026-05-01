@@ -6,6 +6,7 @@ export default defineConfig({
   base: '/battle-book/',
   lastUpdated: true,
   cleanUrls: true,
+  appearance: 'dark',
 
   head: [
     ['link', { rel: 'icon', href: '/battle-book/icons/favicon.ico' }],

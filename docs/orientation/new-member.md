@@ -6,7 +6,9 @@ description: Welcome to Whiteout Survival — start here.
 # New Member Orientation
 
 <Callout type="info">
+
 **Status:** Placeholder page. Full new-member orientation is being written.
+
 </Callout>
 
 If you're brand new to the alliance or new to Whiteout Survival, here's the short version while the full orientation is being prepared:

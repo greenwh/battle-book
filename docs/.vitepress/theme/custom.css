@@ -10,6 +10,37 @@
   /* Typography — Georgia serif headings (carry from SvS guide) */
   --vp-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --vp-font-family-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+
+  /* Callout palette — info/tip/warn/danger */
+  --bb-callout-info: #5cc4e8;
+  --bb-callout-info-bg: rgba(92, 196, 232, 0.10);
+  --bb-callout-tip: #5ce88a;
+  --bb-callout-tip-bg: rgba(92, 232, 138, 0.10);
+  --bb-callout-warn: #f5b342;
+  --bb-callout-warn-bg: rgba(245, 179, 66, 0.10);
+  --bb-callout-danger: #ff6b6b;
+  --bb-callout-danger-bg: rgba(255, 107, 107, 0.10);
+
+  /* Troop classes (game's color associations) */
+  --bb-troop-infantry: #5cc4e8;
+  --bb-troop-lancer: #ff8a5c;
+  --bb-troop-marksman: #5ce88a;
+
+  /* Tier badge palette (S-tier brightest, F-tier darkest) */
+  --bb-tier-s: #f5b342;
+  --bb-tier-a: #5ce88a;
+  --bb-tier-b: #5cc4e8;
+  --bb-tier-c: #a8b3c7;
+  --bb-tier-d: #e08a5c;
+  --bb-tier-f: #ff6b6b;
+
+  /* Event-frequency badge palette */
+  --bb-freq-daily: #5ce88a;
+  --bb-freq-weekly: #5cc4e8;
+  --bb-freq-biweekly: #f5b342;
+  --bb-freq-monthly: #c98ce8;
+  --bb-freq-yearly: #ff8a5c;
+  --bb-freq-other: #a8b3c7;
 }
 
 /*

@@ -6,7 +6,9 @@ description: Everything you need to know about Whiteout Survival's State of Powe
 # SvS — State of Power
 
 <Callout type="info">
+
 **Quick take:** SvS is Whiteout Survival's monthly cross-state war event. Two states matched by power compete over a week of preparation scoring, then fight a 12-hour battle phase. Winning grants alliance Presidents and state-wide buffs. The most rewarding event in the game — and the highest-stakes.
+
 </Callout>
 
 ## At a Glance
@@ -46,9 +48,11 @@ Two reliable signals:
 **Signal 2 — Counting Sunfire Castle battles.** SvS first unlocks ~Day 80 of server age. After the first SvS, the 4-week cycle is consistent enough to predict from the previous event.
 
 <Callout type="tip" title="What to stockpile">
+
 You don't need to hold everything. Daily activities (dailies, gathering, beast hunting, regular training) are fine.
 
 **Hold for SvS:** Fire Crystals, Refined Fire Crystals, Construction/Research/Training Speedups, Mithril, Hero Shards (Mythic & Epic), Lucky Chips, Stamina Cans, Essence Stones, Exclusive Gear Widgets, Chief Gear materials, XP Components.
+
 </Callout>
 
 ## Scoring (Preparation Phase)
@@ -103,7 +107,9 @@ Use Mythic Hero Shards first, then Epic, then Rare. Lucky Wheel spins. Collect g
 The "everything counts" day. Hero Gear enhancement (XP Components, feeder gear, Essence Stones, Exclusive Gear Widgets), Chief Gear Score, leftover Mithril, leftover Fire Crystals — burn the entire stockpile.
 
 <Callout type="tip" title="The reforge trick">
+
 On Day 5, you can reforge actively-used Epic gear (100% material refund), then re-enhance the same gear in the same window. Scores Day 5 points and you're back to full combat power before Saturday's battle starts at 12:00 UTC. Two birds, same stone.
+
 </Callout>
 
 ### Saturday 10:00 UTC — Prep Ends, Battle Phase Begins
@@ -111,7 +117,9 @@ On Day 5, you can reforge actively-used Epic gear (100% material refund), then r
 The cross-state Transfer Portal opens. Enemy players (Furnace Lv.16+) can teleport directly into your state and attack unshielded cities. Each player has 3 free cross-state teleports.
 
 <Callout type="danger" title="Shield Rule">
+
 If you're not actively fighting, **shield up before 10:00 UTC**. The Transfer Portal stays open until 22:00 UTC — that's 12 hours of unshielded vulnerability.
+
 </Callout>
 
 ### Saturday 10:00–11:00 UTC — Alliance Window
@@ -131,7 +139,9 @@ Per the October 22, 2025 patch, this 2.5-hour win / 5-hour battle rule applies t
 ### Saturday ~17:00 UTC — Castle Battle Ends, Free Attack Begins
 
 <Callout type="danger" title="Most common SvS mistake">
+
 **The Castle Battle ending is NOT the SvS ending.** The Transfer Portal stays open until 22:00 UTC — 5 more hours of cross-state attacks. Players who drop their shield to celebrate get zeroed. Re-shield immediately and don't drop until 22:00 UTC.
+
 </Callout>
 
 ### Saturday 22:00 UTC — Portal Closes, Field Triage Begins
@@ -152,7 +162,9 @@ Lost troops can be revived at up to **90% rate**:
 Healing Speed (+20%) and Healing Capacity buffs are separate mechanics that affect infirmary throughput, not revival rate.
 
 <Callout type="tip" title="Triage etiquette">
+
 If you lost few troops, wait a day before requesting Rebirth Tomes. Let players with heavy losses get priority assistance first. Coordinate revival order in alliance chat so tomes go where they have the most impact.
+
 </Callout>
 
 ## Strategy by Player Type

@@ -6,7 +6,9 @@ description: Verified troop compositions for every Whiteout Survival activity �
 # Troop Ratios Reference
 
 <Callout type="info">
+
 **Quick take:** Recommended Infantry/Lancer/Marksman splits for every major in-game activity. Ratios are role-specific (Rally Leader vs. Joiner vs. Garrison vs. Solo). Some are generation-sensitive — flagged where applicable.
+
 </Callout>
 
 ## How to read this
@@ -59,9 +61,11 @@ Roles abbreviated:
 | Join | **20 / 20 / 60** | Pre-Gen 8 balance point: some infantry to absorb hits and stabilize lancer/marksman skill triggers. |
 
 <Callout type="tip" title="Generation-sensitive">
+
 **Pre-Gen 8:** Keep at least 5,000 infantry in the lead march as a safety floor. The 0% lancer can stretch to 15–20% pre-Gen 8 if your lancer lethality is close to marksman. Joiners commonly run 25–30% lancer to stably proc lancer hero buffs.
 
 **Gen 8+:** Push to 0/15/85 or pure 0/10/90 DPS for lead. Joiners shift to 10/15/75 as marksman lethality pulls ahead.
+
 </Callout>
 
 ## Polar Terror (PvE)

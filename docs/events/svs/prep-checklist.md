@@ -6,7 +6,9 @@ description: Day-by-day actions for the SvS Preparation Phase. Mobile-friendly, 
 # SvS Prep Checklist
 
 <Callout type="info">
+
 **Quick take:** Mid-event reference. Day-by-day actions for the 5.5-day SvS Preparation Phase. Pair with the [SvS Overview](/events/svs/overview) for context.
+
 </Callout>
 
 All times UTC.

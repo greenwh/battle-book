@@ -1,6 +1,7 @@
 ---
 title: Changelog
 description: Battle Book update history.
+search: false
 ---
 
 # Changelog

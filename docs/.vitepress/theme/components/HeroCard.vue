@@ -67,6 +67,11 @@ const classKey = computed(() => props.troopClass.toLowerCase())
   transition: border-color 0.15s ease, transform 0.15s ease;
 }
 .bb-hero--linked:hover { border-color: var(--bb-hero-tone, var(--vp-c-brand-1)); transform: translateY(-1px); }
+.bb-hero--linked:focus-visible {
+  outline: 2px solid var(--bb-hero-tone, var(--vp-c-brand-1));
+  outline-offset: 3px;
+  border-color: var(--bb-hero-tone, var(--vp-c-brand-1));
+}
 
 .bb-hero--infantry { --bb-hero-tone: var(--bb-troop-infantry); }
 .bb-hero--lancer   { --bb-hero-tone: var(--bb-troop-lancer); }

@@ -11,6 +11,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/battle-book/icons/favicon.ico' }],
     ['meta', { name: 'theme-color', content: '#0d0f14' }],
+    ['meta', { name: 'robots', content: 'index,follow' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Ice Kings Battle Book' }],
     ['meta', { property: 'og:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],

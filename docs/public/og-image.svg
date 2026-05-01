@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="og-title">
+  <title id="og-title">Ice Kings Battle Book — Whiteout Survival Reference</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d0f14"/>
+      <stop offset="100%" stop-color="#1a1f2b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5cc4e8"/>
+      <stop offset="100%" stop-color="#3da4c5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#5cc4e8" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#5cc4e8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- canvas -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- ambient glow -->
+  <ellipse cx="980" cy="320" rx="380" ry="280" fill="url(#glow)"/>
+
+  <!-- decorative ice shards (right side) -->
+  <g opacity="0.25" stroke="#5cc4e8" stroke-width="2" fill="none">
+    <polyline points="980,120 1020,200 990,260 1050,330 1010,420 1080,500"/>
+    <polyline points="900,90 940,180 905,240 970,310 925,400 1000,490"/>
+    <polyline points="1060,80 1100,170 1075,240 1140,310 1095,400 1170,490"/>
+  </g>
+
+  <!-- top-left brand bar -->
+  <rect x="80" y="80" width="60" height="6" fill="url(#accent)" rx="3"/>
+  <text x="80" y="130" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#5cc4e8" letter-spacing="6">
+    BATTLE BOOK
+  </text>
+
+  <!-- title -->
+  <text x="80" y="280" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#e8edf5" letter-spacing="-2">
+    Ice Kings
+  </text>
+  <text x="80" y="380" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#5cc4e8" letter-spacing="-2">
+    Battle Book
+  </text>
+
+  <!-- tagline -->
+  <text x="80" y="450" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#a8b3c7">
+    Whiteout Survival reference — events, heroes,
+  </text>
+  <text x="80" y="490" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#a8b3c7">
+    combat, and strategy. State 4104.
+  </text>
+
+  <!-- url ribbon -->
+  <rect x="80" y="540" width="380" height="40" fill="#1f2533" stroke="#2c3344" rx="6"/>
+  <text x="100" y="566" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#5cc4e8">
+    greenwh.github.io/battle-book
+  </text>
+</svg>

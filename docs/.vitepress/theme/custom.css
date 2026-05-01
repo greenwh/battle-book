@@ -1,0 +1,79 @@
+/* Ice Kings Battle Book — brand tokens (carry forward from svs-guide-state-4104.html) */
+
+:root {
+  /* Color tokens — dark theme is primary */
+  --vp-c-bg: #0d0f14;
+  --vp-c-bg-alt: #131720;
+  --vp-c-bg-soft: #1a1f2b;
+  --vp-c-bg-elv: #1f2533;
+
+  --vp-c-text-1: #e8edf5;
+  --vp-c-text-2: #a8b3c7;
+  --vp-c-text-3: #6b7689;
+
+  --vp-c-divider: #242a38;
+  --vp-c-border: #2c3344;
+
+  /* Brand: ice-blue primary, amber accent, red for danger, green for success, purple for ranks */
+  --vp-c-brand-1: #5cc4e8;          /* ice blue */
+  --vp-c-brand-2: #4eb5d8;
+  --vp-c-brand-3: #3da4c5;
+  --vp-c-brand-soft: rgba(92, 196, 232, 0.14);
+
+  /* Typography — Georgia serif headings (carry from SvS guide) */
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --vp-font-family-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace;
+}
+
+/* Force dark mode by default — light mode also available via VitePress toggle */
+:root {
+  color-scheme: dark;
+}
+
+/* Headings use Georgia serif to match SvS guide */
+h1, h2, h3, h4, h5, h6,
+.VPHero .name,
+.VPHero .text {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  letter-spacing: -0.01em;
+}
+
+/* Color for h1/h2 accents */
+h1 {
+  color: var(--vp-c-brand-1);
+}
+
+/* Custom callout colors used throughout content */
+.tip-block {
+  border-left: 4px solid var(--vp-c-brand-1);
+  background: rgba(92, 196, 232, 0.08);
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
+.warn-block {
+  border-left: 4px solid #f5b342;
+  background: rgba(245, 179, 66, 0.08);
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
+.danger-block {
+  border-left: 4px solid #ff6b6b;
+  background: rgba(255, 107, 107, 0.08);
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+  margin: 1.5rem 0;
+}
+
+/* Tighten table padding for mobile */
+@media (max-width: 640px) {
+  .vp-doc table {
+    font-size: 0.875rem;
+  }
+  .vp-doc th, .vp-doc td {
+    padding: 0.5rem 0.625rem;
+  }
+}

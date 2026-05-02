@@ -23,42 +23,42 @@ Roles abbreviated:
 
 ## PvP — Open-Field & City Burn
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **50 / 20 / 30** | Standard offensive rally. Lead keeps a balanced core so the rally doesn't collapse if joiners under-deliver. |
-| Join | **50 / 20 / 30** | Hard-to-counter balanced joiner composition. The most widely cited ratio across all 2025–2026 guides. |
-| Garrison | **60 / 20 / 20** | Defensive lean with some damage retained. Beats pure 60/40/0 for opportunistic counter-damage against unbalanced rallies. |
+| Lead | **50<br>20<br>30** | Standard offensive rally. Lead keeps a balanced core so the rally doesn't collapse if joiners under-deliver. |
+| Join | **50<br>20<br>30** | Hard-to-counter balanced joiner composition. The most widely cited ratio across all 2025–2026 guides. |
+| Garrison | **60<br>20<br>20** | Defensive lean with some damage retained. Beats pure 60/40/0 for opportunistic counter-damage against unbalanced rallies. |
 
 ## Facility Battle — Foundry, Fortress, Stronghold
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **50 / 20 / 30** | Same as PvP — multiple Foundry and Fortress guides converge on this. |
-| Join | **50 / 20 / 30** | Standard joiner. In chaotic multi-rally facility fights you're taking constant hits, so the 50% infantry buffer matters. |
-| Garrison | **60 / 20 / 20** | Defensive reinforcement. Some alliances go 60/40/0 if expecting sustained rallies with no counter-damage need. |
+| Lead | **50<br>20<br>30** | Same as PvP — multiple Foundry and Fortress guides converge on this. |
+| Join | **50<br>20<br>30** | Standard joiner. In chaotic multi-rally facility fights you're taking constant hits, so the 50% infantry buffer matters. |
+| Garrison | **60<br>20<br>20** | Defensive reinforcement. Some alliances go 60/40/0 if expecting sustained rallies with no counter-damage need. |
 
 ## Sunfire Castle — Domestic & SvS Castle Battle
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **50 / 20 / 30** | Confirmed 2026 SvS formation meta. Alliance-level standard for attack rallies on the castle. |
-| Join | **50 / 20 / 30** | Default castle joiner. Some alliances bump to 60/20/20 for sustained multi-wave fights where hospital overflow is a concern. |
-| Garrison | **60 / 40 / 0** | Castle turrets target infantry first, so infantry-heavy survives longer. Lancers provide secondary damage. **70/30/0 is a lighter-damage alternative**. |
+| Lead | **50<br>20<br>30** | Confirmed 2026 SvS formation meta. Alliance-level standard for attack rallies on the castle. |
+| Join | **50<br>20<br>30** | Default castle joiner. Some alliances bump to 60/20/20 for sustained multi-wave fights where hospital overflow is a concern. |
+| Garrison | **60<br>40<br>0** | Castle turrets target infantry first, so infantry-heavy survives longer. Lancers provide secondary damage. **70/30/0 is a lighter-damage alternative**. |
 
 ## SvS Battle Phase — Open-World
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **50 / 20 / 30** | Open-world SvS flag fights use standard attack. |
-| Join | **50 / 20 / 30** | Standard joiner. |
-| Garrison | **70 / 30 / 0** | Heavier infantry defense during SvS when your city may be hit while offline. |
+| Lead | **50<br>20<br>30** | Open-world SvS flag fights use standard attack. |
+| Join | **50<br>20<br>30** | Standard joiner. |
+| Garrison | **70<br>30<br>0** | Heavier infantry defense during SvS when your city may be hit while offline. |
 
 ## Bear Trap (PvE)
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **0 / 10 / 90** | Pure PvE. Bear has fixed HP and no counter triangle, so maximize lethality. Joiners bring the infantry meat shield. |
-| Join | **20 / 20 / 60** | Pre-Gen 8 balance point: some infantry to absorb hits and stabilize lancer/marksman skill triggers. |
+| Lead | **0<br>10<br>90** | Pure PvE. Bear has fixed HP and no counter triangle, so maximize lethality. Joiners bring the infantry meat shield. |
+| Join | **20<br>20<br>60** | Pre-Gen 8 balance point: some infantry to absorb hits and stabilize lancer/marksman skill triggers. |
 
 <Callout type="tip" title="Generation-sensitive">
 
@@ -70,58 +70,58 @@ Roles abbreviated:
 
 ## Polar Terror (PvE)
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **0 / 10 / 90** | Same logic as Bear Trap — PvE boss with no counter triangle. Maximize marksman for peak damage. |
-| Join | **20 / 20 / 60** | Balanced joiner; enough infantry to survive across levels without being glass cannons. |
+| Lead | **0<br>10<br>90** | Same logic as Bear Trap — PvE boss with no counter triangle. Maximize marksman for peak damage. |
+| Join | **20<br>20<br>60** | Balanced joiner; enough infantry to survive across levels without being glass cannons. |
 
 Same generation-sensitivity as Bear Trap above.
 
 ## Intel Bounty Beast (Expert+)
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Solo | **20 / 40 / 40** | Bounty missions recommend unrealistic power levels — the workaround is ratio + synergy. 20/40/40 from the 2026 Lighthouse meta beats the recommended power by 20–30M. |
+| Solo | **20<br>40<br>40** | Bounty missions recommend unrealistic power levels — the workaround is ratio + synergy. 20/40/40 from the 2026 Lighthouse meta beats the recommended power by 20–30M. |
 
 The older 20/20/60 advice is outdated for Expert+ tier.
 
 ## Labyrinth (PvE)
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Solo | **50 / 20 / 30** | Game AI defaults to 33/33/33 which is suboptimal — override to 50/20/30 as a baseline. |
+| Solo | **50<br>20<br>30** | Game AI defaults to 33/33/33 which is suboptimal — override to 50/20/30 as a baseline. |
 
 The 60/15/25 variant works well for infantry-favored zones (e.g. stage 10, which the AI itself runs at ~53/27/20). Experiment within your 5 daily attempts; expedition buffs vary by zone.
 
 ## Crazy Joe — HQ Defense & Reinforcement
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Garrison | **90 / 10 / 0** | Infantry attacks first, then lancers, then marksmen. Marksmen rarely get a turn before the wave dies so they're dead weight. Especially Wave 10 and 20 HQ defense. |
-| Solo | **90 / 10 / 0** | Same as garrison — reinforcement marches sent to allies use the same composition. |
+| Garrison | **90<br>10<br>0** | Infantry attacks first, then lancers, then marksmen. Marksmen rarely get a turn before the wave dies so they're dead weight. Especially Wave 10 and 20 HQ defense. |
+| Solo | **90<br>10<br>0** | Same as garrison — reinforcement marches sent to allies use the same composition. |
 
 Applies across all server generations.
 
 ## Alliance Championship
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Lead | **50 / 20 / 30** | Standard AC meta; hard to counter. Works with any generation of heroes. |
-| Join | **50 / 20 / 30** | Standard balanced composition. The in-game default of 33/33/33 is worse — manually set the sliders. |
+| Lead | **50<br>20<br>30** | Standard AC meta; hard to counter. Works with any generation of heroes. |
+| Join | **50<br>20<br>30** | Standard balanced composition. The in-game default of 33/33/33 is worse — manually set the sliders. |
 
 ## City Defense — Shield Down (general)
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Garrison | **60 / 20 / 20** | General-purpose city garrison. Heavier infantry with lancer/marksman retained to counter-damage. |
+| Garrison | **60<br>20<br>20** | General-purpose city garrison. Heavier infantry with lancer/marksman retained to counter-damage. |
 
-If specifically expecting SvS raid pressure, shift to **70 / 30 / 0** (see SvS Battle Phase row above).
+If specifically expecting SvS raid pressure, shift to **70/30/0** (see SvS Battle Phase row above).
 
 ## Default — When in doubt
 
-| Role | Inf / Lan / Mar | Notes |
+| Role | Inf<br>Lan<br>Mar | Notes |
 |---|---|---|
-| Solo | **50 / 20 / 30** | Safest fallback when you don't know what you'll face. Multiple creators name this the "can't go wrong" starting point. |
+| Solo | **50<br>20<br>30** | Safest fallback when you don't know what you'll face. Multiple creators name this the "can't go wrong" starting point. |
 
 ## Notes
 

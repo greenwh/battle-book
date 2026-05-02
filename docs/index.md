@@ -7,6 +7,9 @@ hero:
   name: Ice Kings
   text: Battle Book
   tagline: A reference manual for Whiteout Survival players. Events, heroes, combat, and strategy — verified, mobile-first, and updated.
+  image:
+    src: /bear.JPG
+    alt: Ice Kings — a roaring bear flanked by archers in a frozen battlefield
   actions:
     - theme: brand
       text: Browse Events

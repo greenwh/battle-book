@@ -52,6 +52,7 @@ export default defineConfig({
                 { text: 'Prep Checklist', link: '/events/svs/prep-checklist' },
               ],
             },
+            { text: 'Bear Trap', link: '/events/bear-trap' },
           ],
         },
       ],

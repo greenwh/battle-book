@@ -17,11 +17,17 @@ The most rewarding event in the game. 5.5 days of preparation scoring against a 
 - [SvS Overview & Strategy](/events/svs/overview)
 - [SvS Prep Checklist](/events/svs/prep-checklist)
 
+### Bear Trap
+**Twice-weekly · Alliance PvE event**
+
+Rally your alliance against a Raging Bear that doesn't fight back — zero troop losses, pure reward event. Essence Stones, XP Components, and hero-gear materials drop based on damage dealt. The single most important mechanic: as a joiner, only your slot 1 hero's first Expedition skill matters.
+
+- [Bear Trap Guide](/events/bear-trap)
+
 ## Coming Soon
 
 These guides will be added over time. The structure is in place; content is being verified and written.
 
-- **Bear Trap** — weekly alliance PvE event
 - **Sunfire Castle Battle** — biweekly intra-state castle battle
 - **King of Icefield (KoI)** — internal state competition, 4-week cycle
 - **Foundry Battle** — alliance vs. alliance facility war

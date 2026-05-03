@@ -10,6 +10,12 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Fishing Tournament Guide Added
+
+- Covers both fishing modes (Ice Fishing and Frosty Prospector), the three-piece equipment upgrade system (Line, Hook, Sinker to Lv.10), and the Hook-first vs. Line-first upgrade debate with a practical alternating recommendation
+- Details the four collection guides and their permanent rewards: Fish Guide (+2% Troop Attack), Diver Guide (+5% Solo March Speed), Memorabilia Guide (+2% Troop Defense), plus the Sunken Treasure Hunt mechanic that unlocks after gear is maxed
+- Includes the max-point combo (Treasure Chart + Horn of Poseidon + Icefisher Voucher), the restart trick for collection grinding, phase-by-phase Day 1–3 actions, and strategy breakdowns for F2P, light spender, and heavy spender players
+
 ### Bear Trap Guide Added
 
 - Covers full mechanics: rally vs. solo attack distinction, the rally leader/joiner asymmetry (leader contributes all 9 Expedition skills; joiners contribute only slot 1's first skill), and the top-4 joiner skill selection rule

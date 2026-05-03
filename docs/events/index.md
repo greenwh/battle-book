@@ -24,6 +24,13 @@ Rally your alliance against a Raging Bear that doesn't fight back — zero troop
 
 - [Bear Trap Guide](/events/bear-trap)
 
+### Fishing Tournament
+**Monthly · Solo mini-game**
+
+A casual 3-day fishing mini-game with no combat or troop risk. Permanent stat-boost skins from collection completion (+2% Troop Attack, +2% Troop Defense) make it one of the best free buff sources in the game — accessible to F2P players at any progression level.
+
+- [Fishing Tournament Guide](/events/fishing-tournament)
+
 ## Coming Soon
 
 These guides will be added over time. The structure is in place; content is being verified and written.

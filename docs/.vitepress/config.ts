@@ -9,7 +9,7 @@ export default defineConfig({
   appearance: 'dark',
 
   head: [
-    ['link', { rel: 'icon', href: '/battle-book/icons/favicon.ico' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/battle-book/icons/favicon.svg' }],
     ['meta', { name: 'theme-color', content: '#0d0f14' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
     ['meta', { property: 'og:type', content: 'website' }],

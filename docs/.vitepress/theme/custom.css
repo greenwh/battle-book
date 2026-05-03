@@ -102,6 +102,33 @@ h1 {
   margin: 1.5rem 0;
 }
 
+/* Hero image: expand from VitePress default to better show the 16:9 bear.JPG */
+.VPHero .image-container {
+  overflow: visible !important;
+}
+
+.VPHero .image-bg {
+  display: none !important;
+}
+
+.VPHero .image-src {
+  max-width: 320px !important;
+  border-radius: 10px;
+  box-shadow: 0 4px 40px rgba(92, 196, 232, 0.18);
+}
+
+@media (min-width: 640px) {
+  .VPHero .image-src {
+    max-width: 460px !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero .image-src {
+    max-width: 560px !important;
+  }
+}
+
 /* Tighten table padding for mobile */
 @media (max-width: 640px) {
   .vp-doc table {

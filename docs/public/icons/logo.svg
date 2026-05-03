@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 38">
+  <defs>
+    <linearGradient id="iceGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#f0f8ff"/>
+      <stop offset="45%"  stop-color="#a8dff5"/>
+      <stop offset="100%" stop-color="#5cc4e8"/>
+    </linearGradient>
+    <linearGradient id="crownGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#f5e54a"/>
+      <stop offset="100%" stop-color="#c89010"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0.7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Crown: 3-point, centered at x=40, y range 1–10 -->
+  <path d="M 28,10 L 28,7 L 32,2 L 35,6 L 40,1 L 45,6 L 48,2 L 52,7 L 52,10 Z"
+        fill="url(#crownGrad)" filter="url(#glow)"/>
+
+  <!-- KNG in Georgia serif with ice gradient -->
+  <text x="40" y="34"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="22"
+        font-weight="bold"
+        letter-spacing="3"
+        fill="url(#iceGrad)"
+        filter="url(#glow)">KNG</text>
+</svg>

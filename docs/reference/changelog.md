@@ -10,6 +10,12 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Snowbusters Guide Added
+
+- Covers the snow-clearing mini-game loop (25 stages, Fuel management, Survivor rescue, Beast/Snowman combat), the Stage 16 cliff strategy (stop at 16 or save Rocket V2 items to push Stage 19), and bonus stages 5/10/15 with unlimited Fuel
+- Details the four-piece gear system (Snowbuster, Gloves, Coat, Snow Boots — resets every event) with the data-driven Coat-first upgrade recommendation and the "stack Super Snowbuster + Infini-Fuel" performance tip
+- Explains the Map Fragment collection system (theme-rotating, Stars carry between events), the permanent Snowbusters Island Building unlock at 20 stars, and the Fuel Supply Chest carry-over rule (unopened chests persist; opened Fuel does not)
+
 ### Fishing Tournament Guide Added
 
 - Covers both fishing modes (Ice Fishing and Frosty Prospector), the three-piece equipment upgrade system (Line, Hook, Sinker to Lv.10), and the Hook-first vs. Line-first upgrade debate with a practical alternating recommendation

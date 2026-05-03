@@ -31,6 +31,13 @@ A casual 3-day fishing mini-game with no combat or troop risk. Permanent stat-bo
 
 - [Fishing Tournament Guide](/events/fishing-tournament)
 
+### Snowbusters
+**Monthly · Solo mini-game**
+
+Control Buster the snowplow through 25 progressively harder stages. Manage Fuel, rescue Survivors, and defeat Beasts across 3 days. Permanent rewards include themed cosmetic skins and a unique island building unlocked at the 20-star Map Fragment collection milestone.
+
+- [Snowbusters Guide](/events/snowbusters)
+
 ## Coming Soon
 
 These guides will be added over time. The structure is in place; content is being verified and written.

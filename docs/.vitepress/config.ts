@@ -10,6 +10,8 @@ export default defineConfig({
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/battle-book/icons/favicon.svg' }],
+    ['link', { rel: 'manifest', href: '/battle-book/manifest.webmanifest' }],
+    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/battle-book/icons/apple-touch-icon.png' }],
     ['meta', { name: 'theme-color', content: '#0d0f14' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
     ['meta', { property: 'og:type', content: 'website' }],

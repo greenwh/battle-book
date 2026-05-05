@@ -1,0 +1,28 @@
+{
+  "name": "Ice Kings Battle Book",
+  "short_name": "Battle Book",
+  "description": "Whiteout Survival reference for State 4104 and beyond — events, heroes, combat, and strategy.",
+  "start_url": "/battle-book/",
+  "scope": "/battle-book/",
+  "display": "standalone",
+  "background_color": "#0d0f14",
+  "theme_color": "#0d0f14",
+  "icons": [
+    {
+      "src": "/battle-book/icons/pwa-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/battle-book/icons/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/battle-book/icons/pwa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

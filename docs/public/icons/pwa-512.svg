@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="iceGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#f0f8ff"/>
+      <stop offset="45%"  stop-color="#a8dff5"/>
+      <stop offset="100%" stop-color="#5cc4e8"/>
+    </linearGradient>
+    <linearGradient id="crownGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#f5e54a"/>
+      <stop offset="100%" stop-color="#c89010"/>
+    </linearGradient>
+    <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" fill="#0d0f14" rx="48"/>
+
+  <!-- Crown centered at x=256, scaled up from 32px favicon -->
+  <path d="M 112,176 L 112,128 L 160,48 L 200,112 L 256,32 L 312,112 L 352,48 L 400,128 L 400,176 Z"
+        fill="url(#crownGrad)" filter="url(#glow)"/>
+
+  <!-- K centered -->
+  <text x="256" y="432"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="256"
+        font-weight="bold"
+        fill="url(#iceGrad)"
+        filter="url(#glow)">K</text>
+</svg>

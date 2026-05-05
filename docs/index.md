@@ -31,8 +31,10 @@ features:
     linkText: Troop ratios
     icon: ⚔️
 
-  - title: Hero & Gear Strategy
-    details: Hero priorities, gear enhancement order, reforge strategy, F2P stopping points. What to invest in and what to skip.
+  - title: Strategy
+    details: Progression systems that make you stronger — Furnace leveling, Daybreak Island, hero priorities, gear enhancement, pets. What to invest in, what to skip, and in what order.
+    link: /strategy/
+    linkText: Strategy hub
     icon: 🛡️
 
   - title: Reference & Glossary
@@ -56,6 +58,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 ## Recently updated
 
+- **Strategy Hub** — new section covering Daybreak Island (overview, buildings, decorations, progression) and Furnace 20→30 leveling guide
 - **SvS Prep Guide** — full coverage of all 5 prep days, scoring, and the field triage window
 - **SvS Prep Checklist** — interactive day-by-day to-do list
 - **Troop Ratios Reference** — verified compositions for every activity

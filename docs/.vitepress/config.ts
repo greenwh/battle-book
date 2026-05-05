@@ -36,6 +36,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Events', link: '/events/' },
+      { text: 'Strategy', link: '/strategy/' },
       { text: 'Troops', link: '/troops/' },
       { text: 'Reference', link: '/reference/glossary' },
     ],
@@ -66,6 +67,25 @@ export default defineConfig({
             { text: 'Mercenary Prestige', link: '/events/mercenary-prestige' },
             { text: 'Snowbusters', link: '/events/snowbusters' },
             { text: 'Sunfire Castle Battle', link: '/events/sunfire-castle' },
+          ],
+        },
+      ],
+      '/strategy/': [
+        {
+          text: 'Strategy',
+          items: [
+            { text: 'Strategy Hub', link: '/strategy/' },
+            { text: 'Furnace 20→30', link: '/strategy/furnace' },
+            {
+              text: 'Daybreak Island',
+              collapsed: false,
+              items: [
+                { text: 'Overview', link: '/strategy/island/' },
+                { text: 'Building Priorities', link: '/strategy/island/buildings' },
+                { text: 'Decoration Strategy', link: '/strategy/island/decorations' },
+                { text: 'Progression Guide', link: '/strategy/island/progression' },
+              ],
+            },
           ],
         },
       ],

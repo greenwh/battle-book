@@ -10,6 +10,14 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Strategy Section Launch
+
+- New top-level **Strategy** section added to navigation
+- **Daybreak Island** — four-page guide covering overview, building priorities, decoration strategy, and phased progression
+- **Furnace 20→30 Guide** — full resource cost table for all required upgrades (Furnace + prerequisites), milestone unlocks, pacing strategy
+- Home page "Hero & Gear Strategy" card updated to "Strategy" with link to strategy hub
+- Placeholder entries for Heroes, Gear, Pets, and Combat References sections (content coming)
+
 ### Alliance Championship Guide Added
 
 - Covers the weekly 5-round round-robin format (6 alliances, 3-lane automated battles, Monday sign-up through Sunday tally), buff capture at registration (community-confirmed — buffs active when you click Register carry into all 5 battles), and lane combat order where weakest marches fight first within each lane

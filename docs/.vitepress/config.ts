@@ -53,6 +53,7 @@ export default defineConfig({
               ],
             },
             { text: 'Bear Trap', link: '/events/bear-trap' },
+            { text: 'Canyon Clash', link: '/events/canyon-clash' },
             { text: 'Fishing Tournament', link: '/events/fishing-tournament' },
             { text: 'Snowbusters', link: '/events/snowbusters' },
           ],

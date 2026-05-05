@@ -10,6 +10,12 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Canyon Clash Guide Added
+
+- Covers the full 6-day event cycle (Monday vote → Wednesday registration → Friday matchmaking → Saturday battle), the Lost Canyon three-island map layout, and the three battle stages: Seize & Conquer (minutes 0–17), Fortress Occupation (17–37), and Citadel Onslaught (37–57) with the ~50,000-point Frozen Citadel bonus
+- Details Fuel as the central resource — regeneration, Guardian appointments for Fuel income acceleration, conscription vs. instant-revive cost tradeoffs, and how running out of Fuel in the final 20 minutes loses matches
+- Includes eligibility requirements (top-20 Power Leaderboard alliances, Furnace 16+, 5-day active check), the Legion 1/2 system, strategy breakdowns by player type (F2P, active member, R4/R5, heavy spender), and a 12-item common-mistakes section
+
 ### Snowbusters Guide Added
 
 - Covers the snow-clearing mini-game loop (25 stages, Fuel management, Survivor rescue, Beast/Snowman combat), the Stage 16 cliff strategy (stop at 16 or save Rocket V2 items to push Stage 19), and bonus stages 5/10/15 with unlimited Fuel
@@ -56,7 +62,7 @@ This section will be updated as new content lands. Planned additions in rough pr
 5. **Pet system** guide
 6. **Foundry Battle** strategy guide
 7. **King of Icefield** event guide
-8. Additional event guides (Frostfire Mine, Crazy Joe, Canyon Clash, Arena, Hall of Chiefs)
+8. Additional event guides (Frostfire Mine, Crazy Joe, Arena, Hall of Chiefs)
 
 ---
 

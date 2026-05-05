@@ -38,6 +38,13 @@ Control Buster the snowplow through 25 progressively harder stages. Manage Fuel,
 
 - [Snowbusters Guide](/events/snowbusters)
 
+### Canyon Clash
+**Monthly · Alliance vs. alliance vs. alliance battle**
+
+The most coordination-intensive event in the game. Top-20 alliances only. Three alliances fight simultaneously in the Lost Canyon map over six days (vote → register → matchmake → Saturday battle). One hour of live combat across three stages — Seize & Conquer, Fortress Occupation, and Citadel Onslaught — with Fuel management and voice chat coordination determining winners.
+
+- [Canyon Clash Guide](/events/canyon-clash)
+
 ## Coming Soon
 
 These guides will be added over time. The structure is in place; content is being verified and written.
@@ -46,7 +53,6 @@ These guides will be added over time. The structure is in place; content is bein
 - **King of Icefield (KoI)** — internal state competition, 4-week cycle
 - **Foundry Battle** — alliance vs. alliance facility war
 - **Frostfire Mine** — gathering competition
-- **Canyon Clash** — mid-cycle event
 - **Crazy Joe** — wave defense
 - **Hall of Chiefs** — power scoring event
 - **Arena** — PvP team battles

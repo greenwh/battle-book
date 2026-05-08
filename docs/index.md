@@ -27,8 +27,8 @@ features:
 
   - title: Combat Basics
     details: Rally mechanics, troop replenishment, shielding, garrison swaps, and the timing tricks that win battles.
-    link: /troops/ratios
-    linkText: Troop ratios
+    link: /combat/
+    linkText: Combat hub
     icon: ⚔️
 
   - title: Strategy
@@ -58,7 +58,8 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 ## Recently updated
 
-- **Strategy Hub** — new section covering Daybreak Island (overview, buildings, decorations, progression) and Furnace 20→30 leveling guide
+- **Combat Section** — new section covering rally mechanics, rally joining, garrison swaps, troop replenishment, pet buff interactions, and pre-battle checklist
+- **Strategy Expansion** — hero development roadmap, individual hero pages (Flint, Molly, Bahiti, Alonzo, Mia), gear strategy, pet strategy
 - **SvS Prep Guide** — full coverage of all 5 prep days, scoring, and the field triage window
 - **SvS Prep Checklist** — interactive day-by-day to-do list
 - **Troop Ratios Reference** — verified compositions for every activity

@@ -26,22 +26,35 @@ The Furnace gates every other system in the game. Knowing the resource costs and
 
 ## Heroes
 
-Hero priorities, skill leveling order, Lucky Wheel planning, and when to bench a hero. *(Coming soon)*
+Hero priorities, development roadmap, skill leveling, Lucky Wheel planning, and roster transitions across generations.
+
+- [Hero Strategy Hub](/strategy/heroes/) — roster planning philosophy and hero index
+- [Development Roadmap](/strategy/heroes/development-roadmap) — Gen 1 F20 through Gen 3 progression
+- [Flint](/strategy/heroes/flint) — S-tier Infantry, Jan 2026 rework, rally leader king
+- [Molly](/strategy/heroes/molly) — Gen 1 Lancer, transitional until Mia
+- [Bahiti](/strategy/heroes/bahiti) — best Epic Marksman, placeholder until Alonzo
+- [Alonzo](/strategy/heroes/alonzo) — long-term Mythic Marksman
+- [Mia](/strategy/heroes/mia) — Gen 3 pipeline Lancer, future Molly replacement
 
 ## Gear
 
-Enhancement priority slots by troop type, reforge strategy, Mythic transfer rules, and F2P stopping points. *(Coming soon)*
+Enhancement priority slots by troop type, reforge strategy, Mythic transfer rules, Chief Gear, and F2P stopping points.
+
+- [Gear Strategy Hub](/strategy/gear/) — gear system overview and key principles
+- [Hero Gear](/strategy/gear/hero-gear) — enhancement priority, Master Forgery, widget scaling
+- [Reforge Strategy](/strategy/gear/reforge) — when and what to reforge
+- [Mythic Transfer](/strategy/gear/mythic-transfer) — free same-type transfers
+- [Chief Gear](/strategy/gear/chief-gear) — F22 unlock, set bonuses, upgrade order
 
 ## Pets
 
-Combat pet leveling, refinement priorities, pre-event activation routines. *(Coming soon — deferred until server unlock)*
+Combat pet leveling, refinement priorities, utility pets, and pre-event activation routines.
 
-## Combat References
-
-Rally mechanics, garrison swap technique, troop replenishment, and joining rallies correctly. *(Coming soon)*
+- [Pet Strategy Hub](/strategy/pets/) — how pets work, utility pets quick reference
+- [Combat Pets](/strategy/pets/combat-pets) — all 8 combat pets, tier list, refinement rules
 
 ## Where To Start
 
 If you're new to strategy planning, start with the [Furnace 20→30 Guide](/strategy/furnace) — it shows you the road ahead and helps you plan your speedup and resource spending. Then read the [Island Overview](/strategy/island/) to make sure you're not leaving free stats on the table.
 
-If you're mid-game (F22–F26) and want to optimize, the [Decoration Strategy](/strategy/island/decorations) page will help you stop wasting Life Essence on the wrong things.
+If you're mid-game (F22–F26) and want to optimize, the [Decoration Strategy](/strategy/island/decorations) page will help you stop wasting Life Essence on the wrong things. The [Hero Hub](/strategy/heroes/) and [Gear Hub](/strategy/gear/) are good next stops once your Island and Furnace are on track.

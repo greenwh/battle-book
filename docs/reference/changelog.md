@@ -10,6 +10,26 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Combat Section Launch
+
+- New top-level **Combat** section with 6 guides: Rally Mechanics, Rally Joining, Garrison Swap, Troop Replenishment, Pet Buffs, Pre-Battle Checklist
+- "Combat Basics" home card now links to /combat/
+
+### Strategy Section Expansion
+
+- **Hero Strategy** — hub, development roadmap (Gen 1 F20 → Gen 3), plus individual pages for Flint, Molly, Bahiti, Alonzo, Mia
+- **Gear Strategy** — hub, hero gear enhancement guide, reforge strategy, Mythic transfer rules, Chief Gear
+- **Pet Strategy** — hub, combat pets tier list with leveling priority and refinement
+- Strategy hub updated: Combat References removed, all placeholders replaced with live content
+- Pets section updated: no longer says "deferred until server unlock"
+
+### Site Structure
+
+- "Combat" added to top navigation
+- Strategy sidebar expanded with Heroes, Gear, Pets subsections
+- Troops hub updated with combat cross-link
+- Glossary expanded with 11 new terms
+
 ### Strategy Section Launch
 
 - New top-level **Strategy** section added to navigation

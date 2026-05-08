@@ -11,11 +11,14 @@ Everything related to your army — composition, training, and deployment.
 
 - **[Troop Ratios](/troops/ratios)** — Verified Infantry/Lancer/Marksman splits for every activity. By role (Lead/Join/Garrison/Solo) and event type. Generation-sensitive notes where applicable.
 
+## Combat Mechanics
+
+Looking for how to fight, not what to bring? The [Combat](/combat/) section covers rally mechanics, garrison swaps, troop replenishment, and pet buff interactions.
+
 ## Coming Soon
 
 - **Promotion vs. Training** — when to promote, when to train fresh, and the math behind each
 - **Tier Progression** — T1 through T11 (and FC tiers), unlock requirements, and which tiers are worth your time
-- **Deployment Strategy** — march composition, hero pairing, and timing tricks
 
 ## Where to Start
 

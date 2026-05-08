@@ -38,6 +38,7 @@ export default defineConfig({
       { text: 'Events', link: '/events/' },
       { text: 'Strategy', link: '/strategy/' },
       { text: 'Troops', link: '/troops/' },
+      { text: 'Combat', link: '/combat/' },
       { text: 'Reference', link: '/reference/glossary' },
     ],
 
@@ -78,7 +79,7 @@ export default defineConfig({
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
             {
               text: 'Daybreak Island',
-              collapsed: false,
+              collapsed: true,
               items: [
                 { text: 'Overview', link: '/strategy/island/' },
                 { text: 'Building Priorities', link: '/strategy/island/buildings' },
@@ -86,6 +87,52 @@ export default defineConfig({
                 { text: 'Progression Guide', link: '/strategy/island/progression' },
               ],
             },
+            {
+              text: 'Heroes',
+              collapsed: false,
+              items: [
+                { text: 'Hero Hub', link: '/strategy/heroes/' },
+                { text: 'Development Roadmap', link: '/strategy/heroes/development-roadmap' },
+                { text: 'Flint', link: '/strategy/heroes/flint' },
+                { text: 'Molly', link: '/strategy/heroes/molly' },
+                { text: 'Bahiti', link: '/strategy/heroes/bahiti' },
+                { text: 'Alonzo', link: '/strategy/heroes/alonzo' },
+                { text: 'Mia (Pipeline)', link: '/strategy/heroes/mia' },
+              ],
+            },
+            {
+              text: 'Gear',
+              collapsed: false,
+              items: [
+                { text: 'Gear Hub', link: '/strategy/gear/' },
+                { text: 'Hero Gear', link: '/strategy/gear/hero-gear' },
+                { text: 'Reforge Strategy', link: '/strategy/gear/reforge' },
+                { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
+                { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },
+              ],
+            },
+            {
+              text: 'Pets',
+              collapsed: false,
+              items: [
+                { text: 'Pet Hub', link: '/strategy/pets/' },
+                { text: 'Combat Pets', link: '/strategy/pets/combat-pets' },
+              ],
+            },
+          ],
+        },
+      ],
+      '/combat/': [
+        {
+          text: 'Combat',
+          items: [
+            { text: 'Combat Hub', link: '/combat/' },
+            { text: 'Rally Mechanics', link: '/combat/rally-mechanics' },
+            { text: 'Rally Joining', link: '/combat/rally-joining' },
+            { text: 'Garrison Swap', link: '/combat/garrison-swap' },
+            { text: 'Troop Replenishment', link: '/combat/troop-replenishment' },
+            { text: 'Pet Buffs', link: '/combat/pet-buffs' },
+            { text: 'Pre-Battle Checklist', link: '/combat/pre-battle-checklist' },
           ],
         },
       ],

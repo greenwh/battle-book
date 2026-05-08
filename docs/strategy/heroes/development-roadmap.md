@@ -6,69 +6,92 @@ description: Phased hero progression from Gen 1 Furnace 20 through Gen 3 — for
 # Hero Development Roadmap
 
 ::: info Quick take
-This roadmap covers hero progression from your first Epic roster through Gen 3 transitions. Follow the phases in order — each builds on the previous one. Skip a phase and you'll hit walls later.
+This roadmap covers hero progression from your free starting roster through Gen 3 transitions. Follow the phases in order — each builds on the previous one. Skip a phase and you'll hit walls later.
 :::
 
-## Phase 1: Epic Foundation (F18–F22)
+## Your Starting Roster
 
-You start with Epic heroes from story progression. Your initial roster should include one of each troop type.
+Every player receives the same core roster at no cost:
 
-**Typical Gen 1 starter roster:**
-- Sergey (Infantry) — your frontline tank
-- Gina (Marksman) — resource production hero, weak in combat but useful for gathering
-- Jessie (Lancer) — becomes an S-tier rally joiner later, develop her Expedition skills early
+| Hero | Type | Rarity | Role |
+|---|---|---|---|
+| **Molly** | Lancer | **Mythic** | Your only Mythic from the start — strongest hero on day one |
+| **Bahiti** | Marksman | Epic | Best Epic Marksman in the game — serves you for months |
+| **Sergey** | Infantry | Epic | Frontline tank, later a strong defensive rally joiner |
+| **Jessie** | Lancer | Epic | Becomes an S-tier offensive rally joiner — Stand at Arms is elite |
+| **Gina** | Marksman | Epic | Resource production hero — useful for gathering, weak in combat |
 
-**What to do:**
-- Level all three to 60+
+This is a solid foundation. Molly being Mythic from the start means you have a competitive Lancer immediately. The four Epics fill every role you need while you save for your first Lucky Wheel hero.
+
+::: tip Paid heroes exist but aren't required
+Spenders can access heroes like Jeronimo, Natalia, Zinman, and Philly through packs and events. These are strong (Jeronimo is an S-tier rally joiner), but the F2P roster above is fully competitive through Gen 2. This roadmap assumes minimal or no spending.
+:::
+
+## Phase 1: Develop Your Free Roster (F18–F22)
+
+You already have five heroes including a Mythic. The goal is to get them all competitive.
+
+**Molly (your #1 priority):**
+- She's Mythic — her stat ceiling is much higher than the Epics. Invest in her first.
+- Push Molly's priority gear (Goggles + Boots for Lancer) toward Mythic, enhance to +30 minimum
+- Level Snow's Grace (Expedition skill) to Lv3, then Lv4 when manuals allow
+- Push her Exploration skills to Lv3+ for Arena
+- Molly shards come from normal gameplay (story, events, Hall of Heroes) — she levels naturally
+
+**Bahiti, Sergey, Jessie, Gina:**
+- Level all to 60+
 - Push stars to 3★ minimum (enables Lv4 skills)
 - Get Exploration skills to Lv3 for Arena competitiveness
 - Equip Epic gear on all priority slots, enhance to +30 minimum
-- Start saving gems for your first Lucky Wheel
+- **Jessie's Stand at Arms** (first Expedition skill): start leveling this early — it's +25% all damage dealt and makes her an S-tier rally joiner forever
 
 **Priority gear slots by troop type:**
-- Infantry (Sergey): Gloves + Belt — tanking role needs Health
-- Lancer (Jessie): Goggles + Boots — balanced but lean offensive
-- Marksman (Gina): Goggles + Boots — damage role needs Lethality
+- Molly / Jessie (Lancer): Goggles + Boots — balanced but lean offensive
+- Bahiti / Gina (Marksman): Goggles + Boots — damage role needs Lethality
+- Sergey (Infantry): Gloves + Belt — tanking role needs Health
 
-**Don't do:** Spread Skill Manuals evenly across all heroes. Focus on your primary of each type first.
+**Start saving gems for Flint's Lucky Wheel.** This is your next major milestone. Target: ~175,500 gems for 120 spins.
 
-## Phase 2: First Mythic Hero (F22–F25)
+## Phase 2: First Lucky Wheel — Flint (F22–F25)
 
-Your first Mythic hero arrives via Lucky Wheel. **Flint (Infantry) is the consensus #1 target** for Gen 1/2 servers. His January 2026 skill rework made him the strongest rally leader available to your generation.
+Flint (Mythic Infantry) arrives via Lucky Wheel. He's the consensus #1 Lucky Wheel target for Gen 1/2 servers. His January 2026 skill rework made him the strongest rally leader available to your generation.
 
 **Lucky Wheel rules:**
-- Save gems for 120 spins — this is the value ceiling
+- 120 spins is the value ceiling — don't go beyond
 - 120 spins costs approximately 175,500 gems
-- Beyond 120 spins, cost per shard increases sharply
+- Beyond 120, cost per shard increases sharply
 - Stop accumulating shards at 4★ (5★ is poor ROI for F2P)
 
 **When Flint arrives:**
-- Transfer Sergey's Infantry gear to Flint — same-type transfer is free
+- Transfer Sergey's Infantry gear to Flint — same-type transfer is free, immediate
 - Push Flint's Expedition skills to Lv4 immediately (Burning Resolve first — it's the money skill)
 - Push Flint's priority gear (Gloves + Belt) toward Mythic with enhancement to +45 minimum
-- Keep Sergey as secondary Infantry / defensive rally joiner
+- Sergey moves to secondary Infantry / defensive rally joiner
+
+**Now you have two Mythics:** Molly (Lancer, free) and Flint (Infantry, Lucky Wheel). This is a strong competitive core.
 
 ::: tip Flint shards are scarce
-Flint shards are Lucky Wheel-gated. Molly shards arrive through normal gameplay (Hall of Heroes, events). If you ever have to choose between Flint shards and Molly shards, **always choose Flint**.
+Flint shards are Lucky Wheel-gated. Molly shards arrive through normal gameplay. If you ever have to choose between Flint shards and Molly shards, **always choose Flint**.
 :::
 
-## Phase 3: Second Mythic + Roster Balance (F25–F28)
+## Phase 3: Roster Consolidation (F25–F28)
 
-**Second Mythic target: Molly (Lancer)** via Lucky Wheel or Hall of Heroes progression. She's your Lancer upgrade over Jessie for leading purposes (Jessie stays as your S-tier joiner).
+With Molly and Flint as your two Mythics, the focus shifts to rounding out the roster and pushing toward endgame.
 
-**Bahiti (Epic Marksman)** fills the Marksman slot well at this stage. She's the best Epic Marksman available and will serve you until Alonzo is ready.
+**Bahiti** fills the Marksman slot well at this stage. She's the best Epic Marksman and will serve until Alonzo is ready. Push her to:
+- 4★ (Epic shards are plentiful)
+- Mythic Goggles/Boots to +52 MF2–3
+- All Exploration skills to Lv4 (her biggest Arena impact)
 
-**What to do:**
-- Push Molly's priority gear (Goggles + Boots) to Mythic, enhance to +45
-- Begin Alonzo shard accumulation via Hall of Heroes (passive grind — 1 purchase per cycle, don't rush)
-- Push all active roster heroes' Expedition skills to Lv4
-- Bahiti: push to 4★, Mythic Goggles/Boots to +52
+**Begin Alonzo shard accumulation** via Hall of Heroes. Passive grind — 1 purchase per cycle, don't rush. Alonzo is the long-term Marksman replacement for Bahiti/Gina.
 
-**Gem discipline:** Start stockpiling gems for Mia's Lucky Wheel. On strict F2P accounts, pause Alonzo Hall of Heroes gem purchases to build the Mia fund.
+**Push all active roster heroes' Expedition skills to Lv4.** This is the competitive minimum for rally and Labyrinth content.
+
+**Gem discipline:** Start stockpiling gems for Mia's Lucky Wheel. On strict F2P accounts, pause Alonzo HoH gem purchases to build the Mia fund.
 
 ## Phase 4: Gen 2 Maturity (F28–F30)
 
-This is the consolidation phase — finishing what you've started before the Gen 3 transition.
+The consolidation phase — finishing what you've started before the Gen 3 transition.
 
 **Targets:**
 - Flint at 3–4★ with Mythic Gloves/Belt at +55+ MF3
@@ -105,14 +128,14 @@ This is the consolidation phase — finishing what you've started before the Gen
 
 ## Timeline Expectations
 
-These are rough benchmarks for active F2P/minimal-spend players:
+Rough benchmarks for active F2P/minimal-spend players:
 
 | Milestone | Estimated Time |
 |---|---|
-| Phase 1 complete (Epic foundation) | 2–3 months from game start |
-| First Lucky Wheel (Flint) | 4–6 months |
+| Phase 1 complete (free roster developed) | 2–3 months from game start |
+| Flint Lucky Wheel (Phase 2) | 4–6 months |
 | Flint at 3★ | 8–12 months |
-| Molly at 3★ with Mythic gear | 10–14 months |
+| Molly at 4★ with Mythic gear at +45 | 6–10 months (natural shard progression) |
 | Gen 3 entry (Mia available) | Server-dependent (~14–18 months) |
 | Full Gen 3 roster transition | 16–22 months |
 
@@ -120,7 +143,8 @@ These timelines vary based on spending, event participation, and alliance activi
 
 ## Related Guides
 
-- [Flint](/strategy/heroes/flint) — detailed page on the #1 hero priority
+- [Flint](/strategy/heroes/flint) — detailed page on the #1 Lucky Wheel priority
+- [Molly](/strategy/heroes/molly) — your free Mythic and long-term Lancer
 - [Gear Enhancement](/strategy/gear/hero-gear) — what gear to build and in what order
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — how free same-type transfers work
 - [Rally Joining](/combat/rally-joining) — which heroes to use as joiners vs. leaders

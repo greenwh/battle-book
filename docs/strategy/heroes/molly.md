@@ -1,21 +1,32 @@
 ---
 title: Molly
-description: Solid Gen 1 Mythic Lancer — strong now, transitional until Mia replaces her in Gen 3.
+description: Free starting Mythic Lancer — your strongest hero from day one, transitional until Mia in Gen 3.
 ---
 
 # Molly
 
 ::: info Quick take
-A-tier Lancer. Strong and reliable on Gen 1/2 servers, but she'll be replaced by Mia (Gen 3) when your server progresses. The good news: every gem you invest in Molly's gear transfers to Mia for free.
+A-tier Lancer and your only free Mythic hero. Molly is the backbone of every new player's roster — she's stronger than all four starting Epics and stays competitive through Gen 2. She'll eventually be replaced by Mia (Gen 3), but every gem you invest in her gear transfers to Mia for free.
 :::
 
 ## At a Glance
 
 - **Class:** Lancer (Mythic)
 - **Generation:** Gen 1
-- **Acquisition:** Lucky Wheel, Hall of Heroes, event shards
+- **Acquisition:** Free from story progression — every player gets her
+- **Shard sources:** Story rewards, events, Hall of Heroes (natural gameplay — no Lucky Wheel needed)
 - **Weapon:** Super Snowball Lv5
 - **Tier:** A-tier overall · Transitional — replaced by Mia in Gen 3
+
+## Why She Matters
+
+Molly is your only Mythic hero at game start. That means:
+- Her base stats are significantly higher than your four Epic heroes (Bahiti, Sergey, Jessie, Gina)
+- She has access to Mythic-tier gear and Master Forgery
+- She unlocks an exclusive weapon (Super Snowball) at 1★
+- Her skill caps are higher than Epic heroes
+
+She's your primary Lancer from day one through the entire Gen 2 lifecycle. Don't underinvest in her because "she'll be replaced" — the replacement is months or years away, and the gear investment transfers completely.
 
 ## Skills
 
@@ -38,8 +49,8 @@ A-tier Lancer. Strong and reliable on Gen 1/2 servers, but she'll be replaced by
 
 **Enhancement targets:**
 - Priority pieces: Mythic, +45 MF2
-- **Don't push past +45 MF2** — Mia inherits all this gear, and over-investing in Molly means diminishing returns
-- Widget: Level 4–6 (moderate investment)
+- **Don't push past +45 MF2** — Mia inherits all this gear, and over-investing means diminishing returns
+- Widget (Super Snowball): Level 4–6 (moderate investment)
 
 ::: tip Every Molly investment is a Mia investment
 Lancer-to-Lancer gear transfers are free. When Mia is ready, Molly's entire Mythic gear set — enhancement levels, Master Forgery, everything — transfers at zero cost. This makes Molly's gear one of the safest investments on your roster.
@@ -50,12 +61,13 @@ Lancer-to-Lancer gear transfers are free. When Mia is ready, Molly's entire Myth
 - **Rally leading** (Lancer marches) — Snow's Grace provides strong troop buffs
 - **Arena** — competitive with Exploration skills at Lv4+
 - **Expedition / Labyrinth** — reliable Lancer performance
+- **Your primary hero for the first several months** — she's your strongest hero until Flint arrives
 
 ## F2P Stopping Points
 
 | Target | Priority | Notes |
 |---|---|---|
-| 4★ | High | Gates Lv5 skills |
+| 4★ | High | Gates Lv5 skills — achievable through normal shard flow |
 | Goggles/Boots at +45 MF2 | High | Best return before Mia transition |
 | Snow's Grace → Lv4 | High | Core Expedition skill |
 | Snow's Grace → Lv5 | Moderate | If Mia is far away, worth the push |
@@ -76,9 +88,10 @@ Philly is a Gen 2 Mythic Lancer — benched, no further development planned. Don
 
 ## Related Guides
 
-- [Mia](/strategy/heroes/mia) — the Gen 3 Lancer who replaces Molly
+- [Mia](/strategy/heroes/mia) — the Gen 3 Lancer who replaces Molly (and whose gear she inherits)
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — how free same-type transfers work
 - [Development Roadmap](/strategy/heroes/development-roadmap) — where Molly fits in the progression
+- [Flint](/strategy/heroes/flint) — the first Lucky Wheel hero who joins Molly as your second Mythic
 
 ---
 

@@ -129,6 +129,46 @@ h1 {
   }
 }
 
+/* Hub link buttons (actions 3–6) — smaller and color-coded */
+.VPHero .actions .action:nth-child(n+3) .VPButton {
+  font-size: 0.72rem;
+  padding: 3px 12px;
+  border-radius: 20px;
+  background-color: transparent;
+}
+
+.VPHero .actions .action:nth-child(3) .VPButton {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+.VPHero .actions .action:nth-child(3) .VPButton:hover {
+  background-color: var(--vp-c-brand-soft);
+}
+
+.VPHero .actions .action:nth-child(4) .VPButton {
+  border-color: var(--bb-callout-danger);
+  color: var(--bb-callout-danger);
+}
+.VPHero .actions .action:nth-child(4) .VPButton:hover {
+  background-color: var(--bb-callout-danger-bg);
+}
+
+.VPHero .actions .action:nth-child(5) .VPButton {
+  border-color: var(--bb-callout-warn);
+  color: var(--bb-callout-warn);
+}
+.VPHero .actions .action:nth-child(5) .VPButton:hover {
+  background-color: var(--bb-callout-warn-bg);
+}
+
+.VPHero .actions .action:nth-child(6) .VPButton {
+  border-color: var(--bb-freq-monthly);
+  color: var(--bb-freq-monthly);
+}
+.VPHero .actions .action:nth-child(6) .VPButton:hover {
+  background-color: rgba(201, 140, 232, 0.10);
+}
+
 /* Tighten table padding for mobile */
 @media (max-width: 640px) {
   .vp-doc table {

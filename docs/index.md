@@ -17,6 +17,18 @@ hero:
     - theme: alt
       text: New Member?
       link: /orientation/new-member
+    - theme: alt
+      text: Event Guides
+      link: /events/
+    - theme: alt
+      text: Combat Basics
+      link: /combat/
+    - theme: alt
+      text: Strategy
+      link: /strategy/
+    - theme: alt
+      text: Reference & Glossary
+      link: /reference/glossary
 
 features:
   - title: Event Guides

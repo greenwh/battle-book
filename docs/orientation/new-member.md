@@ -26,7 +26,7 @@ We use a simple tier system so leadership can recognize who's active and partici
 
 - [Alliance Championship](/events/alliance-championship) (AC)
 - [Foundry Battle](/events/foundry-battle) (FB)
-- [Sunfire Castle](/events/svs/sunfire-castle) (SFC)
+- [Sunfire Castle](/events/sunfire-castle) (SFC)
 - [Bear Trap](/events/bear-trap) (BT)
 
 That's it — one event, any event. You don't need to be the strongest player or score the most points. Showing up is what counts.
@@ -39,7 +39,7 @@ That's it — one event, any event. You don't need to be the strongest player or
 2. **Teleport to the alliance hive** — use an Advanced or Territory Teleporter to move to alliance territory. Once you're in the hive, you're free to move anywhere within alliance territory. The spots closest to the [Bear Trap](/events/bear-trap) are reserved for our most active players — Bear Trap runs every other day at 1300 UTC, and proximity matters for response time.
 3. **Start your daily routine** — log in for your free chest, send alliance helps, gather resources, and join beast hunts when you see them
 4. **Introduce yourself in alliance chat** — even a quick "hi, I'm new" goes a long way. We have members from many countries and languages, so keep messages short and clear.
-5. **Browse the [Event Guides](/events)** — events rotate frequently and each one works differently. Skim the guides for whichever events are coming up so you know what to expect.
+5. **Browse the [Event Guides](/events/)** — events rotate frequently and each one works differently. Skim the guides for whichever events are coming up so you know what to expect.
 
 ## What We Expect (and Don't)
 
@@ -61,10 +61,10 @@ That's it — one event, any event. You don't need to be the strongest player or
 
 These pages cover the most important topics for getting started:
 
-- [Combat Basics](/strategy/combat) — how troops, heroes, and gear work together
-- [Growth Strategy](/strategy/growth) — what to prioritize as you level up
+- [Combat Basics](/combat/) — how troops, heroes, and gear work together
+- [Growth Strategy](/strategy/) — what to prioritize as you level up
 - [Troop Ratios](/troops/ratios) — what composition to use for each activity
-- [Event Guides](/events) — detailed breakdowns for every alliance and server event
+- [Event Guides](/events/) — detailed breakdowns for every alliance and server event
 - [Glossary](/reference/glossary) — definitions for in-game terms and abbreviations
 
 ## Questions?

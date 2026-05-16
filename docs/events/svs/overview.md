@@ -39,6 +39,18 @@ The 4-week monthly cycle:
 | 3 | SvS Prep Phase | 5.5 days of competitive scoring vs. enemy state. |
 | 4 | SvS Battle Phase | 12-hour cross-state war + 48-hour triage. |
 
+## How Scoring Works
+
+Completing a prep task adds points to **three separate buckets** at once:
+
+1. **My Points** — your personal score, drives personal leaderboard rankings and individual rewards
+2. **Alliance Points** — your alliance's score, drives alliance leaderboard rankings and alliance rewards
+3. **State Points** — your state's total score, decides Attacker vs. Defender role for the Battle Phase
+
+My Points and Alliance Points always credit the full task value. State Points are scaled by your Furnace level: at Lv. ≥16, you contribute 100% of the task value to your state. Older or higher-leveled states may have adjusted ratios for lower-Furnace members (the game indicates "Level requirements may be adjusted based on State progression").
+
+The state with more total State Points at the end of Prep Phase becomes the **Attacker** and gains the State Bonus. The state with fewer points hosts the Cross-State Castle Battle on their territory.
+
 ## Predicting When SvS Will Arrive
 
 Two reliable signals:
@@ -51,7 +63,7 @@ Two reliable signals:
 
 You don't need to hold everything. Daily activities (dailies, gathering, beast hunting, regular training) are fine.
 
-**Hold for SvS:** Fire Crystals, Refined Fire Crystals, Construction/Research/Training Speedups, Mithril, Hero Shards (Mythic & Epic), Lucky Chips, Stamina Cans, Essence Stones, Exclusive Gear Widgets, Chief Gear materials, XP Components.
+**Hold for SvS:** Fire Crystals, Refined Fire Crystals, Construction/Research/Training Speedups, Mithril, Hero Shards (Mythic & Epic), Lucky Chips, Stamina Cans, Wild Marks (Common and Advanced), Essence Stones, Exclusive Gear Widgets, Chief Gear materials, XP Components.
 
 </Callout>
 
@@ -161,11 +173,43 @@ Lost troops can be revived at up to **90% rate**:
 
 Healing Speed (+20%) and Healing Capacity buffs are separate mechanics that affect infirmary throughput, not revival rate.
 
+**Exclusion:** Troops in the Enlistment Office at the time of revival calculation are not eligible for revival. The revival count is based on the Battle Phase battle report only.
+
 <Callout type="tip" title="Triage etiquette">
 
 If you lost few troops, wait a day before requesting Rebirth Tomes. Let players with heavy losses get priority assistance first. Coordinate revival order in alliance chat so tomes go where they have the most impact.
 
 </Callout>
+
+## Alliance Rewards & Tally Phase
+
+<Callout type="warn" title="Don't leave the alliance before tally">
+
+Alliance rewards will **not** be distributed to members who leave the alliance before the tally phase. This includes members who alliance-hop during the Battle Phase or the Field Triage window.
+
+If you're considering changing alliances, wait until after rewards are issued. Leaving early means forfeiting your full share of alliance leaderboard rewards, ranking rewards, and any alliance-tier bonuses.
+
+</Callout>
+
+**For alliance leaders:** post a reminder in chat during the 10:00–11:00 UTC alliance lock-in window on Battle Saturday. Newer members may not know this rule and may try to switch alliances for the castle fight, costing themselves rewards.
+
+## Outcome Scenarios
+
+The combination of Prep Phase result and Castle Battle result determines the presidential structure for both states:
+
+| Prep | Castle | Outcome |
+|---|---|---|
+| ✅ Win | ✅ Win | **Supreme President** — your alliance controls both states |
+| ✅ Win | ❌ Loss | **Split Presidents** — each state appoints its own local president |
+| ❌ Loss | ✅ Win | **Split Presidents** — each state appoints its own local president |
+| ❌ Loss | ❌ Loss | **Enemy Supreme President** — enemy alliance controls both states |
+
+The **Supreme President** is a single role created when the Attacker (the state that won prep) also wins the Castle Battle. The Supreme President:
+
+- Holds the state-wide Lethality buff for both states (2-week duration)
+- Controls **minister appointments** in both states (not just their own)
+- Controls **reward issuance** for both states (alliance rewards, minister rewards, ranking distribution)
+- The losing state has no local president for the round — the presidency is vacant
 
 ## Strategy by Player Type
 
@@ -229,4 +273,4 @@ If you lost few troops, wait a day before requesting Rebirth Tomes. Let players 
 
 ---
 
-*Last verified: April 2026 · Sources: Helpshift official rules, whiteoutsurvival.wiki, wostools.net SvS calculator, community consensus from r/WhiteoutSurvival and major Discord servers. Patch reference: October 22, 2025 castle battle rule change (5h battle / 2.5h win).*
+*Last verified: May 2026 · Sources: In-game Rules and Phases screens (May 2026 SVS event), Helpshift official rules, whiteoutsurvival.wiki, wostools.net SvS calculator, community consensus from r/WhiteoutSurvival and major Discord servers. Patch reference: October 22, 2025 castle battle rule change (5h battle / 2.5h win).*

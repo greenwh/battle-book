@@ -10,6 +10,22 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### SVS Rules & Prep Phase Verification
+
+- Verified all SVS rules content against May 2026 in-game Rules and Phases screens
+- **Added:** Alliance Rewards & Tally Phase rule (members who leave before tally forfeit rewards) — affects overview, new-member, and prep checklist
+- **Added:** How Scoring Works subsection explaining My Points / Alliance Points / State Points distinction
+- **Added:** State Point Ratio mechanic by Furnace level (Lv. ≥16 = 100%)
+- **Clarified:** Supreme President controls minister appointments and reward issuance for both states (previously only buffs/prestige described)
+- **Clarified:** Losing state's presidency is vacant when Supreme President is appointed (not split)
+- **Added:** Field Triage exclusion for troops in Enlistment Office
+- **Updated:** Prep checklist Training Speedups framing (scores on Days 1, 2, 5; used on Day 4 for troop completion only)
+- **Added:** Universal "verify in-game before spending" callout at top of prep checklist
+- **Added:** Wild Marks (Pet Refinement) to Day 3 and Day 5 prep checklist
+- **Flagged for next-SVS verification:** "3 free cross-state teleports" claim, "Healing Capacity" State Bonus type
+- [ ] **Verify in-game (next SVS):** Confirm "3 free cross-state teleports per player" is still current. May 2026 in-game rules didn't specify quantity.
+- [ ] **Verify in-game (next SVS):** Confirm what specific buff the State Bonus grants in the current event. Battle book says Healing Capacity; in-game says generic "State Bonus."
+
 ### Combat Section Launch
 
 - New top-level **Combat** section with 6 guides: Rally Mechanics, Rally Joining, Garrison Swap, Troop Replenishment, Pet Buffs, Pre-Battle Checklist

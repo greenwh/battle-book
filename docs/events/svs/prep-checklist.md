@@ -11,6 +11,12 @@ description: Day-by-day actions for the SvS Preparation Phase. Mobile-friendly, 
 
 </Callout>
 
+<Callout type="warn" title="Always verify in-game before spending">
+
+The in-game Prep Phase panel is the only ground truth for what scores on which day. Specific scoring items can change between SVS events — items in this checklist were verified against the May 2026 event but may vary in future events. **Open the in-game Phases tab before spending any premium item**, especially Mithril, Fire Crystals, Wild Marks, Hero Shards, and Speedups.
+
+</Callout>
+
 All times UTC.
 
 ## Pre-SvS Week (when KoI appears in calendar)
@@ -27,6 +33,7 @@ All times UTC.
 - [ ] Spend Fire Crystals on building/research upgrades (2,000 pts each)
 - [ ] Use some Refined FC (30,000 pts each) — save some for Day 5
 - [ ] Burn Construction & Research Speedups (30 pts/min)
+- [ ] Training Speedups also score 30 pts/min today — burn any you don't need for Day 4 troop completion
 - [ ] Upgrade Chief Charm (70 pts/score point)
 - [ ] **At 16:00 UTC: send gathering marches out** so they return early Day 2
 
@@ -49,6 +56,7 @@ All times UTC.
 - [ ] Coordinate rotation with alliance so everyone gets turns leading
 - [ ] Solo Lv 26–30 beasts (12,000 pts each — highest level you can reliably beat)
 - [ ] Burn all Stamina Cans
+- [ ] Use Wild Marks (Pet Refinement / Pet Advanced Refinement in-game) — Advanced 15,000 pts, Common 1,150 pts
 - [ ] Chief Charm continues to score
 - [ ] Turn on auto-hunt if you'll be AFK; turn on rally auto-join to help alliance hunts
 
@@ -60,7 +68,7 @@ All times UTC.
 - [ ] Promote troops first (more pts per troop than fresh training of the same tier)
 - [ ] Train troops (T11 = 75 pts, T10 = 60 pts each)
 - [ ] Pre-trained batch from Day 2/3 finishes here
-- [ ] Burn Training Speedups
+- [ ] **Use Training Speedups to complete more troops** — speedups themselves don't score on Day 4, but the extra troops they finish DO (T10 = 60 pts, T11 = 75 pts each)
 - [ ] Chief Charm still scores
 
 ---
@@ -72,7 +80,9 @@ All times UTC.
 - [ ] Chief Gear Score upgrades (~36 pts per score point)
 - [ ] Any leftover Mithril (same rate as Day 4)
 - [ ] **Reforge trick:** reforge actively-used Epic gear (100% material refund), then re-enhance the same gear in this same window — scores Day 5 points and you're back to full combat power before Saturday's battle
-- [ ] Use up remaining Fire Crystals, Refined FC, all speedup types, FC Shards
+- [ ] Use up remaining Fire Crystals, Refined FC, FC Shards
+- [ ] Burn any leftover Training, Construction, Research speedups (30 pts/min each)
+- [ ] Use any remaining Wild Marks (Pet Refinement / Pet Advanced Refinement) — same rates as Day 3
 - [ ] Don't leave it to the last hour — Day 5 ends Saturday 10:00 UTC sharp
 
 ---
@@ -104,4 +114,4 @@ Not prep, but useful to know:
 
 ---
 
-*Last verified: April 2026*
+*Last verified: May 2026 · Verified against in-game Rules and Phases screens (May 2026 SVS event)*

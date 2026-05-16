@@ -49,6 +49,7 @@ That's it — one event, any event. You don't need to be the strongest player or
 - **Send alliance helps** — tap those help buttons whenever you see them. It costs you nothing and saves everyone time.
 - **Join events when you can** — alliance events are how we grow together. Show up, follow the posted plan, and ask if you're unsure.
 - **Communicate** — if you'll be offline, let an officer know. If you have questions, ask in alliance chat.
+- **Don't alliance-hop before SVS tally** — if you leave the alliance before rewards are distributed (after Battle Phase + Field Triage), you forfeit all alliance rewards from that SVS. See the [SvS Overview](/events/svs/overview) for full details.
 
 **We don't expect:**
 

@@ -28,39 +28,39 @@ Every Furnace level from 20 to 30 requires prerequisite buildings (Embassy, Rese
 
 | Building | Wood (M) | Meat (M) | Coal (M) | Iron (M) | Base Time |
 |----------|----------|----------|----------|----------|-----------|
-| Furnace 20→21 | 21 | 21 | 4.3 | 1.0 | 3d 10h 18m |
 | Embassy 19→20 | 14 | 14 | 2.8 | 0.7 | 1d 18h 0m |
 | Research Center 19→20 | 10 | 10 | 2.0 | 0.5 | 1d 2h 0m |
-| Furnace 21→22 | 28 | 28 | 5.6 | 1.4 | 4d 14h 15m |
+| Furnace 20→21 | 21 | 21 | 4.3 | 1.0 | 3d 10h 18m |
 | Embassy 20→21 | 18 | 18 | 3.6 | 0.9 | 2d 4h 0m |
 | Infantry Camp 20→21 | 12 | 12 | 2.4 | 0.6 | 1d 6h 0m |
-| Furnace 22→23 | 36 | 36 | 7.2 | 1.8 | 6d 16h 29m |
+| Furnace 21→22 | 28 | 28 | 5.6 | 1.4 | 4d 14h 15m |
 | Embassy 21→22 | 23 | 23 | 4.6 | 1.2 | 2d 18h 0m |
 | Marksman Camp 21→22 | 16 | 16 | 3.2 | 0.8 | 1d 12h 0m |
-| Furnace 23→24 | 44 | 44 | 8.9 | 2.2 | 9d 8h 40m |
+| Furnace 22→23 | 36 | 36 | 7.2 | 1.8 | 6d 16h 29m |
 | Embassy 22→23 | 29 | 29 | 5.8 | 1.5 | 3d 8h 0m |
 | Lancer Camp 22→23 | 20 | 20 | 4.0 | 1.0 | 1d 18h 0m |
-| Furnace 24→25 | 60 | 60 | 12.0 | 3.0 | 13d 2h 33m |
+| Furnace 23→24 | 44 | 44 | 8.9 | 2.2 | 9d 8h 40m |
 | Embassy 23→24 | 38 | 38 | 7.6 | 1.9 | 4d 12h 0m |
 | Research Center 23→24 | 26 | 26 | 5.2 | 1.3 | 2d 8h 0m |
-| Furnace 25→26 | 81 | 81 | 16.0 | 4.0 | 18d 8h 22m |
+| Furnace 24→25 | 60 | 60 | 12.0 | 3.0 | 13d 2h 33m |
 | Embassy 24→25 | 50 | 50 | 10.0 | 2.5 | 6d 0h 0m |
 | Infantry Camp 24→25 | 35 | 35 | 7.0 | 1.8 | 3d 0h 0m |
-| Furnace 26→27 | 100 | 100 | 21.0 | 5.2 | 21d 2h 26m |
+| Furnace 25→26 | 81 | 81 | 16.0 | 4.0 | 18d 8h 22m |
 | Embassy 25→26 | 63 | 63 | 12.6 | 3.2 | 7d 12h 0m |
 | Marksman Camp 25→26 | 44 | 44 | 8.8 | 2.2 | 3d 18h 0m |
-| Furnace 27→28 | 140 | 140 | 24.0 | 7.4 | 25d 7h 43m |
+| Furnace 26→27 | 100 | 100 | 21.0 | 5.2 | 21d 2h 26m |
 | Embassy 26→27 | 80 | 80 | 16.0 | 4.0 | 9d 0h 0m |
 | Lancer Camp 26→27 | 55 | 55 | 11.0 | 2.8 | 4d 12h 0m |
-| Furnace 28→29 | 190 | 190 | 39.0 | 9.9 | 29d 2h 52m |
+| Furnace 27→28 | 140 | 140 | 24.0 | 7.4 | 25d 7h 43m |
 | Embassy 27→28 | 95 | 95 | 19.0 | 4.8 | 11d 4h 0m |
 | Research Center 27→28 | 59 | 59 | 11.0 | 2.9 | 3d 19h 9m |
-| Furnace 29→30 | 240 | 240 | 49.0 | 12.0 | 33d 11h 42m |
+| Furnace 28→29 | 190 | 190 | 39.0 | 9.9 | 29d 2h 52m |
 | Embassy 28→29 | 120 | 120 | 24.0 | 6.0 | 13d 0h 0m |
 | Infantry Camp 28→29 | 69 | 69 | 13.0 | 3.4 | 4d 8h 49m |
-| Furnace 30 | 300 | 300 | 60.0 | 15.0 | 40d 4h 27m |
+| Furnace 29→30 | 240 | 240 | 49.0 | 12.0 | 33d 11h 42m |
 | Embassy 29→30 | 150 | 150 | 30.0 | 7.5 | 15d 0h 0m |
 | Marksman Camp 29→30 | 86 | 86 | 17.0 | 4.3 | 5d 0h 33m |
+| Furnace 30 | 300 | 300 | 60.0 | 15.0 | 40d 4h 27m |
 | **GRAND TOTAL** | **2,352** | **2,352** | **467.6** | **118.7** | **313d 6h 18m** |
 
 ::: warning

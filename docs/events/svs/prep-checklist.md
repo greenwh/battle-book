@@ -22,7 +22,7 @@ All times UTC.
 ## Pre-SvS Week (when KoI appears in calendar)
 
 - [ ] Confirm SvS arrives in ~2 weeks
-- [ ] Stop spending: Fire Crystals, Refined FC, Mithril, Construction/Research/Training Speedups, Hero Shards (Mythic & Epic), Lucky Chips, Stamina Cans, Essence Stones, Exclusive Gear Widgets, Chief Gear materials, XP Components
+- [ ] Stop spending: Fire Crystals, Refined FC, Mithril, Construction/Research/Training Speedups, Hero Shards (Mythic & Epic — hero-specific only, NOT General Shards), Lucky Chips, Stamina Cans, Essence Stones, Exclusive Gear Widgets, Chief Gear materials, Wild Marks (Common + Advanced)
 - [ ] **Don't reforge gear yet** — wait until Day 5
 - [ ] Continue normal activity: dailies, gathering, beast hunting with normal stamina, regular training
 
@@ -41,8 +41,8 @@ All times UTC.
 
 ## Day 2 — Tuesday 00:00 UTC · Basic Skills Up
 
-- [ ] Use Mythic Hero Shards first (3,040 pts each — best ratio)
-- [ ] Use Epic Hero Shards (1,220 pts each), then Rare (350 pts each)
+- [ ] Use hero-specific shards (Mythic 3,040 pts, Epic 1,220 pts, Rare 350 pts) — burn Mythic first for best ratio
+- [ ] **General Shards do NOT score** — do not burn them expecting points
 - [ ] Lucky Wheel spins (8,000 pts each)
 - [ ] Collect gathering rewards as marches return
 - [ ] Any leftover Fire Crystals still score
@@ -76,13 +76,16 @@ All times UTC.
 ## Day 5 — Friday 00:00 → Saturday 10:00 UTC · Power Boost (34 hours)
 
 - [ ] Burn the entire remaining stockpile — almost everything scores at full rate
-- [ ] Hero Gear enhancement: pour in XP Components, feeder gear, Essence Stones (4,000 pts each), Exclusive Gear Widgets (8,000 pts each)
+- [ ] Apply Essence Stones via Master Forgery (4,000 pts each)
+- [ ] Apply Hero Exclusive Gear Widgets (8,000 pts each)
+- [ ] **Do NOT burn XP Components or feeder gear** — hero gear enhancement does not score in SVS
+- [ ] **Note:** The reforge trick does not work — re-enhancing after reforge does not score
 - [ ] Chief Gear Score upgrades (~36 pts per score point)
 - [ ] Any leftover Mithril (same rate as Day 4)
-- [ ] **Reforge trick:** reforge actively-used Epic gear (100% material refund), then re-enhance the same gear in this same window — scores Day 5 points and you're back to full combat power before Saturday's battle
 - [ ] Use up remaining Fire Crystals, Refined FC, FC Shards
 - [ ] Burn any leftover Training, Construction, Research speedups (30 pts/min each)
 - [ ] Use any remaining Wild Marks (Pet Refinement / Pet Advanced Refinement) — same rates as Day 3
+- [ ] Pet Advancement also scores Day 5
 - [ ] Don't leave it to the last hour — Day 5 ends Saturday 10:00 UTC sharp
 
 ---
@@ -90,7 +93,8 @@ All times UTC.
 ## Saturday 09:45 UTC — Pre-Battle
 
 - [ ] **SHIELD UP** if not actively fighting
-- [ ] Confirm alliance assignment for Castle Battle (lock-in window 10:00–11:00)
+- [ ] Confirm alliance assignment for Castle Battle (designated 10:00–11:00 window, but transfers may remain open after 11:00 — be in position by 11:00 to be safe)
+- [ ] **Plan your pre-SVS position** — Return-Home button places you at your pre-SVS spot if clear, "close" if blocked. Position somewhere acceptable before SVS week starts.
 - [ ] Rally compositions pre-built
 
 ---
@@ -105,7 +109,9 @@ Not prep, but useful to know:
 | 11:00 | Sunfire Castle red zone opens |
 | 12:00 | Castle Battle begins |
 | ~17:00 | Castle ends — **re-shield immediately, don't drop** |
-| 22:00 | Portal closes, Field Triage opens (90% revival window) |
+| 22:00 | Portal closes, Field Triage opens (90% revival window) — **tally phase, rewards distributed** |
+
+- [ ] **If jumping to battle alliance:** plan to be stuck close to your original spot from ~17:00 UTC (Castle end) until 22:00 UTC (tally) before you can rejoin home alliance and teleport to home territory
 
 ## Related Guides
 

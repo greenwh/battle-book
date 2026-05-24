@@ -10,6 +10,35 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### SVS Documentation Overhaul — Battle-Day Lessons Incorporated
+
+Major corrections from the May 2026 SVS event, including in-game rules verification and actual battle-day observations:
+
+**Critical corrections (previously wrong):**
+- **Same-state alliances are ENEMIES in SVS Castle Battle**, not friendlies — previously implied otherwise in overview and Sunfire Castle pages. Cannot join allied rallies or reinforce same-state alliances. Blue label ≠ friendly.
+- **Reforge trick removed** — hero gear enhancement does not score in SVS. Only Essence Stones (Master Forgery) and Hero Exclusive Gear Widgets score.
+- **Alliance lock at 11:00 UTC is not enforced** — softened from "locked" to "designated window; transfers may remain open past 11:00."
+
+**Additions:**
+- Same-state alliance enemy behavior + battle alliance jump strategy for small alliances
+- 22:00 UTC tally time now explicit throughout (overview, new-member, prep checklist)
+- General Shards excluded from prep scoring (only hero-specific shards score)
+- Cross-state teleporter behavior: 3 free SoP teleports land randomly; Advanced Teleporters give controlled positioning
+- Return-Home button mechanics and post-battle alliance constraint (~17:00–22:00 stuck window)
+- Field Triage exclusion for troops in Enlistment Office
+- Supreme President controls minister appointments and reward issuance for both states
+- Losing state's presidency is vacant when Supreme President is appointed
+- Wild Marks (Pet Refinement / Pet Advanced Refinement) added to Day 3 and Day 5 prep checklist
+- Pet Advancement also scores Day 5
+- Universal "verify in-game before spending" callout at top of prep checklist
+- Training Speedups corrected framing (scores Days 1/2/5; used on Day 4 for troop completion)
+- Three-bucket scoring model (My Points / Alliance Points / State Points)
+
+**Flagged for next-SVS verification:**
+- [ ] **Verify in-game (next SVS):** Confirm what specific buff the State Bonus grants. Battle book says Healing Capacity.
+
+---
+
 ### SVS Rules & Prep Phase Verification
 
 - Verified all SVS rules content against May 2026 in-game Rules and Phases screens
@@ -100,7 +129,7 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 - Covers the 5-hour intra-state battle structure (October 2025 patch: 5-hour/2.5-hour consecutive hold rule for all servers), Sunfire Castle turret mechanics (compound attack strength against castle holders — turret control is a strategic multiplier, not just a side objective), and the Alert Zone (random teleport 2 hours before; voluntary teleport in permanently deactivates shield)
 - Details the three scoring types (Carnage Points from defeating enemies, Occupation Points from troop power while holding positions, Casualty Points from your own wounded troops — making even failed attacks rewarding), the batch-healing-loop technique for F2P point maximization on turrets, and the double-rally counter-attack for final-push scenarios
-- Includes the critical same-state vs. SvS distinction (same-state alliances are enemies here but friendlies during SvS Castle Battle), role-based strategy from F2P through R5 coordinator, and the note that all mechanics transfer directly to SvS Castle Battle
+- Includes the same-state enemies rule (same-state alliances are enemies in both this domestic event AND in SvS Castle Battle — corrected in May 2026), role-based strategy from F2P through R5 coordinator, and the note that all mechanics transfer directly to SvS Castle Battle
 
 ### Canyon Clash Guide Added
 

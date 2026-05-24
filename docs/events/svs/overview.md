@@ -63,7 +63,7 @@ Two reliable signals:
 
 You don't need to hold everything. Daily activities (dailies, gathering, beast hunting, regular training) are fine.
 
-**Hold for SvS:** Fire Crystals, Refined Fire Crystals, Construction/Research/Training Speedups, Mithril, Hero Shards (Mythic & Epic), Lucky Chips, Stamina Cans, Wild Marks (Common and Advanced), Essence Stones, Exclusive Gear Widgets, Chief Gear materials, XP Components.
+**Hold for SvS:** Fire Crystals, Refined Fire Crystals, Construction/Research/Training Speedups, Mithril, Hero Shards (Mythic & Epic — hero-specific only, not General Shards), Lucky Chips, Stamina Cans, Wild Marks (Common and Advanced), Essence Stones, Exclusive Gear Widgets, Chief Gear materials.
 
 </Callout>
 
@@ -116,13 +116,9 @@ Use Mythic Hero Shards first, then Epic, then Rare. Lucky Wheel spins. Collect g
 ### Preparation Phase — Day 5 (Friday 00:00 → Saturday 10:00 UTC)
 **Power Boost · 34 hours**
 
-The "everything counts" day. Hero Gear enhancement (XP Components, feeder gear, Essence Stones, Exclusive Gear Widgets), Chief Gear Score, leftover Mithril, leftover Fire Crystals — burn the entire stockpile.
+The "everything counts" day. Chief Gear Score, leftover Mithril, leftover Fire Crystals, remaining Training/Construction/Research Speedups, Wild Marks — burn the entire stockpile.
 
-<Callout type="tip" title="The reforge trick">
-
-On Day 5, you can reforge actively-used Epic gear (100% material refund), then re-enhance the same gear in the same window. Scores Day 5 points and you're back to full combat power before Saturday's battle starts at 12:00 UTC. Two birds, same stone.
-
-</Callout>
+**Hero gear scoring:** Only **Essence Stones** (via Master Forgery, 4,000 pts each) and **Hero Exclusive Gear Widgets** (8,000 pts each) score on Day 5 hero gear. Raw hero gear enhancement — XP Components, feeder gear consumption — does **not** score. Do not burn XP Components expecting points.
 
 ### Saturday 10:00 UTC — Prep Ends, Battle Phase Begins
 
@@ -134,13 +130,35 @@ If you're not actively fighting, **shield up before 10:00 UTC**. The Transfer Po
 
 </Callout>
 
-### Saturday 10:00–11:00 UTC — Alliance Window
+<Callout type="warn" title="Cross-State Teleports: free vs. Advanced">
 
-Players can switch alliances for the Castle Battle. Confirm your assignment with R4/R5 in advance. After 11:00 UTC, alliance assignments lock for castle scoring.
+You have 3 free cross-state teleports on the State of Power event page. **These teleport you to a random location in the opposing state — you do not pick the spot.**
+
+To control where you land (e.g., to teleport into a coordinated rally position), use an **Advanced Teleporter** instead. The free teleports are useful only when any landing spot in the opposing state is acceptable.
+
+</Callout>
+
+### Saturday 10:00–11:00 UTC — Designated Alliance Switching Window
+
+Players can switch alliances for the Castle Battle. Confirm your assignment with R4/R5 in advance.
+
+<Callout type="info" title="Alliance switching may stay open past 11:00 UTC">
+
+The official window is 10:00–11:00 UTC, but in the May 2026 SVS event, members were observed transferring into the battle alliance well after 11:00 UTC. Don't rely on the window strictly closing — but also don't count on it staying open. Aim to be in your designated battle alliance before 11:00 UTC to be safe.
+
+</Callout>
 
 ### Saturday 11:00 UTC — Sunfire Castle Red Zone Opens
 
-Teleportation directly into the castle area becomes available. Castle turrets activate. Same-state alliances are treated as friendlies — turrets don't fire on your allied alliances, and your marches won't accidentally attack them.
+Teleportation directly into the castle area becomes available. Castle turrets activate.
+
+<Callout type="danger" title="Same-state alliances are still enemies in SVS Castle Battle">
+
+Same-state alliances are labeled blue (not red), but you **cannot** join their rallies or reinforce their marches. The only way to participate in the attack or defense is to be a member of the alliance leading the fight.
+
+**If you're in a small alliance**, plan ahead with state leadership to identify the designated "battle alliance" for SVS. Jump to that alliance before 11:00 UTC if you want to contribute to the castle fight. Stay through 22:00 UTC tally to receive alliance rewards.
+
+</Callout>
 
 ### Saturday 12:00 UTC — Castle Battle Begins
 
@@ -159,6 +177,26 @@ Per the October 22, 2025 patch, this 2.5-hour win / 5-hour battle rule applies t
 ### Saturday 22:00 UTC — Portal Closes, Field Triage Begins
 
 Cross-state movement ends. Final leaderboards lock. The 48-hour Field Triage window opens.
+
+## After the Battle: Return-Home Mechanics
+
+The State of Power event page has a **"Return to your State"** button that sends you back to your home state. Useful behavior to know:
+
+- It places you at your **original pre-SVS spot** if that spot is clear
+- If the spot is blocked (beasts, resource nodes, new buildings, etc.), it places you "close" — which can be a significant distance from your intended position
+- Plan your pre-SVS positioning with this in mind. If you teleport elsewhere before SVS, your Return-Home destination is wherever you were at SVS start
+
+**The alliance constraint:** If you jumped to the battle alliance for the Castle Battle and need to stay through 22:00 UTC tally to get rewards, you'll be **stuck wherever Return-Home placed you** until you can rejoin your home alliance after 22:00 UTC. You cannot teleport onto home alliance territory while you're a member of a different alliance.
+
+**Practical sequence for battle-alliance jumpers:**
+
+1. Before SVS week, position your city in a spot you're willing to return to (ideally on or adjacent to a teleporter-friendly clear tile)
+2. Jump to the battle alliance for Castle Battle participation
+3. After Castle Battle ends (~17:00 UTC), use Return-Home to get back to your state
+4. Stay in the battle alliance until 22:00 UTC tally
+5. After 22:00 UTC tally rewards are issued, rejoin home alliance and teleport onto home territory
+
+Plan ahead — the gap between Castle Battle end (~17:00) and tally (22:00) is 5 hours of being stuck near your original spot but unable to teleport to alliance territory.
 
 ### Field Triage (Sat 22:00 → Mon 23:59 UTC)
 
@@ -183,15 +221,17 @@ If you lost few troops, wait a day before requesting Rebirth Tomes. Let players 
 
 ## Alliance Rewards & Tally Phase
 
-<Callout type="warn" title="Don't leave the alliance before tally">
+<Callout type="warn" title="Don't leave the alliance before 22:00 UTC tally">
 
-Alliance rewards will **not** be distributed to members who leave the alliance before the tally phase. This includes members who alliance-hop during the Battle Phase or the Field Triage window.
+Alliance rewards are **not** distributed to members who leave the alliance before the tally phase (**22:00 UTC on battle Saturday**). This includes members who alliance-hop during the Battle Phase or the early Field Triage window.
 
-If you're considering changing alliances, wait until after rewards are issued. Leaving early means forfeiting your full share of alliance leaderboard rewards, ranking rewards, and any alliance-tier bonuses.
+If you jumped alliances to participate in the Castle Battle, **stay in the battle alliance until 22:00 UTC** to receive your share of rewards. After tally, you can return to your home alliance.
 
 </Callout>
 
-**For alliance leaders:** post a reminder in chat during the 10:00–11:00 UTC alliance lock-in window on Battle Saturday. Newer members may not know this rule and may try to switch alliances for the castle fight, costing themselves rewards.
+**Practical implication:** Plan your alliance position before SVS battle day. If you intend to jump to a larger "battle alliance" for the Castle Battle (see [Same-State Alliances Are Enemies](#saturday-11-00-utc-sunfire-castle-red-zone-opens) below), you'll be in the battle alliance from ~10:00 UTC until 22:00 UTC tally before you can rejoin home alliance territory.
+
+**For alliance leaders:** post a reminder in chat during the 10:00–11:00 UTC alliance switching window on Battle Saturday. Newer members may not know this rule and may try to switch alliances for the castle fight, costing themselves rewards.
 
 ## Outcome Scenarios
 
@@ -258,7 +298,7 @@ The **Supreme President** is a single role created when the Attacker (the state 
 | Day 2 (Tue) | Hero Shards (Mythic first), Lucky Wheel |
 | Day 3 (Wed) | START Polar Terror rallies, solo high-level beasts |
 | Day 4 (Thu) | **MITHRIL.** Promote troops. |
-| Day 5 (Fri+Sat AM) | Burn everything left. Reforge-and-re-enhance trick. |
+| Day 5 (Fri+Sat AM) | Burn everything left. Essence Stones + Gear Widgets for hero gear points (not raw enhancement). |
 | Sat 09:45 UTC | **SHIELD UP** if not fighting |
 | Sat 10:00–22:00 | Battle Phase. Stay shielded if AFK. |
 | Sat 12:00 | Castle Battle begins |

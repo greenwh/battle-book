@@ -17,7 +17,9 @@ description: Whiteout Survival's biweekly intra-state castle battle. The 5-hour 
 - **Why it matters:** State presidency (whoever wins controls state-wide buffs for 2 weeks), Castle Battle Tokens for the in-event shop (Hero Shards, gear materials, gems), Carnage/Occupation/Casualty event points, and direct preparation for SvS Castle Battle which uses identical mechanics
 
 ::: warning Two Sunfire Castle events exist
-This guide covers the **Domestic** (intra-state) Sunfire Castle Battle that happens every 2 weeks within your own state. There is also an **SvS Sunfire Castle Battle** during State of Power events — same map, same building, but cross-state with different alliance friendly/enemy logic. **Same-state alliances are ENEMIES in this domestic event** but become friendlies during SvS. See the [SvS Overview](/events/svs/overview) for SvS-specific differences.
+This guide covers the **Domestic** (intra-state) Sunfire Castle Battle that happens every 2 weeks within your own state. There is also an **SvS Sunfire Castle Battle** during State of Power events — same map, same building, but cross-state.
+
+**In both versions, same-state alliances are enemies to each other.** You cannot join allied alliance rallies or reinforce them, even during SvS. The only practical way to participate in either castle battle is to be in the alliance that's leading the attack or defense. See the [SvS Overview](/events/svs/overview) for SvS-specific considerations.
 :::
 
 ## How It Works
@@ -194,7 +196,7 @@ The most effective F2P-friendly point-farming technique: attack solo or in rally
 | **Stock Healing Speedups before event** | You'll need many; pace them across 5 hours |
 | **Teleport into Alert Zone deactivates shield permanently** | Don't teleport in unless committed |
 | **Hold castle 2.5 consecutive hours OR longest cumulative time** | Updated Oct 2025 patch (was 3h/6h) |
-| **Same-state alliances are enemies (not in SvS!)** | Critical mental switch from SvS coordination |
+| **Same-state alliances are enemies (in this event AND in SvS)** | Blue label in SvS ≠ friendly — cannot join their rallies or reinforce them in either event |
 | **F2P focus: batch healing loop on a turret** | Maximizes Casualty Points without high power requirement |
 | **Turret-heavy infantry composition** | Turrets target infantry first; protect lancers/marksmen behind |
 | **Always join rallies, don't lead solo attacks** | Solo castle attacks waste troops |
@@ -205,10 +207,10 @@ The most effective F2P-friendly point-farming technique: attack solo or in rally
 
 ## Related Guides
 
-- [SvS Overview](/events/svs/overview) — same castle, different alliance friendly/enemy rules
+- [SvS Overview](/events/svs/overview) — same castle; same-state alliances are still enemies in SVS Castle Battle too
 - [Foundry Battle](/events/foundry-battle) — sister biweekly alliance event with similar phased structure
 - [Troop Ratios](/troops/ratios) — Castle attack rally (50/20/30) and garrison (60/40/0) compositions
 
 ---
 
-*Last verified: April 2026 · Sources: whiteoutsurvival.wiki Sunfire Castle page (Jan 2026 — most current), mobi.gg Sunfire Castle guide (May 2025), heaven-guardian Sunfire Castle Battle Domination Guide (Dec 2025), godlikebots Sunfire Castle Guide (Sep 2025), wos-guide.com SvS guide (Feb 2026), bluestacks SvS guide (Jan 2026). October 22, 2025 patch reflected: 5h battle / 2.5h hold rule applies to all servers including S10+. Some older guides reference deprecated 6h battle / 3h hold values.*
+*Last verified: May 2026 · Sources: whiteoutsurvival.wiki Sunfire Castle page (Jan 2026 — most current), mobi.gg Sunfire Castle guide (May 2025), heaven-guardian Sunfire Castle Battle Domination Guide (Dec 2025), godlikebots Sunfire Castle Guide (Sep 2025), wos-guide.com SvS guide (Feb 2026), bluestacks SvS guide (Jan 2026). October 22, 2025 patch reflected: 5h battle / 2.5h hold rule applies to all servers including S10+. Some older guides reference deprecated 6h battle / 3h hold values. May 2026 SVS battle-day observation: same-state alliances are enemies in SvS Castle Battle too (corrected from earlier docs).*

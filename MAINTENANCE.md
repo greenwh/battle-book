@@ -140,6 +140,22 @@ Claude does a fresh research pass and surfaces any discrepancies. You decide wha
 
 A reasonable rhythm: do this in the same week you do your tax estimates, or pick a recurring date (the 15th of every third month). Set a calendar reminder.
 
+## MANIFEST.md — Source of Truth
+
+Every Claude Code deployment session must regenerate MANIFEST.md before committing:
+
+```bash
+bash scripts/generate-manifest.sh
+git add MANIFEST.md
+```
+
+This file is what chat Claude reads at the start of any Battle Book session to know what's actually deployed. If MANIFEST.md is stale, chat Claude will plan against the wrong state and we'll end up with the kind of drift we saw in May 2026 (changelog claimed pages existed that didn't).
+
+**For chat Claude (you reading this):** at the start of any Battle Book work, fetch:
+https://raw.githubusercontent.com/greenwh/battle-book/main/MANIFEST.md
+
+That's the truth. The live site rendering can lag deployment by 2-3 minutes; the changelog can be aspirational; the project knowledge in chat is a snapshot. Only MANIFEST is the source of truth.
+
 ## When to call Claude Code (not just chat Claude)
 
 Most updates don't need Claude Code. Use Claude Code only for:

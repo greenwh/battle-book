@@ -26,15 +26,17 @@ The Furnace gates every other system in the game. Knowing the resource costs and
 
 ## Heroes
 
-Hero priorities, development roadmap, skill leveling, Lucky Wheel planning, and roster transitions across generations.
+Hero priorities, development order, skill leveling, Lucky Wheel planning, and Gen 3 transitions. Generation 3 (Mia, Greg, Logan) is now available for servers past Day 120.
 
 - [Hero Strategy Hub](/strategy/heroes/) — roster planning philosophy and hero index
-- [Development Roadmap](/strategy/heroes/development-roadmap) — Gen 1 F20 through Gen 3 progression
+- [Development Roadmap](/strategy/heroes/development-roadmap) — Gen 1 F20 through Gen 3 transition
 - [Flint](/strategy/heroes/flint) — S-tier Infantry, Jan 2026 rework, rally leader king
+- [Logan](/strategy/heroes/logan) — Gen 3 Infantry tank, defensive specialist
 - [Molly](/strategy/heroes/molly) — Gen 1 Lancer, transitional until Mia
+- [Mia](/strategy/heroes/mia) — Gen 3 Lancer, S-tier with Crystal Lv2 + Expedition Lv5
 - [Bahiti](/strategy/heroes/bahiti) — best Epic Marksman, placeholder until Alonzo
-- [Alonzo](/strategy/heroes/alonzo) — long-term Mythic Marksman
-- [Mia](/strategy/heroes/mia) — Gen 3 pipeline Lancer, future Molly replacement
+- [Alonzo](/strategy/heroes/alonzo) — Gen 2 Mythic Marksman, strong rally leader
+- [Greg](/strategy/heroes/greg) — Gen 3 Marksman, debuff specialist + rally amplifier
 
 ## Gear
 
@@ -52,6 +54,15 @@ Combat pet leveling, refinement priorities, utility pets, and pre-event activati
 
 - [Pet Strategy Hub](/strategy/pets/) — how pets work, utility pets quick reference
 - [Combat Pets](/strategy/pets/combat-pets) — all 8 combat pets, tier list, refinement rules
+
+## Dawn Academy
+
+The Expert system. Passive, account-wide bonuses across Bear Hunt, gathering, Arena, alliance events, and PvP. Unlocked at Furnace 25 once you recruit your first Expert (Cyrille) via Tundra Trek.
+
+- [Dawn Academy Hub](/strategy/dawn-academy/) — overview, daily routine, F2P philosophy
+- [The Experts](/strategy/dawn-academy/experts) — all 9 Experts with skills and priority order
+- [Trek Guide](/strategy/dawn-academy/trek-guide) — Tundra vs. Frontier Trek mechanics
+- [Resources](/strategy/dawn-academy/resources) — Affinity, Sigils, Books of Knowledge explained
 
 ## Where To Start
 

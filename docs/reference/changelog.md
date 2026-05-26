@@ -10,6 +10,32 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Dawn Academy Section Added + Gen 3 Heroes Update
+
+**Dawn Academy** (new section, 4 pages):
+
+- New `/strategy/dawn-academy/` section covering the Expert system
+- Overview hub: building mechanics, F2P philosophy, daily routine
+- The Experts: full breakdown of all 9 Experts (Cyrille, Agnes, Holger, Romulus, Baldur, Fabian, Valeria, Ronne, Kathy), with Sigil costs and priority order
+- Trek Guide: Tundra Trek vs. Frontier Trek mechanics, supply economy, why not to auto
+- Resources: Affinity gifts, Sigils, Books of Knowledge, Digits, Learning Duration
+
+**Heroes — Gen 3 Transition** (5 files):
+
+- Updated Hero Strategy hub to reflect Gen 3 availability
+- Updated Development Roadmap with Phase 5 (Gen 3 transition: Mia/Greg/Logan)
+- New Mia page (Gen 3 Lancer, replaces Molly, Lucky Wheel target, Crystal Lv2 + Expedition Lv5 = rally lead)
+- New Greg page (Gen 3 Marksman, debuff specialist, Greg vs. Alonzo decision tree)
+- New Logan page (Gen 3 Infantry tank, garrisons + Sunfire Castle holds, Logan vs. Flint decision tree)
+
+**Glossary** — Added 12 terms covering the Dawn Academy and Gen 3.
+
+**Sidebar** — Added Dawn Academy as a Strategy subsection alongside Heroes/Gear/Pets.
+
+**Sync mechanism** — Added `MANIFEST.md` to the repo root to track deployed pages across chat ↔ Claude Code sessions.
+
+---
+
 ### SVS Documentation Overhaul — Battle-Day Lessons Incorporated
 
 Major corrections from the May 2026 SVS event, including in-game rules verification and actual battle-day observations:

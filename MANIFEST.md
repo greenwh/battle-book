@@ -1,47 +1,96 @@
-import { defineConfig } from 'vitepress'
+# Battle Book — Site Manifest
 
-export default defineConfig({
-  title: 'Ice Kings Battle Book',
-  description: 'Whiteout Survival reference for State 4104 and beyond — events, heroes, combat, and strategy.',
-  base: '/battle-book/',
-  lastUpdated: true,
-  cleanUrls: true,
-  appearance: 'dark',
+This file is the **single source of truth** for what's deployed on the Battle Book.
+It's regenerated and committed by Claude Code at the end of every deployment session.
 
-  head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/battle-book/icons/favicon.svg' }],
-    ['link', { rel: 'manifest', href: '/battle-book/manifest.webmanifest' }],
-    ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/battle-book/icons/apple-touch-icon.png' }],
-    ['meta', { name: 'theme-color', content: '#0d0f14' }],
-    ['meta', { name: 'robots', content: 'index,follow' }],
-    ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Ice Kings Battle Book' }],
-    ['meta', { property: 'og:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],
-    ['meta', { property: 'og:url', content: 'https://greenwh.github.io/battle-book/' }],
-    ['meta', { property: 'og:image', content: 'https://greenwh.github.io/battle-book/og-image.png' }],
-    ['meta', { property: 'og:image:type', content: 'image/png' }],
-    ['meta', { property: 'og:image:width', content: '1200' }],
-    ['meta', { property: 'og:image:height', content: '630' }],
-    ['meta', { property: 'og:image:alt', content: 'Ice Kings Battle Book — Whiteout Survival reference for State 4104' }],
-    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Ice Kings Battle Book' }],
-    ['meta', { name: 'twitter:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],
-    ['meta', { name: 'twitter:image', content: 'https://greenwh.github.io/battle-book/og-image.png' }],
-  ],
+Raw URL for chat Claude to fetch:
+https://raw.githubusercontent.com/greenwh/battle-book/main/MANIFEST.md
 
-  themeConfig: {
-    logo: { src: '/icons/logo.svg', alt: 'Battle Book' },
-    siteTitle: 'Battle Book',
+**Last updated:** 2026-05-26 by Claude Code
+**Last deploy commit:** `a0ccb6e`
 
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Events', link: '/events/' },
-      { text: 'Strategy', link: '/strategy/' },
-      { text: 'Troops', link: '/troops/' },
-      { text: 'Combat', link: '/combat/' },
-      { text: 'Reference', link: '/reference/glossary' },
-    ],
+## Deployed Pages
 
+### `/combat/`
+
+- `/combat/garrison-swap` — garrison-swap.md
+- `/combat/` — index.md
+- `/combat/pet-buffs` — pet-buffs.md
+- `/combat/pre-battle-checklist` — pre-battle-checklist.md
+- `/combat/rally-joining` — rally-joining.md
+- `/combat/rally-mechanics` — rally-mechanics.md
+- `/combat/troop-replenishment` — troop-replenishment.md
+
+### `/events/`
+
+- `/events/alliance-championship` — alliance-championship.md
+- `/events/bear-trap` — bear-trap.md
+- `/events/canyon-clash` — canyon-clash.md
+- `/events/crazy-joe` — crazy-joe.md
+- `/events/fishing-tournament` — fishing-tournament.md
+- `/events/foundry-battle` — foundry-battle.md
+- `/events/frostfire-mine` — frostfire-mine.md
+- `/events/hall-of-chiefs` — hall-of-chiefs.md
+- `/events/` — index.md
+- `/events/king-of-icefield` — king-of-icefield.md
+- `/events/mercenary-prestige` — mercenary-prestige.md
+- `/events/snowbusters` — snowbusters.md
+- `/events/sunfire-castle` — sunfire-castle.md
+- `/events/svs/overview` — overview.md
+- `/events/svs/prep-checklist` — prep-checklist.md
+
+### `/orientation/`
+
+- `/orientation/new-member` — new-member.md
+
+### `/reference/`
+
+- `/reference/changelog` — changelog.md
+- `/reference/components-demo` — components-demo.md
+- `/reference/glossary` — glossary.md
+
+### `/strategy/`
+
+- `/strategy/dawn-academy/experts` — experts.md
+- `/strategy/dawn-academy/` — index.md
+- `/strategy/dawn-academy/resources` — resources.md
+- `/strategy/dawn-academy/trek-guide` — trek-guide.md
+- `/strategy/furnace` — furnace.md
+- `/strategy/gear/chief-gear` — chief-gear.md
+- `/strategy/gear/hero-gear` — hero-gear.md
+- `/strategy/gear/` — index.md
+- `/strategy/gear/mythic-transfer` — mythic-transfer.md
+- `/strategy/gear/reforge` — reforge.md
+- `/strategy/heroes/alonzo` — alonzo.md
+- `/strategy/heroes/bahiti` — bahiti.md
+- `/strategy/heroes/development-roadmap` — development-roadmap.md
+- `/strategy/heroes/flint` — flint.md
+- `/strategy/heroes/greg` — greg.md
+- `/strategy/heroes/` — index.md
+- `/strategy/heroes/logan` — logan.md
+- `/strategy/heroes/mia` — mia.md
+- `/strategy/heroes/molly` — molly.md
+- `/strategy/` — index.md
+- `/strategy/island/buildings` — buildings.md
+- `/strategy/island/decorations` — decorations.md
+- `/strategy/island/` — index.md
+- `/strategy/island/progression` — progression.md
+- `/strategy/pets/combat-pets` — combat-pets.md
+- `/strategy/pets/` — index.md
+
+### `/troops/`
+
+- `/troops/` — index.md
+- `/troops/ratios` — ratios.md
+
+## Top-Level Files
+
+- `/404` — 404.md
+- `/` — index.md
+
+## Sidebar Configuration (config.ts excerpt)
+
+```typescript
     sidebar: {
       '/events/': [
         {
@@ -204,4 +253,17 @@ export default defineConfig({
 
     lastUpdatedText: 'Last updated',
   },
-})
+```
+
+## Recent Deployment History
+
+a0ccb6e Apply SVS battle-day corrections from May 2026 observation (Spec v2)
+d568535 Reorder furnace cost table so prerequisites come before each Furnace upgrade
+18dc1c0 Verify SVS content against May 2026 in-game Rules and Phases screens
+abf95bb Fix dead links in orientation/new-member.md
+f20c63f updated new-member section
+6a90954 Style hub links as smaller, color-coded buttons on landing page
+245f7be Add hub links to landing page hero section
+2753cff molly updates
+41583a8 Add CLAUDE.md and update README.md
+9312efa Add Combat section + expand Strategy with Heroes, Gear, Pets

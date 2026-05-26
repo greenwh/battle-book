@@ -32,9 +32,10 @@ docs/
     index.md               ← strategy hub
     furnace.md             ← Furnace 20→30 guide
     island/                ← Daybreak Island (overview, buildings, decorations, progression)
-    heroes/                ← hub, development-roadmap, flint, molly, bahiti, alonzo, mia
+    heroes/                ← hub, development-roadmap, flint, molly, bahiti, alonzo, mia, greg, logan
     gear/                  ← hub, hero-gear, reforge, mythic-transfer, chief-gear
     pets/                  ← hub, combat-pets
+    dawn-academy/          ← hub (index), experts, trek-guide, resources
   combat/                  ← hub, rally-mechanics, rally-joining, garrison-swap,
   │                           troop-replenishment, pet-buffs, pre-battle-checklist
   troops/                  ← hub, ratios
@@ -298,6 +299,15 @@ Jan 2026 rework made him the undisputed Infantry rally leader. S-tier for any se
 
 Edit the `.md` file directly. Update the `Last verified` date. Build and push.
 
+### Regenerate MANIFEST.md (required on every deployment that adds or removes pages)
+
+```bash
+bash scripts/generate-manifest.sh
+git add MANIFEST.md
+```
+
+MANIFEST.md is the sync mechanism between chat Claude and Claude Code. Chat Claude fetches it at the start of any Battle Book session to know what's actually deployed. Always regenerate before committing when pages are added or removed. See MAINTENANCE.md for details.
+
 ---
 
 ## What Claude Code is for
@@ -309,6 +319,7 @@ Use Claude Code for:
 - New Vue components or theme changes
 - Bulk file operations or reorganization
 - Build failures that need diagnosis
+- Any deployment that adds or removes pages (must regenerate MANIFEST.md)
 
 ---
 

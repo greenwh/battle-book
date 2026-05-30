@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-05-30 17:56:23 UTC
-**Last commit:** `06477d2`
+**Last updated:** 2026-05-30 17:56:37 UTC
+**Last commit:** `a6c963b`
 
 ## Deployed Pages
 
@@ -266,6 +266,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+a6c963b Fix homepage Recently Updated section: add Combat Reports bullet, move Site Manifest before changelog line
 06477d2 chore: regenerate MANIFEST.md [skip manifest]
 a3b4b34 Add Combat reports section + sync infrastructure (MANIFEST auto-regen)
 56d48e8 Update CLAUDE.md: add dawn-academy to directory structure, document MANIFEST.md workflow
@@ -275,5 +276,4 @@ d568535 Reorder furnace cost table so prerequisites come before each Furnace upg
 18dc1c0 Verify SVS content against May 2026 in-game Rules and Phases screens
 abf95bb Fix dead links in orientation/new-member.md
 f20c63f updated new-member section
-6a90954 Style hub links as smaller, color-coded buttons on landing page
 ```

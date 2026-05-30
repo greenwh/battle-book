@@ -75,7 +75,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 - **SvS Prep Guide** — full coverage of all 5 prep days, scoring, and the field triage window
 - **SvS Prep Checklist** — interactive day-by-day to-do list
 - **Troop Ratios Reference** — verified compositions for every activity
+- **Combat Section — Reports & Garrison Defense** — new pages on reading scout reports, decoding battle reports (including the Bonus Source mechanic), pattern-based adjustment after losses, and the garrison captain trio question
+- **Site Manifest** — see [/MANIFEST.md](/MANIFEST.md) for the complete deployed-pages listing, auto-regenerated on every commit
 
 See the [changelog](/reference/changelog) for the full update history.
-
-- **Site Manifest** — see [/MANIFEST.md](/MANIFEST.md) for the complete deployed-pages listing, auto-regenerated on every commit

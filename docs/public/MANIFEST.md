@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-05-30 03:14:28 UTC
-**Last commit:** `a3b4b34`
+**Last updated:** 2026-05-30 17:56:23 UTC
+**Last commit:** `06477d2`
 
 ## Deployed Pages
 
@@ -266,6 +266,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+06477d2 chore: regenerate MANIFEST.md [skip manifest]
 a3b4b34 Add Combat reports section + sync infrastructure (MANIFEST auto-regen)
 56d48e8 Update CLAUDE.md: add dawn-academy to directory structure, document MANIFEST.md workflow
 cf2c090 Add Dawn Academy section + Gen 3 heroes (Mia, Greg, Logan); add MANIFEST sync mechanism
@@ -275,5 +276,4 @@ d568535 Reorder furnace cost table so prerequisites come before each Furnace upg
 abf95bb Fix dead links in orientation/new-member.md
 f20c63f updated new-member section
 6a90954 Style hub links as smaller, color-coded buttons on landing page
-245f7be Add hub links to landing page hero section
 ```

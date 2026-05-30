@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-05-30 17:56:37 UTC
-**Last commit:** `a6c963b`
+**Last updated:** 2026-05-30 18:02:59 UTC
+**Last commit:** `8b7b1e4`
 
 ## Deployed Pages
 
@@ -266,6 +266,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+8b7b1e4 Fix manifest link: use full URL to avoid VitePress cleanUrls stripping .md extension
+dde8850 chore: regenerate MANIFEST.md [skip manifest]
 a6c963b Fix homepage Recently Updated section: add Combat Reports bullet, move Site Manifest before changelog line
 06477d2 chore: regenerate MANIFEST.md [skip manifest]
 a3b4b34 Add Combat reports section + sync infrastructure (MANIFEST auto-regen)
@@ -274,6 +276,4 @@ cf2c090 Add Dawn Academy section + Gen 3 heroes (Mia, Greg, Logan); add MANIFEST
 a0ccb6e Apply SVS battle-day corrections from May 2026 observation (Spec v2)
 d568535 Reorder furnace cost table so prerequisites come before each Furnace upgrade
 18dc1c0 Verify SVS content against May 2026 in-game Rules and Phases screens
-abf95bb Fix dead links in orientation/new-member.md
-f20c63f updated new-member section
 ```

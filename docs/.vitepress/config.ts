@@ -7,6 +7,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   appearance: 'dark',
+  ignoreDeadLinks: ['/MANIFEST.md', '/MANIFEST'],
 
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/battle-book/icons/favicon.svg' }],
@@ -141,6 +142,10 @@ export default defineConfig({
             { text: 'Combat Hub', link: '/combat/' },
             { text: 'Rally Mechanics', link: '/combat/rally-mechanics' },
             { text: 'Rally Joining', link: '/combat/rally-joining' },
+            { text: 'Scout Reports', link: '/combat/scout-reports' },
+            { text: 'Battle Reports', link: '/combat/battle-reports' },
+            { text: 'Reading Battle Reports', link: '/combat/reading-reports' },
+            { text: 'Garrison Captain', link: '/combat/garrison-captain' },
             { text: 'Garrison Swap', link: '/combat/garrison-swap' },
             { text: 'Troop Replenishment', link: '/combat/troop-replenishment' },
             { text: 'Pet Buffs', link: '/combat/pet-buffs' },

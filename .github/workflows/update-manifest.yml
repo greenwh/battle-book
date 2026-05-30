@@ -1,0 +1,39 @@
+name: Update Manifest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+      - 'scripts/generate-manifest.sh'
+      - '!docs/public/MANIFEST.md'
+
+permissions:
+  contents: write
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+    # Skip if commit message contains [skip manifest] to prevent recursive triggers
+    if: "!contains(github.event.head_commit.message, '[skip manifest]')"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Generate manifest
+        run: bash scripts/generate-manifest.sh
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add docs/public/MANIFEST.md
+            git commit -m "chore: regenerate MANIFEST.md [skip manifest]"
+            git push
+          else
+            echo "No manifest changes needed."
+          fi

@@ -1,61 +1,71 @@
 #!/bin/bash
-# Regenerates MANIFEST.md at the repo root.
-# Run from the battle-book repo root: bash scripts/generate-manifest.sh
-# Must be run before every commit that adds or removes pages.
+# scripts/generate-manifest.sh
+# Regenerates docs/public/MANIFEST.md from the current repo state.
+# Run from repo root.
+#
+# The output file is served by VitePress as a static asset at:
+#   https://greenwh.github.io/battle-book/MANIFEST.md
+#
+# This file is the single source of truth for deployed state. It is
+# regenerated automatically by GitHub Actions (.github/workflows/update-manifest.yml)
+# on every push to main that touches docs/.
 
 set -e
 
-cat > MANIFEST.md << 'EOF_MANIFEST_TOP'
+MANIFEST_PATH="docs/public/MANIFEST.md"
+
+mkdir -p docs/public
+
+cat > "$MANIFEST_PATH" << 'EOF_TOP'
 # Battle Book — Site Manifest
 
 This file is the **single source of truth** for what's deployed on the Battle Book.
-It's regenerated and committed by Claude Code at the end of every deployment session.
+It is regenerated automatically by GitHub Actions on every push to main that touches `docs/`.
 
-Raw URL for chat Claude to fetch:
-https://raw.githubusercontent.com/greenwh/battle-book/main/MANIFEST.md
+Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
+Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-EOF_MANIFEST_TOP
+EOF_TOP
 
-# Append dynamic content
-echo "**Last updated:** $(date +%Y-%m-%d) by Claude Code" >> MANIFEST.md
-echo "**Last deploy commit:** \`$(git rev-parse --short HEAD 2>/dev/null || echo 'pending')\`" >> MANIFEST.md
-echo "" >> MANIFEST.md
-echo "## Deployed Pages" >> MANIFEST.md
-echo "" >> MANIFEST.md
+echo "**Last updated:** $(date -u +"%Y-%m-%d %H:%M:%S") UTC" >> "$MANIFEST_PATH"
+echo "**Last commit:** \`$(git rev-parse --short HEAD)\`" >> "$MANIFEST_PATH"
+echo "" >> "$MANIFEST_PATH"
+echo "## Deployed Pages" >> "$MANIFEST_PATH"
+echo "" >> "$MANIFEST_PATH"
 
 for dir in $(find docs -mindepth 1 -maxdepth 1 -type d ! -name '.vitepress' ! -name 'public' | sort); do
   section=$(basename "$dir")
-  echo "### \`/${section}/\`" >> MANIFEST.md
-  echo "" >> MANIFEST.md
+  echo "### \`/${section}/\`" >> "$MANIFEST_PATH"
+  echo "" >> "$MANIFEST_PATH"
   find "$dir" -name "*.md" | sort | while read -r f; do
-    # Convert docs/strategy/heroes/flint.md → /strategy/heroes/flint
     url=$(echo "$f" | sed 's|^docs||; s|\.md$||; s|/index$|/|')
-    echo "- \`${url}\` — $(basename "$f")" >> MANIFEST.md
+    echo "- \`${url}\` — $(basename "$f")" >> "$MANIFEST_PATH"
   done
-  echo "" >> MANIFEST.md
+  echo "" >> "$MANIFEST_PATH"
 done
 
-echo "## Top-Level Files" >> MANIFEST.md
-echo "" >> MANIFEST.md
+echo "## Top-Level Files" >> "$MANIFEST_PATH"
+echo "" >> "$MANIFEST_PATH"
 for f in docs/*.md; do
   if [ -f "$f" ]; then
     url=$(echo "$f" | sed 's|^docs||; s|\.md$||; s|/index$|/|')
     [ -z "$url" ] && url="/"
-    echo "- \`${url}\` — $(basename "$f")" >> MANIFEST.md
+    echo "- \`${url}\` — $(basename "$f")" >> "$MANIFEST_PATH"
   fi
 done
-echo "" >> MANIFEST.md
+echo "" >> "$MANIFEST_PATH"
 
-echo "## Sidebar Configuration (config.ts excerpt)" >> MANIFEST.md
-echo "" >> MANIFEST.md
-echo '```typescript' >> MANIFEST.md
-# Extract the sidebar object from config.ts
-sed -n '/sidebar:/,/^  },$/p' docs/.vitepress/config.ts >> MANIFEST.md
-echo '```' >> MANIFEST.md
-echo "" >> MANIFEST.md
+echo "## Sidebar Configuration (config.ts excerpt)" >> "$MANIFEST_PATH"
+echo "" >> "$MANIFEST_PATH"
+echo '```typescript' >> "$MANIFEST_PATH"
+sed -n '/sidebar:/,/^  },$/p' docs/.vitepress/config.ts >> "$MANIFEST_PATH"
+echo '```' >> "$MANIFEST_PATH"
+echo "" >> "$MANIFEST_PATH"
 
-echo "## Recent Deployment History" >> MANIFEST.md
-echo "" >> MANIFEST.md
-git log --oneline -10 2>/dev/null >> MANIFEST.md || echo "(git log unavailable)" >> MANIFEST.md
+echo "## Recent Deployment History" >> "$MANIFEST_PATH"
+echo "" >> "$MANIFEST_PATH"
+echo '```' >> "$MANIFEST_PATH"
+git log --oneline -10 2>/dev/null >> "$MANIFEST_PATH" || echo "(git log unavailable)" >> "$MANIFEST_PATH"
+echo '```' >> "$MANIFEST_PATH"
 
-echo "MANIFEST.md generated."
+echo "Generated $MANIFEST_PATH"

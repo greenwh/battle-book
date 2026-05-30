@@ -10,6 +10,24 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## May 2026
 
+### Combat Section Expansion — Reports & Garrison Defense
+
+**Reports & Intel** (3 new pages):
+
+- New `/combat/scout-reports.md` covering pre-attack intelligence — what scout reports show and hide, hospital capacity signals, march status, counter-scouting actions
+- New `/combat/battle-reports.md` covering the anatomy of a battle report — the four stats (Attack/Defense/Health/Lethality), casualty breakdown (wounded/losses/enlistment), and the critical **Bonus Source mechanic** (which determines whose hero stats apply in garrison defense)
+- New `/combat/reading-reports.md` covering the analytical skill — 6 common battle-report patterns (Infantry Line Collapsed, Marksmen Survived Nothing, Won Stats Lost Fight, etc.), hero/widget swap reference table, when to abandon
+
+**Defensive Coordination** (1 new page):
+
+- New `/combat/garrison-captain.md` covering the captain trio question — why the captain seat is harder than the joiner seat (3 hero skills contribute, not 1), captain trio by generation (Sergey+Patrick+Flint for Gen 1/2, Logan+Sergey+Patrick for Gen 3), defense troop ratios (60/40/0 / 70/30/0 / 60/20/20), pre-lock prep, city defense parallel
+
+**Glossary** — Added 12 terms covering the new Combat section concepts (Bonus Source, Battle Report, Scout Report, Lethality, Defenders' Edge, Super Nutrients, Lion Intimidation, Enlistment Recovery, Hospital Capacity Signal, Top-4 Mechanic, Wounded vs. Losses, Garrison Captain).
+
+**Combat Hub** — Reorganized to add "Reports & Intel" and "Defensive Coordination" sections; added "lost an important rally?" entry point in Where To Start.
+
+---
+
 ### Dawn Academy Section Added + Gen 3 Heroes Update
 
 **Dawn Academy** (new section, 4 pages):

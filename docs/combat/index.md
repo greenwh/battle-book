@@ -21,6 +21,20 @@ Timing tricks and troop management that experienced players use to gain an edge 
 - [Garrison Swap](/combat/garrison-swap) — Replace an attack march with a garrison march using the recall trick
 - [Troop Replenishment](/combat/troop-replenishment) — Send troops without a hero to reinforce mid-battle
 
+## Reports & Intel
+
+Reading scout reports before an attack, and battle reports after, is the analytical skill that separates experienced players from casual ones. These pages cover both the mechanics of the reports and how to use them to adjust your strategy.
+
+- [Scout Reports](/combat/scout-reports) — what you see before an attack, hospital capacity signals, counter-scouting
+- [Battle Reports](/combat/battle-reports) — anatomy of a battle report, the **Bonus Source mechanic**, detecting enemy widgets and buffs
+- [Reading Battle Reports](/combat/reading-reports) — 6 common patterns and how to adjust, hero/widget swap table, when to abandon
+
+## Defensive Coordination
+
+When you're the one being attacked, the captain seat is a roster-optimization problem, not a single-hero pick.
+
+- [Garrison Captain](/combat/garrison-captain) — captain trio by generation, defense ratios, pre-lock prep
+
 ## Buffs & Preparation
 
 The difference between a prepared player and an unprepared one is often bigger than the difference in their hero development.
@@ -35,6 +49,8 @@ The difference between a prepared player and an unprepared one is often bigger t
 **Preparing for an event right now?** Jump to [Pre-Battle Checklist](/combat/pre-battle-checklist) and work through it top to bottom.
 
 **Not sure what hero to send?** [Rally Joining](/combat/rally-joining) has the answer — and it's probably not the hero you think.
+
+**Lost an important rally?** Read [Reading Battle Reports](/combat/reading-reports) — the 6-pattern framework tells you whether to retry, adjust, or abandon.
 
 ## Related Sections
 

@@ -77,3 +77,5 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 - **Troop Ratios Reference** — verified compositions for every activity
 
 See the [changelog](/reference/changelog) for the full update history.
+
+- **Site Manifest** — see [/MANIFEST.md](/MANIFEST.md) for the complete deployed-pages listing, auto-regenerated on every commit

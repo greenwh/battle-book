@@ -1,24 +1,28 @@
 # Battle Book — Site Manifest
 
 This file is the **single source of truth** for what's deployed on the Battle Book.
-It's regenerated and committed by Claude Code at the end of every deployment session.
+It is regenerated automatically by GitHub Actions on every push to main that touches `docs/`.
 
-Raw URL for chat Claude to fetch:
-https://raw.githubusercontent.com/greenwh/battle-book/main/MANIFEST.md
+Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
+Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-05-26 by Claude Code
-**Last deploy commit:** `a0ccb6e`
+**Last updated:** 2026-05-30 03:12:56 UTC
+**Last commit:** `56d48e8`
 
 ## Deployed Pages
 
 ### `/combat/`
 
+- `/combat/battle-reports` — battle-reports.md
+- `/combat/garrison-captain` — garrison-captain.md
 - `/combat/garrison-swap` — garrison-swap.md
 - `/combat/` — index.md
 - `/combat/pet-buffs` — pet-buffs.md
 - `/combat/pre-battle-checklist` — pre-battle-checklist.md
 - `/combat/rally-joining` — rally-joining.md
 - `/combat/rally-mechanics` — rally-mechanics.md
+- `/combat/reading-reports` — reading-reports.md
+- `/combat/scout-reports` — scout-reports.md
 - `/combat/troop-replenishment` — troop-replenishment.md
 
 ### `/events/`
@@ -190,6 +194,10 @@ https://raw.githubusercontent.com/greenwh/battle-book/main/MANIFEST.md
             { text: 'Combat Hub', link: '/combat/' },
             { text: 'Rally Mechanics', link: '/combat/rally-mechanics' },
             { text: 'Rally Joining', link: '/combat/rally-joining' },
+            { text: 'Scout Reports', link: '/combat/scout-reports' },
+            { text: 'Battle Reports', link: '/combat/battle-reports' },
+            { text: 'Reading Battle Reports', link: '/combat/reading-reports' },
+            { text: 'Garrison Captain', link: '/combat/garrison-captain' },
             { text: 'Garrison Swap', link: '/combat/garrison-swap' },
             { text: 'Troop Replenishment', link: '/combat/troop-replenishment' },
             { text: 'Pet Buffs', link: '/combat/pet-buffs' },
@@ -257,6 +265,9 @@ https://raw.githubusercontent.com/greenwh/battle-book/main/MANIFEST.md
 
 ## Recent Deployment History
 
+```
+56d48e8 Update CLAUDE.md: add dawn-academy to directory structure, document MANIFEST.md workflow
+cf2c090 Add Dawn Academy section + Gen 3 heroes (Mia, Greg, Logan); add MANIFEST sync mechanism
 a0ccb6e Apply SVS battle-day corrections from May 2026 observation (Spec v2)
 d568535 Reorder furnace cost table so prerequisites come before each Furnace upgrade
 18dc1c0 Verify SVS content against May 2026 in-game Rules and Phases screens
@@ -265,5 +276,4 @@ f20c63f updated new-member section
 6a90954 Style hub links as smaller, color-coded buttons on landing page
 245f7be Add hub links to landing page hero section
 2753cff molly updates
-41583a8 Add CLAUDE.md and update README.md
-9312efa Add Combat section + expand Strategy with Heroes, Gear, Pets
+```

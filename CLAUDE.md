@@ -37,7 +37,8 @@ docs/
     pets/                  ← hub, combat-pets
     dawn-academy/          ← hub (index), experts, trek-guide, resources
   combat/                  ← hub, rally-mechanics, rally-joining, garrison-swap,
-  │                           troop-replenishment, pet-buffs, pre-battle-checklist
+  │                           troop-replenishment, pet-buffs, pre-battle-checklist,
+  │                           scout-reports, battle-reports, reading-reports, garrison-captain
   troops/                  ← hub, ratios
   reference/               ← glossary, changelog
   orientation/             ← new-member
@@ -105,6 +106,7 @@ Use `collapsed: true` for groups that should start folded (Daybreak Island uses 
 - `cleanUrls: true` — `docs/combat/garrison-swap.md` becomes `/combat/garrison-swap` (no `.html`)
 - `base: '/battle-book/'` — VitePress prefixes links automatically when you use Markdown-style links (`[text](/path/to/page)`). Never hardcode `/battle-book/` in link hrefs.
 - `index.md` in a folder becomes the folder URL: `docs/combat/index.md` → `/combat/`
+- **cleanUrls strips `.md` from all markdown links** — including links to static files in `docs/public/`. A link like `[text](/MANIFEST.md)` becomes `href="/battle-book/MANIFEST"` (404). To link to a static `.md` file, use its full external URL: `[text](https://greenwh.github.io/battle-book/MANIFEST.md)`.
 
 ---
 
@@ -303,10 +305,12 @@ Edit the `.md` file directly. Update the `Last verified` date. Build and push.
 
 ```bash
 bash scripts/generate-manifest.sh
-git add MANIFEST.md
+git add docs/public/MANIFEST.md
 ```
 
-MANIFEST.md is the sync mechanism between chat Claude and Claude Code. Chat Claude fetches it at the start of any Battle Book session to know what's actually deployed. Always regenerate before committing when pages are added or removed. See MAINTENANCE.md for details.
+MANIFEST.md lives at `docs/public/MANIFEST.md` and is served as a static asset at `https://greenwh.github.io/battle-book/MANIFEST.md`. It is the sync mechanism between chat Claude and Claude Code — chat Claude fetches it at the start of any Battle Book session to know what's actually deployed.
+
+GHA auto-regenerates it on every push to `main` that touches `docs/`. Manual regeneration before committing is only needed when you want to verify the output locally. See MAINTENANCE.md for details.
 
 ---
 

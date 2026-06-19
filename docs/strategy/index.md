@@ -23,6 +23,7 @@ Your island is a permanent stat engine. Decorations provide combat buffs, the Tr
 The Furnace gates every other system in the game. Knowing the resource costs and prerequisite buildings from F20–F30 prevents nasty surprises.
 
 - [Furnace 20→30 Guide](/strategy/furnace) — Full cost table, prerequisite buildings, milestone unlocks, and pacing advice
+- [Fire Crystal Upgrades (FC1→FC10)](/strategy/fire-crystal) — the FC-era progression after Furnace 30: per-building costs, Refined Fire Crystal planning, upgrade priority
 
 ## Heroes
 

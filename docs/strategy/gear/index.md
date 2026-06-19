@@ -21,6 +21,7 @@ Beyond hero gear, your Chief has a separate 6-piece gear set (unlocks at Furnace
 - [Reforge Strategy](/strategy/gear/reforge) — When to reforge replaced gear, what never to reforge, and how to fund new Mythic pieces
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — Free same-type transfers, when to pull the trigger, and the transitions that matter
 - [Chief Gear](/strategy/gear/chief-gear) — The F22 unlock, 6-piece set bonuses, upgrade order, and enhancement materials
+- [Chief Gear Costs](/strategy/gear/chief-gear-costs) — Hardened Alloy, Polishing Solution, and Design Plan costs per piece and per set
 
 ## Key Principles
 

@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-05-30 18:02:59 UTC
-**Last commit:** `8b7b1e4`
+**Last updated:** 2026-06-19 23:15:55 UTC
+**Last commit:** `f236512`
 
 ## Deployed Pages
 
@@ -59,7 +59,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/dawn-academy/` — index.md
 - `/strategy/dawn-academy/resources` — resources.md
 - `/strategy/dawn-academy/trek-guide` — trek-guide.md
+- `/strategy/fire-crystal` — fire-crystal.md
 - `/strategy/furnace` — furnace.md
+- `/strategy/gear/chief-gear-costs` — chief-gear-costs.md
 - `/strategy/gear/chief-gear` — chief-gear.md
 - `/strategy/gear/hero-gear` — hero-gear.md
 - `/strategy/gear/` — index.md
@@ -81,6 +83,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/island/progression` — progression.md
 - `/strategy/pets/combat-pets` — combat-pets.md
 - `/strategy/pets/` — index.md
+- `/strategy/pets/upgrade-costs` — upgrade-costs.md
 
 ### `/troops/`
 
@@ -130,6 +133,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
           items: [
             { text: 'Strategy Hub', link: '/strategy/' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
+            { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
             {
               text: 'Daybreak Island',
               collapsed: true,
@@ -164,6 +168,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
                 { text: 'Reforge Strategy', link: '/strategy/gear/reforge' },
                 { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
                 { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },
+                { text: 'Chief Gear Costs', link: '/strategy/gear/chief-gear-costs' },
               ],
             },
             {
@@ -172,6 +177,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
               items: [
                 { text: 'Pet Hub', link: '/strategy/pets/' },
                 { text: 'Combat Pets', link: '/strategy/pets/combat-pets' },
+                { text: 'Pet Upgrade Costs', link: '/strategy/pets/upgrade-costs' },
               ],
             },
             {
@@ -266,6 +272,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+f236512 Update CLAUDE.md: combat dir structure, MANIFEST path, cleanUrls gotcha
+1405dda chore: regenerate MANIFEST.md [skip manifest]
 8b7b1e4 Fix manifest link: use full URL to avoid VitePress cleanUrls stripping .md extension
 dde8850 chore: regenerate MANIFEST.md [skip manifest]
 a6c963b Fix homepage Recently Updated section: add Combat Reports bullet, move Site Manifest before changelog line
@@ -274,6 +282,4 @@ a3b4b34 Add Combat reports section + sync infrastructure (MANIFEST auto-regen)
 56d48e8 Update CLAUDE.md: add dawn-academy to directory structure, document MANIFEST.md workflow
 cf2c090 Add Dawn Academy section + Gen 3 heroes (Mia, Greg, Logan); add MANIFEST sync mechanism
 a0ccb6e Apply SVS battle-day corrections from May 2026 observation (Spec v2)
-d568535 Reorder furnace cost table so prerequisites come before each Furnace upgrade
-18dc1c0 Verify SVS content against May 2026 in-game Rules and Phases screens
 ```

@@ -20,6 +20,7 @@ Pets unlock at Furnace 18 (Beast Cage building) and become available based on se
 ## Guides in This Section
 
 - [Combat Pets](/strategy/pets/combat-pets) — All 8 combat pets ranked, leveling priority, refinement strategy, and activation routine
+- [Pet Upgrade Costs](/strategy/pets/upgrade-costs) — Pet Food, Taming Manuals, Energizing Potions, and Strengthening Serum costs across all five tiers
 
 ## Utility Pets (Quick Reference)
 

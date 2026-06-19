@@ -8,6 +8,21 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## June 2026
+
+### Strategy Cost References
+
+- New **Fire Crystal Upgrades (FC1→FC10)** page — per-building FC and Refined Fire Crystal costs, refining, unlock windows, upgrade priority. Sequel to Furnace 20→30.
+- New **Pet Upgrade Costs** page — Pet Food and advancement materials (Taming Manuals, Energizing Potions, Strengthening Serums) across all five rarity tiers.
+- New **Chief Gear Upgrade Costs** page — Hardened Alloy, Polishing Solution, and Design Plan costs per piece and per full set, Uncommon through Mythic T2.
+- Cross-links added from Furnace, Chief Gear, and Combat Pets pages.
+
+### Mercenary Prestige
+
+- Added a note that the personal ladder runs 25 mercenaries (no embedded bosses) at higher difficulty tiers, versus the 50-wave lower-tier ladder.
+
+---
+
 ## May 2026
 
 ### Combat Section Expansion — Reports & Garrison Defense

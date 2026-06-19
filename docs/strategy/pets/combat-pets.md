@@ -97,6 +97,7 @@ See [Pre-Battle Checklist](/combat/pre-battle-checklist) for the complete activa
 - [Pet Buffs](/combat/pet-buffs) — where pet buffs work and the AC registration trap
 - [Pre-Battle Checklist](/combat/pre-battle-checklist) — complete activation routine
 - [Pet Hub](/strategy/pets/) — utility pets and general pet strategy
+- [Pet Upgrade Costs](/strategy/pets/upgrade-costs) — Pet Food and advancement material costs by rarity tier
 
 ---
 

@@ -81,6 +81,7 @@ At Furnace 25, you unlock Chief Charms — an additional stat layer on top of Ch
 - [Furnace 20→30](/strategy/furnace) — the progression path that unlocks Chief Gear at F22
 - [Hero Gear](/strategy/gear/hero-gear) — the separate hero gear system
 - [Pre-Battle Checklist](/combat/pre-battle-checklist) — confirming Chief Gear is equipped before events
+- [Chief Gear Upgrade Costs](/strategy/gear/chief-gear-costs) — material costs per piece and per full set
 
 ---
 

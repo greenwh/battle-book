@@ -36,6 +36,10 @@ When the event opens, you select **one difficulty tier and one difficulty level*
 
 Each level above Easy must be **earned by completing the previous level in a prior event**. The minimum to unlock the highest difficulty is roughly **20 events** of consistent participation. This is a multi-year progression for late-game players.
 
+::: warning Wave count varies by tier
+The wave count depends on the difficulty tier you select. At **higher difficulty tiers, the personal ladder runs 25 mercenaries** rather than 50, escalating in difficulty with **no mini-bosses in the ladder** — the every-10 mini-bosses described below apply to the longer lower-tier ladders. Alliance Captain bosses are a separate track regardless of tier. Confirm your selected tier's structure in-game when the event opens.
+:::
+
 **The 50-wave loop:**
 
 1. **Scout** a Phaethon Mercenary from the Event tab (costs **15 Stamina**)
@@ -225,4 +229,4 @@ Multiple Stamina Can packs and Frost Star packs enable pushing two tiers above y
 
 ---
 
-*Last verified: April 2026 · Sources: whiteoutsurvival.wiki Mercenary Prestige page, Helpshift official Mercenary Prestige FAQ, outof.games Mercenary Prestige guide (Dec 2025), Whiteout Survival official X (@WOS_Global) announcement, ldplayer.net guide (March 2026), grindnstrat Mercenary Prestige guide. Mechanics confirmed against post-Jan 2026 patch state.*
+*Last verified: June 2026 · Sources: whiteoutsurvival.wiki Mercenary Prestige page, Helpshift official Mercenary Prestige FAQ, outof.games Mercenary Prestige guide (Dec 2025), Whiteout Survival official X (@WOS_Global) announcement, ldplayer.net guide (March 2026), grindnstrat Mercenary Prestige guide. Mechanics confirmed against post-Jan 2026 patch state.*

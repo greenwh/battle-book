@@ -78,6 +78,7 @@ export default defineConfig({
           items: [
             { text: 'Strategy Hub', link: '/strategy/' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
+            { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
             {
               text: 'Daybreak Island',
               collapsed: true,
@@ -112,6 +113,7 @@ export default defineConfig({
                 { text: 'Reforge Strategy', link: '/strategy/gear/reforge' },
                 { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
                 { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },
+                { text: 'Chief Gear Costs', link: '/strategy/gear/chief-gear-costs' },
               ],
             },
             {
@@ -120,6 +122,7 @@ export default defineConfig({
               items: [
                 { text: 'Pet Hub', link: '/strategy/pets/' },
                 { text: 'Combat Pets', link: '/strategy/pets/combat-pets' },
+                { text: 'Pet Upgrade Costs', link: '/strategy/pets/upgrade-costs' },
               ],
             },
             {

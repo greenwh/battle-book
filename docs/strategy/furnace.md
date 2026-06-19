@@ -121,11 +121,14 @@ Reaching Furnace 30 unlocks Fire Crystal upgrades (FC1–FC5 initially, FC6–FC
 
 Fire Crystal levels provide massive stat boosts and new building skins. They're the true endgame progression track.
 
+For the full FC1–FC10 cost breakdown — per building, plus Refined Fire Crystal planning — see the [Fire Crystal Upgrades](/strategy/fire-crystal) guide.
+
 ## Related Guides
 
 - [Strategy Hub](/strategy/) — all progression systems
 - [Daybreak Island](/strategy/island/) — permanent stat buffs that complement Furnace progression
 - [Troop Ratios](/troops/ratios) — compositions for every activity
+- [Fire Crystal Upgrades (FC1→FC10)](/strategy/fire-crystal) — the progression that picks up after Furnace 30
 
 ---
 

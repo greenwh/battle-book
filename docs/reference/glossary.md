@@ -41,13 +41,21 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Exploration Skills** — Hero skills on the left side. Used in Arena, Lighthouse, and story chapters.
 
+**Crystal Laboratory** — Building that refines raw Fire Crystals into Refined Fire Crystals, limited per day by Lab level.
+
+**Design Plans** — Chief Gear material required from the Rare tier upward. From many events and event shops.
+
 **FC** — Fire Crystal. The premium upgrade currency once you reach Furnace 30.
+
+**Fire Crystal (FC)** — Upgrade currency for the post-Furnace-30 era (FC1–FC10). From Intel Missions, Arena/event shops, Castle Battle, and Fire Crystal event chests.
 
 **Frontier Trek** — Targeted Expert progression mode unlocked after 60 Tundra Treks. Pick a specific known Expert and grind their encounters exclusively. Frontier Supplies are mostly paid.
 
 **Furnace** — The central building. Determines your overall progression tier (Lv. 1–30, then FC1–FC10).
 
 **Generation 3 (Gen 3)** — Hero generation unlocked at ~Day 120 server age. Brings Mia (Lancer/Lucky Wheel), Logan (Infantry/Hall of Heroes), and Greg (Marksman/multi-source). Provides ~+290% troop Attack/Defense buff, up from Gen 2's ~+240%.
+
+**Hardened Alloy** — Primary Chief Gear upgrade material. From Crazy Joe, Frostfire Mine, beasts/Polar Terror, and the Championship Shop.
 
 **Hive** — The cluster of alliance members in one geographic area on the map.
 
@@ -59,13 +67,19 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Lucky Wheel** — Periodic event for acquiring Mythic hero shards. 120 spins per event is the F2P value ceiling.
 
+**Lunar Amber** — Chief Gear material required at the top tiers; from Material Exchange and packs.
+
 **MF / Master Forgery** — Additional enhancement tier on Mythic gear. Levels 1–5, each providing significant stat boosts.
 
 **Mithril** — High-tier upgrade material. Used for hero exclusive gear and SvS scoring.
 
 **NAP** — Non-Aggression Pact. An agreement between top alliances to rotate the presidency instead of fighting.
 
+**Pet Advancement** — Upgrading a pet at every 10th level; raises the level cap and skill, and scores in SvS Day 3 and Day 5. Costs Taming Manuals, Energizing Potions (Lv30+), and Strengthening Serums (Lv50+).
+
 **Polar Terror** — A high-level beast that requires alliance rally to defeat. Key SvS Day 3 scoring target.
+
+**Polishing Solution** — Chief Gear enhancement material used alongside Hardened Alloy. From Crazy Joe and Frostfire Mine.
 
 **Presidency** — Awarded after Sunfire Castle battle. The president sets state-wide buffs and appoints ministers.
 
@@ -74,6 +88,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 **R1–R5** — Alliance ranks. R5 is the leader; R4 are officers; R1–R3 are members.
 
 **Rally** — A coordinated multi-player attack. The starter is the rally leader; joiners reinforce.
+
+**Refined Fire Crystal (RFC)** — Advanced Fire Crystal material required from the FC6 tier onward. Made only by refining raw Fire Crystals in the Crystal Laboratory, on a daily cap. The main bottleneck of the FC era.
 
 **Relationship Level** — An Expert's progression tier (0–100, in 10 Advancement thresholds). Raised through Affinity. Crossing thresholds requires Sigils to Advance.
 

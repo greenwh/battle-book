@@ -1,0 +1,53 @@
+Building,FC Tier,Prerequisites,Wood (M),Meat (M),Coal (M),Iron (M),Fire Crystals,Refined FC,Base Time (sum),Notes
+Furnace,FC1,Embassy 30 + Research Center 30,335 (5x67),335 (5x67),65 (5x13),16.5 (5x3.3),660 (5x132),0,35d (7d),
+Furnace,FC2,Embassy FC1 + Lancer Camp FC1,360 (5x72),360 (5x72),70 (5x14),18 (5x3.6),790 (5x158),0,45d (9d),
+Furnace,FC3,Embassy FC2 + Infantry Camp FC2,395 (5x79),395 (5x79),75 (5x15),19.5 (5x3.9),1190 (5x238),0,55d (11d),
+Furnace,FC4,Embassy FC3 + Marksman Camp FC3,410 (5x82),410 (5x82),80 (5x16),20.5 (5x4.1),1400 (5x280),0,60d (12d),
+Furnace,FC5,Embassy FC4 + Lancer Camp FC4,420 (5x84),420 (5x84),80 (5x16),21 (5x4.2),1675 (5x335),0,70d (14d),T11 Helios troops unlock (needs War Academy FC5 + Helios research)
+Furnace,FC6,Embassy FC5 + Infantry Camp FC5,480 (5x96),480 (5x96),95 (5x19),24 (5x4.8),900 (4x200 + 100),60 (4x10 + 20),75d (15d),
+Furnace,FC7,Embassy FC6 + Marksman Camp FC6,500 (5x100),500 (5x100),105 (5x21),27 (5x5.4),1080 (4x240 + 120),90 (4x15 + 30),90d (18d),
+Furnace,FC8,Embassy FC7 + Lancer Camp FC7,650 (5x130),650 (5x130),130 (5x26),33 (5x6.6),1080 (4x240 + 120),120 (4x20 + 40),100d (20d),
+Furnace,FC9,Embassy FC8 + Infantry Camp FC8,700 (5x140),700 (5x140),145 (5x29),36 (5x7.2),1260 (4x280 + 140),180 (4x30 + 60),65d (13d),
+Furnace,FC10,Embassy FC9 + Marksman Camp FC9,800 (5x160),800 (5x160),165 (5x33),42 (5x8.4),1575 (4x350 + 175),420 (4x70 + 140),100d (20d),
+Furnace,TOTAL,,5050,5050,1010,257.5,11610,870,695d,
+Embassy,FC1,Furnace FC1,65 (5x13),65 (5x13),13.5 (5x2.7),3.35 (5x0.67),165 (5x33),0,23d 2h 20m (4d 14h 52m),
+Embassy,FC2,Furnace FC2,70 (5x14),70 (5x14),14.5 (5x2.9),3.6 (5x0.72),195 (5x39),0,29d 16h 45m (5d 22h 33m),
+Embassy,FC3,Furnace FC3,75 (5x15),75 (5x15),15.5 (5x3.1),3.95 (5x0.79),295 (5x59),0,36d 7h 10m (7d 6h 14m),
+Embassy,FC4,Furnace FC4,80 (5x16),80 (5x16),16 (5x3.2),4.1 (5x0.82),350 (5x70),0,39d 14h 20m (7d 22h 4m),
+Embassy,FC5,Furnace FC5,80 (5x16),80 (5x16),16.5 (5x3.3),4.2 (5x0.84),415 (5x83),0,46d 4h 45m (9d 5h 45m),
+Embassy,FC6,Furnace FC6,95 (5x19),95 (5x19),19 (5x3.8),4.8 (5x0.96),225 (4x50 + 25),13 (4x2 + 5),49d 12h (9d 21h 36m),
+Embassy,FC7,Furnace FC7,105 (5x21),105 (5x21),21.5 (5x4.3),5 (5x1),270 (4x60 + 30),19 (4x3 + 7),59d 9h 35m (11d 21h 7m),
+Embassy,FC8,Furnace FC8,130 (5x26),130 (5x26),26.5 (5x5.3),6.5 (5x1.3),270 (4x60 + 30),30 (4x5 + 10),66d (13d 4h 48m),
+Embassy,FC9,Furnace FC9,145 (5x29),145 (5x29),29 (5x5.8),7 (5x1.4),315 (4x70 + 35),43 (4x7 + 15),42d 21h 35m (8d 13h 55m),
+Embassy,FC10,Furnace FC10,165 (5x33),165 (5x33),33.5 (5x6.7),8 (5x1.6),391 (4x87 + 43),103 (4x17 + 35),66d (13d 4h 48m),
+Embassy,TOTAL,,1010,1010,205.5,50.5,2891,208,458d 16h 30m,
+Infantry/Lancer/Marksman Camp,FC1,Furnace FC1,115 (5x23),115 (5x23),23.5 (5x4.7),5.5 (5x1.1),295 (5x59),0,5d 6h (1d 1h 12m),
+Infantry/Lancer/Marksman Camp,FC2,Furnace FC2,125 (5x25),125 (5x25),25 (5x5),6 (5x1.2),355 (5x71),0,6d 18h (1d 8h 24m),
+Infantry/Lancer/Marksman Camp,FC3,Furnace FC3,135 (5x27),135 (5x27),27.5 (5x5.5),6.5 (5x1.3),535 (5x107),0,8d 6h (1d 15h 36m),
+Infantry/Lancer/Marksman Camp,FC4,Furnace FC4,140 (5x28),140 (5x28),28.5 (5x5.7),7 (5x1.4),630 (5x126),0,9d (1d 19h 12m),
+Infantry/Lancer/Marksman Camp,FC5,Furnace FC5,145 (5x29),145 (5x29),29.5 (5x5.9),7 (5x1.4),750 (5x150),0,10d 12h (2d 2h 24m),
+Infantry/Lancer/Marksman Camp,FC6,Furnace FC6,165 (5x33),165 (5x33),33.5 (5x6.7),8 (5x1.6),405 (4x90 + 45),25 (4x4 + 9),11d 6h (2d 6h),
+Infantry/Lancer/Marksman Camp,FC7,Furnace FC7,190 (5x38),190 (5x38),38 (5x7.6),9.5 (5x1.9),486 (4x108 + 54),37 (4x6 + 13),13d 12h (2d 16h 48m),
+Infantry/Lancer/Marksman Camp,FC8,Furnace FC8,230 (5x46),230 (5x46),46.5 (5x9.3),11.5 (5x2.3),486 (4x108 + 54),54 (4x9 + 18),15d (3d),
+Infantry/Lancer/Marksman Camp,FC9,Furnace FC9,250 (5x50),250 (5x50),50 (5x10),12.5 (5x2.5),567 (4x126 + 63),79 (4x13 + 27),9d 18h (1d 22h 48m),
+Infantry/Lancer/Marksman Camp,FC10,Furnace FC10,295 (5x59),295 (5x59),55 (5x11),14.5 (5x2.9),706 (4x157 + 78),187 (4x31 + 63),15d (3d),
+Infantry/Lancer/Marksman Camp,TOTAL,,1790,1790,357,88,5215,382,104d 6h,
+War Academy,FC1,Furnace FC1,-,-,-,-,0,0,instant,Free unlock at Furnace FC1
+War Academy,FC2,Furnace FC2,180 (5x36),180 (5x36),36 (5x7.2),9 (5x1.8),355 (5x71),0,9d (1d 19h 12m),
+War Academy,FC3,Furnace FC3,195 (5x39),195 (5x39),39.5 (5x7.9),9.5 (5x1.9),535 (5x107),0,11d (2d 4h 48m),
+War Academy,FC4,Furnace FC4,205 (5x41),205 (5x41),41 (5x8.2),10 (5x2),630 (5x126),0,12d (2d 9h 36m),
+War Academy,FC5,Furnace FC5,210 (5x42),210 (5x42),41 (5x8.2),10.5 (5x2.1),750 (5x150),0,14d (2d 19h 12m),Enables T11 Helios (with Furnace FC5)
+War Academy,FC6,Furnace FC6,240 (5x48),240 (5x48),48 (5x9.6),12 (5x2.4),405 (4x90 + 45),25 (4x4 + 9),15d (3d),
+War Academy,FC7,Furnace FC7,270 (5x54),270 (5x54),50 (5x10),13.5 (5x2.7),486 (4x108 + 54),37 (4x6 + 13),18d (3d 14h 24m),
+War Academy,FC8,Furnace FC8,330 (5x66),330 (5x66),65 (5x13),16.5 (5x3.3),486 (4x108 + 54),54 (4x9 + 18),20d (4d),
+War Academy,FC9,Furnace FC9,360 (5x72),360 (5x72),70 (5x14),18 (5x3.6),567 (4x126 + 63),79 (4x13 + 27),13d (2d 14h 24m),
+War Academy,FC10,Furnace FC10,420 (5x84),420 (5x84),80 (5x16),36 (5x7.2),706 (4x157 + 78),187 (4x31 + 63),20d (4d),
+War Academy,TOTAL,,2410,2410,470.5,135,4920,382,132d,
+
+# NOTES
+"# Source: official Whiteout Survival Wiki (Century Games), cross-checked vs Lobster community compilation. Verified June 2026."
+# Each amount = tier total with sub-level breakdown in parentheses. Every tier = 5 upgrade steps; e.g. '900 (4x200 + 100)' = four sub-levels of 200 plus a 100 final step.
+"# All three troop camps (Infantry, Lancer, Marksman) share one cost track - budget the listed amount per camp, three times."
+"# War Academy has no paid FC1 (it unlocks free at Furnace FC1); its FC8 FC/RFC are normalized to the camp track (wiki showed 540/45, a likely typo). Its Wood/Meat/Coal/Iron and build times are its own."
+# Resource/time values are base (no construction-speed buffs). Minor per-cell wiki typos exist (Embassy iron at a couple of steps; Camp FC1-2 meat) and do not affect tier totals materially.
+# Command Centre and Infirmary FC costs are not included in this file.

@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-19 23:16:51 UTC
-**Last commit:** `46900f1`
+**Last updated:** 2026-06-26 20:44:18 UTC
+**Last commit:** `bc1a213`
 
 ## Deployed Pages
 
@@ -272,6 +272,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+bc1a213 cleanup
+ec0761f chore: regenerate MANIFEST.md [skip manifest]
 46900f1 Add Fire Crystal, Pet Costs, Chief Gear Costs pages; Merc Prestige wave-count note
 f236512 Update CLAUDE.md: combat dir structure, MANIFEST path, cleanUrls gotcha
 1405dda chore: regenerate MANIFEST.md [skip manifest]
@@ -280,6 +282,4 @@ dde8850 chore: regenerate MANIFEST.md [skip manifest]
 a6c963b Fix homepage Recently Updated section: add Combat Reports bullet, move Site Manifest before changelog line
 06477d2 chore: regenerate MANIFEST.md [skip manifest]
 a3b4b34 Add Combat reports section + sync infrastructure (MANIFEST auto-regen)
-56d48e8 Update CLAUDE.md: add dawn-academy to directory structure, document MANIFEST.md workflow
-cf2c090 Add Dawn Academy section + Gen 3 heroes (Mia, Greg, Logan); add MANIFEST sync mechanism
 ```

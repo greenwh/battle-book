@@ -75,6 +75,16 @@ Taking **every** building all the way to FC10 totals roughly **39,700 Fire Cryst
 These are per-tier totals, not per-sub-level costs. Each tier's four sub-levels split the figure unevenly, and exact sub-level costs vary slightly by state and patch. For sub-level granularity, cross-check an in-game preview or a current cost calculator before committing speedups.
 :::
 
+## Detailed Build Data (Download)
+
+The cost tables above show Fire Crystals and Refined Fire Crystals only. If you're planning resource stockpiles or build-queue timing, the full per-tier dataset is available as a spreadsheet — **Wood, Meat, Coal, Iron, base build time, and the prerequisite for every tier** — covering the Furnace, Embassy, the three troop camps, and War Academy.
+
+::: tip Download
+[**FC1→FC10 full cost table (CSV)**](/fc-era-upgrade-costs.csv) — resources, time, and prerequisites per tier.
+:::
+
+Every figure is the tier total with its sub-level breakdown in parentheses — for example, `900 (4×200 + 100)` means four sub-levels of 200 plus a 100 final step. Data is from the official Whiteout Survival Wiki, cross-checked against community cost compilations.
+
 ## Refined Fire Crystals: The Real Bottleneck
 
 Raw Fire Crystals are easy to stockpile from events and shops. Refined Fire Crystals are not — you can only make them yourself, on a daily clock, and missed days are gone for good.

@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-27 02:24:22 UTC
-**Last commit:** `63ac98a`
+**Last updated:** 2026-06-27 02:24:48 UTC
+**Last commit:** `4a3ea5a`
 
 ## Deployed Pages
 
@@ -271,12 +271,12 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 
     lastUpdatedText: 'Last updated',
   },
-})
 ```
 
 ## Recent Deployment History
 
 ```
+4a3ea5a Add Server Timeline (reference) + Hero Roster (strategy/heroes) pages, sidebar + hub links
 63ac98a chore: regenerate MANIFEST.md [skip manifest]
 ad49527 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
 bc1a213 cleanup
@@ -286,5 +286,4 @@ f236512 Update CLAUDE.md: combat dir structure, MANIFEST path, cleanUrls gotcha
 1405dda chore: regenerate MANIFEST.md [skip manifest]
 8b7b1e4 Fix manifest link: use full URL to avoid VitePress cleanUrls stripping .md extension
 dde8850 chore: regenerate MANIFEST.md [skip manifest]
-a6c963b Fix homepage Recently Updated section: add Combat Reports bullet, move Site Manifest before changelog line
 ```

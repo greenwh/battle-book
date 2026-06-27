@@ -9,6 +9,19 @@ This section covers the **progression systems** that determine how strong your a
 
 Every system in Whiteout Survival interacts multiplicatively — investing broadly across heroes, gear, pets, research, and Island decorations outperforms maxing any single system. The guides here are sequenced to help you prioritize.
 
+## Power Priority
+
+Every account power source ranked by impact and cost — what to focus on first, what most players leave on the table, and how to hold the big upgrades for SvS so each one pays twice.
+
+- [Power Priority](/strategy/power-priority) — all ten power systems ranked, permanent vs. soft-power framing, common leaks, and the SvS "bank it" framework
+- [Power Audit Checklist](/strategy/power-checklist) — step-by-step diagnostic to find the single biggest gain on any account or screenshot, in under five minutes
+
+## Research
+
+The Research Center is the top power lever in the game — permanent, never lost in battle, and almost entirely time-gated rather than spend-gated. Keeping the queue full is the single highest-value habit in Whiteout Survival.
+
+- [Research (Technology)](/strategy/research) — why research leads all other systems, the never-idle queue rule, mid-game Battle-tab priority by troop type, War Academy Fire Crystal research at Furnace 30, and when to bank speedups for SvS
+
 ## Daybreak Island
 
 Your island is a permanent stat engine. Decorations provide combat buffs, the Tree of Life unlocks milestone rewards, and Prosperity gates everything.
@@ -48,6 +61,7 @@ Enhancement priority slots by troop type, reforge strategy, Mythic transfer rule
 - [Reforge Strategy](/strategy/gear/reforge) — when and what to reforge
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — free same-type transfers
 - [Chief Gear](/strategy/gear/chief-gear) — F22 unlock, set bonuses, upgrade order
+- [Chief Charms](/strategy/gear/chief-charms) — F25 Lethality and Health layer, 18-slot map, Level 11 material-exchange unlock, Jewel Secret gates, and why charms are the top SvS prep scorer
 
 ## Pets
 

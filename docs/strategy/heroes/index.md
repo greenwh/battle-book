@@ -27,6 +27,12 @@ The roughly 50% Attack/Defense uplift from Gen 2 → Gen 3 is the single biggest
 
 ## Guides in This Section
 
+### Hero Roster
+
+The full index of every hero by generation and class, and how to get each one.
+
+- [Hero Roster](/strategy/heroes/roster) — every hero, their class, and acquisition source
+
 ### Development Roadmap
 
 A phased progression plan from Gen 1 Furnace 20 through Gen 3 — for any alliance member at any stage.

@@ -70,6 +70,8 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 ## Recently updated
 
+- **Server Timeline** — new Reference page mapping hero generations (Gen 1–16), pets, Fire Crystal levels, experts, and events to server age
+- **Hero Roster** — new Strategy page indexing every hero by generation and class, with acquisition sources
 - **Combat Section** — new section covering rally mechanics, rally joining, garrison swaps, troop replenishment, pet buff interactions, and pre-battle checklist
 - **Strategy Expansion** — hero development roadmap, individual hero pages (Flint, Molly, Bahiti, Alonzo, Mia), gear strategy, pet strategy
 - **SvS Prep Guide** — full coverage of all 5 prep days, scoring, and the field triage window

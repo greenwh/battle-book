@@ -94,6 +94,7 @@ export default defineConfig({
               collapsed: false,
               items: [
                 { text: 'Hero Hub', link: '/strategy/heroes/' },
+                { text: 'Hero Roster', link: '/strategy/heroes/roster' },
                 { text: 'Development Roadmap', link: '/strategy/heroes/development-roadmap' },
                 { text: 'Flint', link: '/strategy/heroes/flint' },
                 { text: 'Logan', link: '/strategy/heroes/logan' },
@@ -170,6 +171,7 @@ export default defineConfig({
           text: 'Reference',
           items: [
             { text: 'Glossary', link: '/reference/glossary' },
+            { text: 'Server Timeline', link: '/reference/server-timeline' },
             { text: 'Changelog', link: '/reference/changelog' },
           ],
         },

@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-26 20:44:31 UTC
-**Last commit:** `ad49527`
+**Last updated:** 2026-06-27 02:24:22 UTC
+**Last commit:** `63ac98a`
 
 ## Deployed Pages
 
@@ -52,6 +52,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/reference/changelog` — changelog.md
 - `/reference/components-demo` — components-demo.md
 - `/reference/glossary` — glossary.md
+- `/reference/server-timeline` — server-timeline.md
 
 ### `/strategy/`
 
@@ -76,6 +77,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/heroes/logan` — logan.md
 - `/strategy/heroes/mia` — mia.md
 - `/strategy/heroes/molly` — molly.md
+- `/strategy/heroes/roster` — roster.md
 - `/strategy/` — index.md
 - `/strategy/island/buildings` — buildings.md
 - `/strategy/island/decorations` — decorations.md
@@ -149,6 +151,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
               collapsed: false,
               items: [
                 { text: 'Hero Hub', link: '/strategy/heroes/' },
+                { text: 'Hero Roster', link: '/strategy/heroes/roster' },
                 { text: 'Development Roadmap', link: '/strategy/heroes/development-roadmap' },
                 { text: 'Flint', link: '/strategy/heroes/flint' },
                 { text: 'Logan', link: '/strategy/heroes/logan' },
@@ -225,6 +228,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
           text: 'Reference',
           items: [
             { text: 'Glossary', link: '/reference/glossary' },
+            { text: 'Server Timeline', link: '/reference/server-timeline' },
             { text: 'Changelog', link: '/reference/changelog' },
           ],
         },
@@ -267,11 +271,13 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 
     lastUpdatedText: 'Last updated',
   },
+})
 ```
 
 ## Recent Deployment History
 
 ```
+63ac98a chore: regenerate MANIFEST.md [skip manifest]
 ad49527 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
 bc1a213 cleanup
 ec0761f chore: regenerate MANIFEST.md [skip manifest]
@@ -281,5 +287,4 @@ f236512 Update CLAUDE.md: combat dir structure, MANIFEST path, cleanUrls gotcha
 8b7b1e4 Fix manifest link: use full URL to avoid VitePress cleanUrls stripping .md extension
 dde8850 chore: regenerate MANIFEST.md [skip manifest]
 a6c963b Fix homepage Recently Updated section: add Combat Reports bullet, move Site Manifest before changelog line
-06477d2 chore: regenerate MANIFEST.md [skip manifest]
 ```

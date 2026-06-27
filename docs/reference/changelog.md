@@ -10,6 +10,11 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## June 2026
 
+### Server Timeline + Hero Roster
+
+- Added Server Timeline reference page — server-age unlock schedule for hero generations (Gen 1–16), pets, Fire Crystal milestones, experts, and events, with server-age calculation methods.
+- Added Hero Roster page — all heroes by generation and class, with acquisition sources (Lucky Wheel / Hall of Heroes / Hall of Chiefs for Gen 1–5; Epic and Rare heroes indexed).
+
 ### Strategy Cost References
 
 - New **Fire Crystal Upgrades (FC1→FC10)** page — per-building FC and Refined Fire Crystal costs, refining, unlock windows, upgrade priority. Sequel to Furnace 20→30.

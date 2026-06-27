@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-27 16:20:02 UTC
-**Last commit:** `41257de`
+**Last updated:** 2026-06-27 16:41:31 UTC
+**Last commit:** `07ffdbd`
 
 ## Deployed Pages
 
@@ -284,6 +284,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+07ffdbd Add Power Priority, Research, and Chief Charms to Strategy Hub page
+e61c38a chore: regenerate MANIFEST.md [skip manifest]
 41257de Add Power strategy section: Power Priority, Audit Checklist, Research, Chief Charms
 d3ac6f6 Update CLAUDE.md directory structure: add roster + server-timeline
 901a522 chore: regenerate MANIFEST.md [skip manifest]
@@ -292,6 +294,4 @@ d3ac6f6 Update CLAUDE.md directory structure: add roster + server-timeline
 ad49527 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
 bc1a213 cleanup
 ec0761f chore: regenerate MANIFEST.md [skip manifest]
-46900f1 Add Fire Crystal, Pet Costs, Chief Gear Costs pages; Merc Prestige wave-count note
-f236512 Update CLAUDE.md: combat dir structure, MANIFEST path, cleanUrls gotcha
 ```

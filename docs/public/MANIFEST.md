@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-27 02:24:48 UTC
-**Last commit:** `4a3ea5a`
+**Last updated:** 2026-06-27 16:20:02 UTC
+**Last commit:** `41257de`
 
 ## Deployed Pages
 
@@ -62,6 +62,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/dawn-academy/trek-guide` — trek-guide.md
 - `/strategy/fire-crystal` — fire-crystal.md
 - `/strategy/furnace` — furnace.md
+- `/strategy/gear/chief-charms` — chief-charms.md
 - `/strategy/gear/chief-gear-costs` — chief-gear-costs.md
 - `/strategy/gear/chief-gear` — chief-gear.md
 - `/strategy/gear/hero-gear` — hero-gear.md
@@ -86,6 +87,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/pets/combat-pets` — combat-pets.md
 - `/strategy/pets/` — index.md
 - `/strategy/pets/upgrade-costs` — upgrade-costs.md
+- `/strategy/power-checklist` — power-checklist.md
+- `/strategy/power-priority` — power-priority.md
+- `/strategy/research` — research.md
 
 ### `/troops/`
 
@@ -134,6 +138,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
           text: 'Strategy',
           items: [
             { text: 'Strategy Hub', link: '/strategy/' },
+            { text: 'Power Priority', link: '/strategy/power-priority' },
+            { text: 'Power Audit Checklist', link: '/strategy/power-checklist' },
+            { text: 'Research (Technology)', link: '/strategy/research' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
             {
@@ -172,6 +179,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
                 { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
                 { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },
                 { text: 'Chief Gear Costs', link: '/strategy/gear/chief-gear-costs' },
+                { text: 'Chief Charms', link: '/strategy/gear/chief-charms' },
               ],
             },
             {
@@ -276,6 +284,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+41257de Add Power strategy section: Power Priority, Audit Checklist, Research, Chief Charms
+d3ac6f6 Update CLAUDE.md directory structure: add roster + server-timeline
+901a522 chore: regenerate MANIFEST.md [skip manifest]
 4a3ea5a Add Server Timeline (reference) + Hero Roster (strategy/heroes) pages, sidebar + hub links
 63ac98a chore: regenerate MANIFEST.md [skip manifest]
 ad49527 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
@@ -283,7 +294,4 @@ bc1a213 cleanup
 ec0761f chore: regenerate MANIFEST.md [skip manifest]
 46900f1 Add Fire Crystal, Pet Costs, Chief Gear Costs pages; Merc Prestige wave-count note
 f236512 Update CLAUDE.md: combat dir structure, MANIFEST path, cleanUrls gotcha
-1405dda chore: regenerate MANIFEST.md [skip manifest]
-8b7b1e4 Fix manifest link: use full URL to avoid VitePress cleanUrls stripping .md extension
-dde8850 chore: regenerate MANIFEST.md [skip manifest]
 ```

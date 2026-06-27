@@ -10,6 +10,14 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## June 2026
 
+### Power Strategy Section
+
+- New **Power Priority** page — every account power source ranked by impact and cost, with the permanent-vs-soft-power framing and an SvS “bank it” section.
+- New **Power Audit Checklist** page — step-by-step diagnostic to find the biggest available power gain on any account or screenshot.
+- New **Research (Technology)** page — why research is the top power lever, the never-idle queue rule, mid-game Battle-tab priority, War Academy FC research, and SvS timing.
+- New **Chief Charms** page — the Furnace 25 Lethality/Health layer, 18-slot map, Level 11 exchange and Jewel Secret breakpoints, and SvS scoring.
+- Cross-links added; the Chief Gear page's charm note now points to the full Chief Charms guide.
+
 ### Server Timeline + Hero Roster
 
 - Added Server Timeline reference page — server-age unlock schedule for hero generations (Gen 1–16), pets, Fire Crystal milestones, experts, and events, with server-age calculation methods.

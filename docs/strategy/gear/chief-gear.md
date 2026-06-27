@@ -62,9 +62,7 @@ These materials are slow to accumulate. Don't spread them across multiple qualit
 
 ## Chief Charms (Furnace 25)
 
-At Furnace 25, you unlock Chief Charms — an additional stat layer on top of Chief Gear. Charms are leveled with Charm Designs (from Foundry Shop, Frostfire Mine, KoI rewards).
-
-**Key rule:** Level charms evenly. Like Chief Gear set bonuses, charm bonuses reward uniformity. Pushing one charm to max while others lag provides less total benefit than keeping them balanced.
+At Furnace 25 you unlock Chief Charms — three slots on each gear piece that add **Lethality and Health** to the matching troop type. They are a major power layer in their own right, and one of the highest-scoring SvS prep tasks. See the full **[Chief Charms](/strategy/gear/chief-charms)** guide for the slot map, the Level 11 material-exchange breakpoint, Jewel Secret gates, materials, and SvS timing.
 
 ## Common Mistakes
 

@@ -70,6 +70,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 ## Recently updated
 
+- **Power Strategy** — new Power Priority page ranking every account power source, a Power Audit Checklist for fast account diagnosis, plus full Research (Technology) and Chief Charms guides
 - **Server Timeline** — new Reference page mapping hero generations (Gen 1–16), pets, Fire Crystal levels, experts, and events to server age
 - **Hero Roster** — new Strategy page indexing every hero by generation and class, with acquisition sources
 - **Combat Section** — new section covering rally mechanics, rally joining, garrison swaps, troop replenishment, pet buff interactions, and pre-battle checklist

@@ -77,6 +77,9 @@ export default defineConfig({
           text: 'Strategy',
           items: [
             { text: 'Strategy Hub', link: '/strategy/' },
+            { text: 'Power Priority', link: '/strategy/power-priority' },
+            { text: 'Power Audit Checklist', link: '/strategy/power-checklist' },
+            { text: 'Research (Technology)', link: '/strategy/research' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
             {
@@ -115,6 +118,7 @@ export default defineConfig({
                 { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
                 { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },
                 { text: 'Chief Gear Costs', link: '/strategy/gear/chief-gear-costs' },
+                { text: 'Chief Charms', link: '/strategy/gear/chief-charms' },
               ],
             },
             {

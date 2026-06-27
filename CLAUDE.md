@@ -32,7 +32,7 @@ docs/
     index.md               ← strategy hub
     furnace.md             ← Furnace 20→30 guide
     island/                ← Daybreak Island (overview, buildings, decorations, progression)
-    heroes/                ← hub, development-roadmap, flint, molly, bahiti, alonzo, mia, greg, logan
+    heroes/                ← hub, roster, development-roadmap, flint, molly, bahiti, alonzo, mia, greg, logan
     gear/                  ← hub, hero-gear, reforge, mythic-transfer, chief-gear
     pets/                  ← hub, combat-pets
     dawn-academy/          ← hub (index), experts, trek-guide, resources
@@ -40,7 +40,7 @@ docs/
   │                           troop-replenishment, pet-buffs, pre-battle-checklist,
   │                           scout-reports, battle-reports, reading-reports, garrison-captain
   troops/                  ← hub, ratios
-  reference/               ← glossary, changelog
+  reference/               ← glossary, server-timeline, changelog
   orientation/             ← new-member
 ```
 

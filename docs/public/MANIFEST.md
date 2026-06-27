@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-06-27 16:41:31 UTC
-**Last commit:** `07ffdbd`
+**Last updated:** 2026-06-27 21:14:29 UTC
+**Last commit:** `4c03b0b`
 
 ## Deployed Pages
 
@@ -284,6 +284,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+4c03b0b Fix charm leveling strategy: exchange unlocks at one charm L11, not all 18
+1182884 chore: regenerate MANIFEST.md [skip manifest]
 07ffdbd Add Power Priority, Research, and Chief Charms to Strategy Hub page
 e61c38a chore: regenerate MANIFEST.md [skip manifest]
 41257de Add Power strategy section: Power Priority, Audit Checklist, Research, Chief Charms
@@ -292,6 +294,4 @@ d3ac6f6 Update CLAUDE.md directory structure: add roster + server-timeline
 4a3ea5a Add Server Timeline (reference) + Hero Roster (strategy/heroes) pages, sidebar + hub links
 63ac98a chore: regenerate MANIFEST.md [skip manifest]
 ad49527 Add downloadable FC1→FC10 full cost CSV + link on fire-crystal page
-bc1a213 cleanup
-ec0761f chore: regenerate MANIFEST.md [skip manifest]
 ```

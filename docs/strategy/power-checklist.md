@@ -37,8 +37,8 @@ Go top to bottom. Each step is a quick check and the fix. Stop fixing at the fir
 
 ### 5. Chief Charms (Furnace 25+)
 
-- **Check:** Are any charms above level 1? Are they spread evenly, or spiked on a few?
-- **Fix:** Spread evenly. Aim everything at level 11 to unlock the material exchange before pushing higher.
+- **Check:** Has any charm reached Level 11 yet (one charm at 11 unlocks the material exchange)? Are upgrades weighted to the troops they field, or spent on a type they barely deploy?
+- **Fix:** Get one charm to Level 11 first to unlock the exchange, then bring the rest up, weighted to their fielded troop types. Level 11 across all eighteen is the plateau before Jewel Secrets.
 
 ### 6. Heroes
 

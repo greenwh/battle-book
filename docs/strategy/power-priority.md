@@ -75,7 +75,7 @@ Spend profile: gated by Hardened Alloy and Polishing Solution, from beast hunts,
 
 Charms sit inside your Chief Gear — three per piece, eighteen in total — and raise troop Lethality and Health. They are a large late-game power source, and one of the highest-scoring activities in SvS prep, which is the main reason to hold them for the window (see below).
 
-The move: spread levels evenly across all eighteen rather than spiking a few, get everything to level 11 to unlock the material exchange, then push higher. Levels 12 and up also need Jewel Secrets, the rarest charm material.
+The move: push one charm to Level 11 first — that single charm unlocks the material exchange, which then lets you trade surplus materials and balance the rest far more cheaply. From there, bring the other charms up, weighted to the troops you actually field. Level 11 across all eighteen is the free-to-play plateau; Levels 12 and up also need Jewel Secrets, the rarest charm material. See [Chief Charms](/strategy/gear/chief-charms) for the full strategy.
 
 Spend profile: gated by Charm Guides, Charm Designs, and (late) Jewel Secrets, from Frostfire Mine, Castle Battle, and the Giant Elk pet.
 

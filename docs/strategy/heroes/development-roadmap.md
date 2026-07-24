@@ -6,7 +6,7 @@ description: Phased hero progression from Gen 1 Furnace 20 through Gen 3 — for
 # Hero Development Roadmap
 
 ::: info Quick take
-This is the phased progression plan for hero development from Gen 1 F20 through Gen 3. It's not personalized to any one account — it's the framework any Ice Kings member can follow. **Generation 3 (Mia, Greg, Logan) is now available** as of mid-2026 for servers past Day 120; the Phase 5 section covers the transition plan.
+This is the phased progression plan for hero development from Gen 1 F20 through Gen 3. It's not personalized to any one account — it's the framework any pha Ghosts member can follow. **Generation 3 (Mia, Greg, Logan) is now available** as of mid-2026 for servers past Day 120; the Phase 5 section covers the transition plan.
 :::
 
 ## Phase 1: Gen 1 Foundation (F18–F22)

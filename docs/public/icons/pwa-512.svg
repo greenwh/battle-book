@@ -5,9 +5,9 @@
       <stop offset="45%"  stop-color="#a8dff5"/>
       <stop offset="100%" stop-color="#5cc4e8"/>
     </linearGradient>
-    <linearGradient id="crownGrad" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"   stop-color="#f5e54a"/>
-      <stop offset="100%" stop-color="#c89010"/>
+    <linearGradient id="ghostGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#d6ecf9"/>
     </linearGradient>
     <filter id="glow" x="-25%" y="-25%" width="150%" height="150%">
       <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur"/>
@@ -20,16 +20,20 @@
 
   <rect width="512" height="512" fill="#0d0f14" rx="48"/>
 
-  <!-- Crown centered at x=256, scaled up from 32px favicon -->
-  <path d="M 112,176 L 112,128 L 160,48 L 200,112 L 256,32 L 312,112 L 352,48 L 400,128 L 400,176 Z"
-        fill="url(#crownGrad)" filter="url(#glow)"/>
+  <!-- Ghost, scaled up from the 32px favicon (translate 6.5,1 scale 0.8 -> x16) -->
+  <g transform="translate(104,16) scale(12.8)" filter="url(#glow)">
+    <path d="M12,2 C7.58,2 4,5.58 4,10 L4,20.5 C4,20.9 4.5,21.1 4.8,20.8 L6.8,18.8 L8.8,20.8 C9.1,21.1 9.6,21.1 9.9,20.8 L12,18.7 L14.1,20.8 C14.4,21.1 14.9,21.1 15.2,20.8 L17.2,18.8 L19.2,20.8 C19.5,21.1 20,20.9 20,20.5 L20,10 C20,5.58 16.42,2 12,2 Z"
+          fill="url(#ghostGrad)"/>
+    <circle cx="9.3" cy="10.5" r="1.3" fill="#0d0f14"/>
+    <circle cx="14.7" cy="10.5" r="1.3" fill="#0d0f14"/>
+  </g>
 
-  <!-- K centered -->
-  <text x="256" y="432"
+  <!-- p centered -->
+  <text x="256" y="464"
         text-anchor="middle"
         font-family="Georgia, 'Times New Roman', serif"
-        font-size="256"
+        font-size="240"
         font-weight="bold"
         fill="url(#iceGrad)"
-        filter="url(#glow)">K</text>
+        filter="url(#glow)">p</text>
 </svg>

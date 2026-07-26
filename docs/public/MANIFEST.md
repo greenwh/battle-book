@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-07-24 22:56:35 UTC
-**Last commit:** `75c6371`
+**Last updated:** 2026-07-26 13:19:31 UTC
+**Last commit:** `8146f38`
 
 ## Deployed Pages
 
@@ -284,6 +284,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+8146f38 Add changelog entry for the pha Ghosts rebrand
+4fcd5ea chore: regenerate MANIFEST.md [skip manifest]
 75c6371 Merge remote main and regenerate MANIFEST.md
 a08dc42 Update remaining branding, config, and icon assets for pha Ghosts rebrand
 7e037d0 Rebrand from Ice Kings/KNG to pha Ghosts
@@ -292,6 +294,4 @@ a08dc42 Update remaining branding, config, and icon assets for pha Ghosts rebran
 1182884 chore: regenerate MANIFEST.md [skip manifest]
 07ffdbd Add Power Priority, Research, and Chief Charms to Strategy Hub page
 e61c38a chore: regenerate MANIFEST.md [skip manifest]
-41257de Add Power strategy section: Power Priority, Audit Checklist, Research, Chief Charms
-d3ac6f6 Update CLAUDE.md directory structure: add roster + server-timeline
 ```

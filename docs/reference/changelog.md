@@ -8,6 +8,14 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## July 2026
+
+### Rebrand — pha Ghosts
+
+- Alliance rebrand from **Ice Kings (KNG)** to **pha Ghosts (pha)**.
+- Landing image, favicon, and all app/PWA icons replaced with pha Ghosts banner artwork (crown motif swapped for a ghost).
+- Content is unchanged — this was a branding-only update.
+
 ## June 2026
 
 ### Power Strategy Section

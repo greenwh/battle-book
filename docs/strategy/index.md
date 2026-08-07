@@ -61,7 +61,7 @@ Enhancement priority slots by troop type, reforge strategy, Mythic transfer rule
 - [Reforge Strategy](/strategy/gear/reforge) — when and what to reforge
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — free same-type transfers
 - [Chief Gear](/strategy/gear/chief-gear) — F22 unlock, set bonuses, upgrade order
-- [Chief Charms](/strategy/gear/chief-charms) — F25 Lethality and Health layer, 18-slot map, Level 11 material-exchange unlock, Jewel Secret gates, and why charms are the top SvS prep scorer
+- [Chief Charms](/strategy/gear/chief-charms) — F25 Lethality and Health layer, 18-slot map, the power-per-Design cost table, why the Level 11 material-exchange push is a late-account move, and why charms are the top SvS prep scorer
 
 ## Pets
 

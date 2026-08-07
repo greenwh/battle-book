@@ -37,8 +37,8 @@ Go top to bottom. Each step is a quick check and the fix. Stop fixing at the fir
 
 ### 5. Chief Charms (Furnace 25+)
 
-- **Check:** Has any charm reached Level 11 yet (one charm at 11 unlocks the material exchange)? Are upgrades weighted to the troops they field, or spent on a type they barely deploy?
-- **Fix:** Get one charm to Level 11 first to unlock the exchange, then bring the rest up, weighted to their fielded troop types. Level 11 across all eighteen is the plateau before Jewel Secrets.
+- **Check:** Are all eighteen slots filled, and are they all at Level 4 or higher? Any slot left empty or at Level 1 is the cheapest power on the account. Above Level 6, are upgrades weighted to the troops they field?
+- **Fix:** Fill every slot, then bring all eighteen to Level 4 — that band returns roughly five times the power per Charm Design that Level 7+ does. Only then push higher, weighted to fielded troop types. Do **not** rush one charm to Level 11 for the material exchange on a young state: the exchange converts surplus Charm Guides into Designs, and the climb to 11 consumes more Designs than Guides, so there is no surplus to convert yet. Start that push around Gen 5.
 
 ### 6. Heroes
 

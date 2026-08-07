@@ -8,6 +8,12 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## August 2026
+
+- **Chief Charms corrected** — the "push one charm to Level 11 early" advice was wrong for young states and has been replaced. The page now carries a power-per-Charm-Design cost table showing that Levels 1–4 return roughly five times as much per Design as Level 7+, and reframes the Level 11 material exchange as a late-account move (the climb to 11 spends more Designs than Guides, so there is no surplus to convert yet). Sources conflict on whether the exchange also carries a Generation 7 gate; the page now says so and tells you to read the in-game unlock text.
+- **Chief Gear** — removed the incorrect claim that charms have a uniformity bonus. They have neither a set bonus nor a uniformity bonus.
+- **Power Priority, Power Audit Checklist, Strategy Hub** — charm guidance updated to match.
+
 ## July 2026
 
 ### Rebrand — pha Ghosts

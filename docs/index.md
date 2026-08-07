@@ -70,6 +70,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 ## Recently updated
 
+- **Chief Charms rewritten** — cost-per-Charm-Design table, why Levels 1–4 are the best spend on the account, and why the Level 11 material-exchange push is a late-account move rather than a starting move
 - **Power Strategy** — new Power Priority page ranking every account power source, a Power Audit Checklist for fast account diagnosis, plus full Research (Technology) and Chief Charms guides
 - **Server Timeline** — new Reference page mapping hero generations (Gen 1–16), pets, Fire Crystal levels, experts, and events to server age
 - **Hero Roster** — new Strategy page indexing every hero by generation and class, with acquisition sources

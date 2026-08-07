@@ -62,7 +62,7 @@ These materials are slow to accumulate. Don't spread them across multiple qualit
 
 ## Chief Charms (Furnace 25)
 
-At Furnace 25 you unlock Chief Charms — three slots on each gear piece that add **Lethality and Health** to the matching troop type. They are a major power layer in their own right, and one of the highest-scoring SvS prep tasks. See the full **[Chief Charms](/strategy/gear/chief-charms)** guide for the slot map, the Level 11 material-exchange breakpoint, Jewel Secret gates, materials, and SvS timing.
+At Furnace 25 you unlock Chief Charms — three slots on each gear piece that add **Lethality and Health** to the matching troop type. They are a major power layer in their own right, and one of the highest-scoring SvS prep tasks. See the full **[Chief Charms](/strategy/gear/chief-charms)** guide for the slot map, what each level costs against what it returns, why the Level 11 material-exchange push is a late-account move, Jewel Secret gates, materials, and SvS timing.
 
 ## Common Mistakes
 
@@ -72,7 +72,7 @@ At Furnace 25 you unlock Chief Charms — three slots on each gear piece that ad
 
 3. **Forgetting to equip Chief Gear.** It sounds obvious, but new players sometimes craft gear and forget to equip it. Check your Chief equipment screen after crafting.
 
-4. **Spending Charm Designs unevenly.** Uniformity bonus means balanced investment wins.
+4. **Treating charms like gear.** Charms have **no set bonus and no uniformity bonus** — evenness is not rewarded on its own. What is rewarded is filling all eighteen slots and clearing the cheap early levels first. See [Chief Charms](/strategy/gear/chief-charms).
 
 ## Related Guides
 

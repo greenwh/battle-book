@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-07 20:33:36 UTC
-**Last commit:** `589f1c1`
+**Last updated:** 2026-08-19 20:54:24 UTC
+**Last commit:** `ca88d04`
 
 ## Deployed Pages
 
@@ -42,6 +42,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/events/sunfire-castle` — sunfire-castle.md
 - `/events/svs/overview` — overview.md
 - `/events/svs/prep-checklist` — prep-checklist.md
+- `/events/winter-siege` — winter-siege.md
 
 ### `/orientation/`
 
@@ -130,6 +131,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
             { text: 'Mercenary Prestige', link: '/events/mercenary-prestige' },
             { text: 'Snowbusters', link: '/events/snowbusters' },
             { text: 'Sunfire Castle Battle', link: '/events/sunfire-castle' },
+            { text: 'Winter Siege', link: '/events/winter-siege' },
           ],
         },
       ],
@@ -284,6 +286,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+ca88d04 Add Winter Siege event guide
+2b70b19 chore: regenerate MANIFEST.md [skip manifest]
 589f1c1 fix(charms): correct Level 11 advice for young states; add cost-per-Design table
 1318229 chore: regenerate MANIFEST.md [skip manifest]
 8146f38 Add changelog entry for the pha Ghosts rebrand
@@ -292,6 +296,4 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 a08dc42 Update remaining branding, config, and icon assets for pha Ghosts rebrand
 7e037d0 Rebrand from Ice Kings/KNG to pha Ghosts
 19f678d chore: regenerate MANIFEST.md [skip manifest]
-4c03b0b Fix charm leveling strategy: exchange unlocks at one charm L11, not all 18
-1182884 chore: regenerate MANIFEST.md [skip manifest]
 ```

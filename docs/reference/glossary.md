@@ -113,6 +113,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 ## Combat Terms
 
+**Attack Attempt** — In Winter Siege, a squad's limited offensive charges. Each squad starts with 3, restores 1 every 2 hours up to 7 restores, for a maximum of 10 attacks across the whole Battle Phase. Attempts bank and can be spent all at once.
+
 **Battle Report** — The data screen shown after a combat resolves. Contains both sides' stats, active buffs, hero loadouts, troop survival counts, and casualty breakdown. The primary post-battle intelligence source.
 
 **Bonus Source** — In any combat, the source of the heroes, skills, and stats applied to the math. For solo attacks and rallies, the Bonus Source is the same person as the Leader. For garrisons and reinforced cities, the Bonus Source is the member with the **highest total combat power** (Chief Gear + Charms + Hero Gear + Hero Power + Battle Research), which may differ from the flagged garrison leader. This is why weak-looking garrisons can fight at whale stats.
@@ -127,6 +129,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Garrison Swap** — Technique for replacing an attack march with a garrison march by timing a recall during the last seconds of a garrison march arrival.
 
+**Heart** — In Winter Siege, a garrisoned squad's health. The squad loses one Heart per failed defense. Its Stars are only deducted when every Heart is gone, so partial damage scores nothing.
+
 **Hospital Capacity Signal** — In scout reports, a full or near-full hospital means the defender cannot absorb new wounded troops — additional casualties become permanent losses instead of healing. A scout-readable vulnerability indicator.
 
 **Joiner** — A player who reinforces a rally. Joins another player's rally.
@@ -137,15 +141,21 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Lion Intimidation** — Logan's second Expedition skill. Reduces damage taken by 20% for all troops at max level. Unlike most defensive skills, it has no proc chance — flat application. Gen 3 garrison captain core.
 
+**Morale** — In Winter Siege, a multiplier on a squad's stats: Squad Stats = stats at the end of the Preparation Phase x Morale. Attacker Morale is fixed at 100%. A garrison squad's Morale drops each time it wins a defense, and resets to 100% whenever it loses a Heart but survives.
+
 **Scout Report** — Pre-attack intelligence sent from the Battle Camp. Shows enemy troop counts, hospital capacity, marches outgoing, garrison reinforcements, and resource stockpiles. Does NOT show active gem buffs, pet skills, hero loadouts, or research status.
 
 **Solo march** — A single-player attack with no rally. The player's own troops, no reinforcements.
+
+**Stronghold Star** — In Winter Siege, the score unit. Each garrisoned squad contributes Stars to its Stronghold, with the amount varying by Stronghold. The alliance with more remaining Stars at the end of the Battle Phase wins.
 
 **Super Nutrients** — Patrick's first Expedition skill. Increases troop Health by 25% for all troops at max level. Universal garrison joiner pick at Gen 1/2.
 
 **Top-4 Mechanic** — The rally/garrison system selects the 4 highest-level first-Expedition skills from all joiners. Later joiners with higher-level skills replace weaker ones automatically.
 
 **Troop Replenishment** — Sending additional troops without a hero to reinforce an existing garrison mid-battle.
+
+**Warden** — In Winter Siege, one designated squad per Stronghold, appointed by R4/R5 during the Preparation Phase. Gains extra Stars and extra Hearts. Only the top 5 players by squad power in that Stronghold are eligible.
 
 **Wounded vs. Losses** — In a battle report's casualty breakdown: "lightly wounded" troops took damage but didn't need treatment; "wounded" troops require hospital healing (with resource cost); "losses" are permanent deaths. For defenders, a portion of losses are routed to Enlistment for recovery.
 

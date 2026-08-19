@@ -10,6 +10,7 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## August 2026
 
+- **Winter Siege added** — new event guide for the monthly top-20 alliance Stronghold battle. Covers the seven-day cycle, the Furnace 25 entry gate, garrison capacity and rejected-squad handling, Warden eligibility (top 5 by squad power in that Stronghold), the 10-attack-per-squad budget, the stronghold attack path, defender Morale decay, and the four win conditions — including the case where an untouched tie makes both alliances lose.
 - **Chief Charms corrected** — the "push one charm to Level 11 early" advice was wrong for young states and has been replaced. The page now carries a power-per-Charm-Design cost table showing that Levels 1–4 return roughly five times as much per Design as Level 7+, and reframes the Level 11 material exchange as a late-account move (the climb to 11 spends more Designs than Guides, so there is no surplus to convert yet). Sources conflict on whether the exchange also carries a Generation 7 gate; the page now says so and tells you to read the in-game unlock text.
 - **Chief Gear** — removed the incorrect claim that charms have a uniformity bonus. They have neither a set bonus nor a uniformity bonus.
 - **Power Priority, Power Audit Checklist, Strategy Hub** — charm guidance updated to match.

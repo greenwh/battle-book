@@ -69,6 +69,7 @@ export default defineConfig({
             { text: 'Mercenary Prestige', link: '/events/mercenary-prestige' },
             { text: 'Snowbusters', link: '/events/snowbusters' },
             { text: 'Sunfire Castle Battle', link: '/events/sunfire-castle' },
+            { text: 'Winter Siege', link: '/events/winter-siege' },
           ],
         },
       ],

@@ -70,6 +70,7 @@ Every page follows the same structure: at-a-glance summary, mechanics, day-by-da
 
 ## Recently updated
 
+- **Winter Siege** — new event guide for the monthly alliance Stronghold battle: Star and Heart scoring, Morale decay, Warden appointment rules, attack budgets, and the stronghold attack path
 - **Chief Charms rewritten** — cost-per-Charm-Design table, why Levels 1–4 are the best spend on the account, and why the Level 11 material-exchange push is a late-account move rather than a starting move
 - **Power Strategy** — new Power Priority page ranking every account power source, a Power Audit Checklist for fast account diagnosis, plus full Research (Technology) and Chief Charms guides
 - **Server Timeline** — new Reference page mapping hero generations (Gen 1–16), pets, Fire Crystal levels, experts, and events to server age

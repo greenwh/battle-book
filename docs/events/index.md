@@ -101,6 +101,13 @@ Biweekly 5-hour state-internal battle where all alliances are enemies — whoeve
 
 - [Sunfire Castle Battle Guide](/events/sunfire-castle)
 
+### Winter Siege
+**Monthly · Alliance vs. alliance Stronghold battle**
+
+Monthly top-20 alliance war fought over Stronghold Stars. Each Chief deploys two system-troop squads that both garrison and attack; everything locks Thursday and Saturday is a single 24-hour Battle Phase. Stars only move when a squad loses every Heart, and defender Morale decays with each successful defense — so focused, coordinated attacks beat raw power.
+
+- [Winter Siege Guide](/events/winter-siege)
+
 ## Coming Soon
 
 These guides will be added over time. The structure is in place; content is being verified and written.

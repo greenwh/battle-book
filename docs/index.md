@@ -29,6 +29,9 @@ hero:
     - theme: alt
       text: Reference & Glossary
       link: /reference/glossary
+    - theme: alt
+      text: Server Timeline
+      link: /reference/server-timeline
 
 features:
   - title: Event Guides

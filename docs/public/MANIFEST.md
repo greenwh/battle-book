@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-28 21:50:27 UTC
-**Last commit:** `44a3d76`
+**Last updated:** 2026-08-28 21:50:49 UTC
+**Last commit:** `02b7a50`
 
 ## Deployed Pages
 
@@ -285,12 +285,12 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 
     lastUpdatedText: 'Last updated',
   },
-})
 ```
 
 ## Recent Deployment History
 
 ```
+02b7a50 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages, pet section correction, August 17 patch absorption, Winter Siege expansion
 44a3d76 chore: regenerate MANIFEST.md [skip manifest]
 ca88d04 Add Winter Siege event guide
 2b70b19 chore: regenerate MANIFEST.md [skip manifest]
@@ -300,5 +300,4 @@ ca88d04 Add Winter Siege event guide
 4fcd5ea chore: regenerate MANIFEST.md [skip manifest]
 75c6371 Merge remote main and regenerate MANIFEST.md
 a08dc42 Update remaining branding, config, and icon assets for pha Ghosts rebrand
-7e037d0 Rebrand from Ice Kings/KNG to pha Ghosts
 ```

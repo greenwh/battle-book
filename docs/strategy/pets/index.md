@@ -36,11 +36,13 @@ Not every pet is about combat. These utility pets provide quality-of-life benefi
 
 ## Key Principles
 
-**Refinement uses Wild Marks — don't waste the good ones.** Common Wild Marks go on Gen 1 utility pets. **Save ALL Advanced Wild Marks for Cave Lion, Saber-Tooth Tiger, and Frost Gorilla** (Gen 3–4 combat pets). Refinement is RNG-based and mats are NOT recoverable.
+**Refinement uses Wild Marks — and the rule is by stage, not by pet.** Common Wild Marks handle **gray to blue on every pet**, and also **blue to purple on max-100-ceiling pets** (Cave Lion, Snow Ape). **Advanced Wild Marks have exactly one correct use: purple to gold.** Spending an Advanced mark at any earlier stage is a straight loss on any pet, because Commons do the same job there. Refinement is RNG-based and materials are NOT recoverable.
+
+**Strengthening Serums are the real ceiling.** They are the hardest pet bottleneck — harder than Pet Food. Do not push any pet past **level 50** until your serum reserves are comfortable. Go wide across several pets at 50 rather than deep on one.
 
 **Pet skills auto-activate in Labyrinth.** In Cave of Monsters and Gaia Heart zones, your combat pet skills trigger automatically. One less thing to remember.
 
-**Active skills last 2 hours.** Time activation for the event window — don't pop them casually. See [Pet Buffs](/combat/pet-buffs) for where they work and the AC registration trap.
+**Active skills last 2 hours.** Time activation for the event window — don't pop them casually. **Exception: Alliance Championship now activates pet skills automatically at deployment** (August 2026), so no manual activation is needed there. See [Pet Buffs](/combat/pet-buffs) for where they work and what the registration snapshot still captures.
 
 ## Where To Start
 
@@ -52,4 +54,4 @@ Not every pet is about combat. These utility pets provide quality-of-life benefi
 
 ---
 
-*Last verified: May 2026*
+*Last verified: August 2026*

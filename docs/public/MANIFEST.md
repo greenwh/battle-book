@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-19 20:54:24 UTC
-**Last commit:** `ca88d04`
+**Last updated:** 2026-08-28 21:50:27 UTC
+**Last commit:** `44a3d76`
 
 ## Deployed Pages
 
@@ -57,6 +57,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 
 ### `/strategy/`
 
+- `/strategy/crystal-laboratory` — crystal-laboratory.md
 - `/strategy/dawn-academy/experts` — experts.md
 - `/strategy/dawn-academy/` — index.md
 - `/strategy/dawn-academy/resources` — resources.md
@@ -91,6 +92,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/power-checklist` — power-checklist.md
 - `/strategy/power-priority` — power-priority.md
 - `/strategy/research` — research.md
+- `/strategy/wish-station` — wish-station.md
 
 ### `/troops/`
 
@@ -145,6 +147,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
             { text: 'Research (Technology)', link: '/strategy/research' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
+            { text: 'Crystal Laboratory', link: '/strategy/crystal-laboratory' },
+            { text: 'Wish Station', link: '/strategy/wish-station' },
             {
               text: 'Daybreak Island',
               collapsed: true,
@@ -281,11 +285,13 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 
     lastUpdatedText: 'Last updated',
   },
+})
 ```
 
 ## Recent Deployment History
 
 ```
+44a3d76 chore: regenerate MANIFEST.md [skip manifest]
 ca88d04 Add Winter Siege event guide
 2b70b19 chore: regenerate MANIFEST.md [skip manifest]
 589f1c1 fix(charms): correct Level 11 advice for young states; add cost-per-Design table
@@ -295,5 +301,4 @@ ca88d04 Add Winter Siege event guide
 75c6371 Merge remote main and regenerate MANIFEST.md
 a08dc42 Update remaining branding, config, and icon assets for pha Ghosts rebrand
 7e037d0 Rebrand from Ice Kings/KNG to pha Ghosts
-19f678d chore: regenerate MANIFEST.md [skip manifest]
 ```

@@ -75,6 +75,14 @@ Since only the first Expedition skill matters for joining, focus your Skill Manu
 
 Don't spread Skill Manuals across a joiner hero's other Expedition skills — those only matter if the hero leads.
 
+## The 90% Infirmary Lockout
+
+As of August 2026, **Auto-Join Rally cannot be enabled while your Infirmary is above 90% capacity**. If Auto-Join is already running when you cross that line, it **stops automatically** and you get a mail notification.
+
+This is a guardrail, not an obstacle. Above 90% Infirmary, further injuries start dying instead of being treated — so an auto-joining account with a full Infirmary was quietly converting healable troops into permanent losses.
+
+**What it means in practice:** clearing your Infirmary is now a prerequisite for auto-joining, not just good hygiene. During heavy Alliance War stretches, check the Infirmary before you rely on Auto-Join being active. See [Troop Replenishment](/combat/troop-replenishment).
+
 ## Common Mistakes
 
 1. **Sending Flint as a joiner.** This is the #1 mistake in most alliances. Flint is your best leader but a terrible joiner.

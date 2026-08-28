@@ -71,6 +71,20 @@ Master Forgery is an additional enhancement tier available only on Mythic gear. 
 
 MF uses Essence Stones, which come from Master Forgery events, KoI rewards, and limited sources. Don't waste them on secondary pieces or non-primary heroes.
 
+## Mastery Forging
+
+Mastery is the tier above enhancement on Mythic gear, fed by **Essence Stones** from Bear Hunt and event rewards. It is where a mature hero's gear investment actually goes.
+
+::: tip Changed in August 2026 — sub-stage upgrades
+Once Gear Mastery reaches **Level 4 or above**, Mastery upgrades changed from **full-level upgrades to sub-stage upgrades**. The **total cost of Mastery Forging is unchanged** — the same Essence Stone spend gets you to the same place. What changed is granularity: a progress bar now tracks how far you are toward the next Mastery level.
+
+**Why this matters practically.** Before the change, a hero sitting below the next Mastery level showed no progress at all, so a long Essence Stone grind toward Mastery 5 or Mastery 10 looked identical to doing nothing. Partial progress is now visible and bankable. If you have a hero stalled at an enhancement cap waiting on a Mastery threshold, you can now see exactly how far away it is and decide whether to keep feeding it or redirect stones elsewhere.
+:::
+
+**Sequencing rule:** Essence Stones spent on a Marksman's gear partially self-fund, because better Marksman gear raises your Bear Hunt output, which is where Essence Stones come from. Where two heroes compete for the same stones and neither is clearly ahead, feed the Marksman first.
+
+**Gear transfers are free between same-type hero successors.** Every stone you put into a slot is a permanent account asset, not an investment in one hero. See [Mythic Transfer](/strategy/gear/mythic-transfer).
+
 ## Widgets / Exclusive Gear
 
 Mythic heroes unlock a 5th gear slot (exclusive weapon) at 1★ Ascension. Widgets provide Hero Attack/Defense/Health AND Troop Health/Lethality as **Special Bonuses** — meaning they multiply on top of base combat stats, not add to them.
@@ -106,4 +120,4 @@ For rallies, only the rally leader's widget applies. Joiners' widgets don't cont
 
 ---
 
-*Last verified: May 2026 · Sources: wos-buff-strategy-roadmap.md § System 1 and § System 2, wally-enhancement-roadmap.md, beav-enhancement-roadmap.md*
+*Last verified: August 2026 · Sources: wos-buff-strategy-roadmap.md § System 1 and § System 2, wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, Century Games update notes (August 17, 2026) for the Mastery sub-stage change*

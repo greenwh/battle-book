@@ -6,7 +6,9 @@ description: All 9 Experts in the Dawn Academy — skills, Sigil costs, and F2P 
 # The Experts
 
 ::: info Quick take
-As of May 2026, there are **9 Experts** across three generations. The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
+There are **9 Experts** across three generations. The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
+
+**Baldur, Fabian, and Valeria unlock together around Day 200** and are live on Gen 2 states as of August 2026. If you have just received all three at once, skip to [Which of Baldur, Fabian, and Valeria First](#which-of-baldur-fabian-and-valeria-first).
 :::
 
 ## Priority Order
@@ -24,6 +26,16 @@ This is the F2P/minimal-spend consensus order as of mid-2026, prioritizing compo
 Romulus needs roughly **7× the Sigils** of Cyrille or Agnes to max. Even partial Romulus development displaces months of compounding gains from cheaper Experts. Don't be tempted by his stats sheet — the math doesn't work for F2P.
 :::
 
+## Finding Your Experts
+
+The August 2026 update added an **Expert List** to the Dawn Academy — every unlocked Expert in one place with quick switching between them. Newly unlocked Experts appear at the end of the list.
+
+Two other things changed at the same time:
+
+- When a new Expert unlocks, the **Expert Building in the Inner City shows a notification bubble**, and entering the Dawn Academy shows an introduction prompt. You will not silently miss an unlock any more.
+- The **Cancel Learning** button now sits next to the progress bar while a skill is being learned, instead of being buried.
+- With Romulus's **Call of War** active, tapping a troop camp claims the skill-granted troops first. Tap again to claim troops from completed Training.
+
 ## Sigil Requirements (Level 100)
 
 | Expert | Role | Sigils to Lv 100 | F2P Priority |
@@ -31,7 +43,7 @@ Romulus needs roughly **7× the Sigils** of Cyrille or Agnes to max. Even partia
 | **Agnes** | Economy/Development | ~275 | **Highest** |
 | **Cyrille** | Bear Huntress | ~275 | High |
 | **Holger** | Arena | ~440 | High |
-| **Baldur** | Alliance Events | ~440 | High (when unlocked) |
+| **Baldur** | Alliance Events | ~440 | High |
 | **Valeria** | SvS / State of Power | ~440 | Medium (SvS-focused) |
 | **Fabian** | Foundry Battle | ~440 | Medium (Foundry-focused) |
 | **Ronne** | Tundra Trade Route | ~440 | Low–Medium |
@@ -41,6 +53,26 @@ Romulus needs roughly **7× the Sigils** of Cyrille or Agnes to max. Even partia
 Sigils come in two forms: **Expert-specific** (e.g., Cyrille Sigils) and **Common** (convertible to any Expert). When the calculator tells you to use specific sigils first and Common as fallback, do that — it's almost always correct.
 
 ---
+
+## Which of Baldur, Fabian, and Valeria First
+
+On a Gen 2 state these three unlock together around Day 200, which turns the "situational, pick what you play" advice above into a real decision with a real answer.
+
+**Sort by how many hours per month the matching content actually occupies your alliance.**
+
+| Expert | Content | Cadence | Verdict |
+|---|---|---|---|
+| **Baldur** | Alliance events broadly — Alliance Championship, Mobilization, Crazy Joe | Weekly, multiple events | **First for almost everyone** |
+| **Fabian** | Foundry Battle | Weekly, one window | Second if your alliance contests Foundry seriously |
+| **Valeria** | SvS / State of Power | Every few weeks, high stakes | Second if SvS is where your alliance's identity lives |
+
+**Baldur is first in nearly every case.** He is the only one of the three whose coverage is broad rather than tied to a single event, and alliance events run more often than either Foundry or SvS. If you hold an R4 or R5 seat, this is not close — alliance event scoring is the thing you are personally accountable for.
+
+**Between Fabian and Valeria, follow your alliance's calendar, not the reward tables.** An alliance that registers for Foundry every week and coasts through SvS should take Fabian. An alliance that organizes hard for SvS and treats Foundry as optional should take Valeria. Splitting investment between them is the one clearly wrong answer — partial development in two Experts is worse than full development in either.
+
+::: tip Running more than one alliance
+If you hold leadership in two alliances, Baldur's lead widens rather than narrows. Alliance event scoring is the only one of the three that pays out in both places on the same schedule.
+:::
 
 ## 1st Generation Experts
 

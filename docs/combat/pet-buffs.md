@@ -6,7 +6,7 @@ description: Where pet combat buffs work, where they don't, and the critical All
 # Pet Buffs
 
 ::: info Quick take
-Pet combat skills provide major stat boosts — but only in specific modes. The most critical thing to know: in Alliance Championship, buffs lock in at registration. Activate pets BEFORE you register your march.
+Pet combat skills provide major stat boosts — but only in specific modes. **This page changed in August 2026:** Alliance Championship now activates pet skills automatically at deployment, so the old "activate before you register" rule no longer applies to pets. It still applies to every other timed buff.
 :::
 
 ## Where Pet Buffs Work
@@ -19,24 +19,28 @@ Pet combat skills provide major stat boosts — but only in specific modes. The 
 | Foundry Battle | ✅ Yes | |
 | Labyrinth | ✅ Yes | Auto-activate in Cave of Monsters and Gaia Heart zones |
 | SvS Battle Phase | ✅ Yes | Time activation for Castle Battle window |
-| Alliance Championship | ✅ Yes* | **MUST activate BEFORE registration** |
+| Alliance Championship | ✅ Yes | **Automatic at deployment** since Aug 2026 — no manual activation |
 | Arena | ❌ No | No buffs of any kind work in Arena |
 
 ## The AC Registration Trap
 
-::: warning This is the most common competitive mistake in the game
-Alliance Championship snapshots your buffs at the moment you register your march. If you register without pet buffs active, you will NOT have them during the battle phase — even if you activate them afterward.
+::: warning Changed in August 2026 — pets are now exempt
+The August 17, 2026 update made **pet skills activate automatically when squads are deployed** in Alliance Championship. Bonuses are calculated from your pet skill **levels** at the moment of deployment, not from whether you remembered to tap the pet.
+
+**What this means:** the two-hour duration and twenty-hour cooldown no longer constrain AC at all. You cannot miss the window, and you cannot waste a cooldown by activating early. Pet *level* is what matters now — which raises the value of the leveling and refinement work on [Combat Pets](/strategy/pets/combat-pets).
+
+**What did not change:** only pets were named in the patch notes. Gem buffs, alliance facility buffs, and every other timed bonus should still be treated as snapshotted at registration until someone tests otherwise.
 :::
 
-**Correct AC workflow:**
+**Current AC workflow:**
 
-1. Activate pet combat skills (Cave Lion, Saber-Tooth Tiger, etc.)
-2. Activate gem buffs if using them
+1. Activate gem buffs if using them
+2. Confirm any alliance facility buff is live
 3. Set troop ratio to 50/20/30 (NOT the default 33/33/33)
 4. **THEN** register your march
 5. **Do NOT re-register** after buffs expire — re-registering captures your current (now buff-less) state and wipes the original snapshot
 
-This applies to all timed buffs, not just pets. Gem buffs, alliance facility buffs — anything active at registration is captured. Anything that expires between registration and battle is lost if you re-register.
+Step 5 still matters. Anything that expires between registration and battle is lost if you re-register — pets excepted, since they are no longer part of the snapshot at all.
 
 ## Bear Trap Joiner Note
 
@@ -67,9 +71,9 @@ For SvS Castle Battle, activate at the start of the battle window (typically 10:
 
 ## Common Mistakes
 
-1. **Registering AC march before activating pet buffs.** Buffs are snapshotted at registration. No buffs at registration = no buffs in battle.
+1. **Still burning a pet cooldown before AC registration.** As of August 2026 pets fire automatically at deployment. Popping them manually beforehand achieves nothing and puts them on a twenty-hour cooldown you may want for a different event.
 
-2. **Re-registering AC march after buffs expire.** This overwrites your buff-captured registration with a buff-less one. Never re-register unless you've re-activated all buffs first.
+2. **Assuming the whole registration trap is gone.** Only pets were exempted. Gem buffs and facility buffs are still captured at registration, and re-registering after they expire still overwrites a good snapshot with a bad one.
 
 3. **Using Titan Roc Armor Rift when alliance kills the bear easily.** Lowers bear HP = lower damage score = worse rewards for everyone.
 
@@ -85,4 +89,4 @@ For SvS Castle Battle, activate at the start of the battle window (typically 10:
 
 ---
 
-*Last verified: May 2026 · Sources: Whiteout Survival Combat FAQ (Helpshift), verified alliance chat posts on AC registration mechanics, community testing on Bear Trap Armor Rift interaction*
+*Last verified: August 2026 · Sources: Whiteout Survival Combat FAQ (Helpshift), Century Games update notes (August 17, 2026) for the Alliance Championship pet auto-activation change, verified alliance chat posts on AC registration mechanics, community testing on Bear Trap Armor Rift interaction. Only pets were named as exempt from the registration snapshot — other timed buffs are unverified post-patch.*

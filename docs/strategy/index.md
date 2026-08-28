@@ -37,6 +37,8 @@ The Furnace gates every other system in the game. Knowing the resource costs and
 
 - [Furnace 20→30 Guide](/strategy/furnace) — Full cost table, prerequisite buildings, milestone unlocks, and pacing advice
 - [Fire Crystal Upgrades (FC1→FC10)](/strategy/fire-crystal) — the FC-era progression after Furnace 30: per-building costs, Refined Fire Crystal planning, upgrade priority
+- [Crystal Laboratory](/strategy/crystal-laboratory) — daily refinement, the cost ladder and efficiency cliff, and why Super Refinement punishes rushing
+- [Wish Station](/strategy/wish-station) — the Fire Crystal Age city-development layer: Wishes, Wish Sigils, and the nine entertainment buildings
 
 ## Heroes
 

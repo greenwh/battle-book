@@ -42,6 +42,14 @@ Uncommon → Rare → Epic → Legendary/Mythic
 
 Higher quality requires rarer crafting materials and more time, but the stat jumps are substantial — especially the set bonus improvements.
 
+::: tip The ceiling moves with your state
+The Chief Gear cap is not fixed — it rises as your **state** unlocks later hero generations, regardless of your own progress.
+
+**Legendary T6 Chief Gear (3-Star)** became available in August 2026 for states that have already unlocked **Generation 6 heroes** (roughly Day 360).
+
+Two consequences for a younger state. First, the ceiling above you is higher than the tier list suggests, so there is no risk of "finishing" Chief Gear. Second, and more usefully: the cap raises are tied to **state age, not spending**, so patience is a legitimate strategy. Raise your floor uniformly and let the ceiling arrive on its own schedule.
+:::
+
 ## Upgrade Order
 
 1. **Infantry (Coat + Pants)** — frontline survivability, benefits your primary tank
@@ -83,4 +91,4 @@ At Furnace 25 you unlock Chief Charms — three slots on each gear piece that ad
 
 ---
 
-*Last verified: May 2026 · Sources: wos-buff-strategy-roadmap.md § System 5 and § System 6, wos-buff-strategy-tab-spec.md chief-gear items*
+*Last verified: August 2026 · Sources: wos-buff-strategy-roadmap.md § System 5 and § System 6, wos-buff-strategy-tab-spec.md chief-gear items, Century Games update notes (August 17, 2026) for the Legendary T6 cap raise*

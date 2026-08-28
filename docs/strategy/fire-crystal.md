@@ -15,7 +15,7 @@ At Furnace 30 the game switches to a new upgrade track. Instead of leveling 30�
 
 Two things stay true from the Furnace era. Your Furnace still gates every other building — no camp, Embassy, or other structure can exceed your Furnace's current FC level. And you still upgrade prerequisite buildings along the way. What changes is the currency: Fire Crystal upgrades cost **Fire Crystals (FC)**, and from the FC6 tier onward they also cost **Refined Fire Crystals (RFC)**.
 
-Fire Crystals come from Intel Missions, Arena and event shops, Castle Battle, and the Fire Crystal event chests. Refined Fire Crystals are made by refining raw Fire Crystals in the Crystal Laboratory — see [Refined Fire Crystals](#refined-fire-crystals-the-real-bottleneck) below.
+Fire Crystals come from Intel Missions, Arena and event shops, Castle Battle, the Fire Crystal event chests, and daily refinement in the [Crystal Laboratory](/strategy/crystal-laboratory). Refined Fire Crystals are made by Super Refinement in the same building — see [Refined Fire Crystals](#refined-fire-crystals-the-real-bottleneck) below.
 
 ## Furnace Cost Per Tier
 
@@ -89,9 +89,11 @@ Every figure is the tier total with its sub-level breakdown in parentheses — f
 
 Raw Fire Crystals are easy to stockpile from events and shops. Refined Fire Crystals are not — you can only make them yourself, on a daily clock, and missed days are gone for good.
 
-- **Source:** The Crystal Laboratory. You spend raw Fire Crystals to refine them into RFC.
-- **Daily cap:** The Lab refines a limited number per day, and the cap rises with Lab level (around 7 per day at Lab Level 6).
-- **When it unlocks:** The Crystal Laboratory opens partway through a state's life; RFC production typically begins well after the Lab itself appears. Timing varies by state.
+- **Source:** The Crystal Laboratory, via **Super Refinement**. You spend raw Fire Crystals to convert them into RFC.
+- **Weekly cap:** 100 Super Refinements per week, split into five tiers of twenty at rising cost, with one half-price refinement available each day.
+- **When it unlocks:** The Crystal Laboratory itself opens with the **Fire Crystal Age** (Furnace 30 / FC1). Super Refinement unlocks separately at **FC6**, so the Lab will be producing raw Fire Crystals for a long time before it produces RFC.
+
+For the full cost ladder, the refinement efficiency cliff, and why the weekly cap is a ceiling rather than a target, see **[Crystal Laboratory](/strategy/crystal-laboratory)**.
 
 Because RFC is capped per day and required in large amounts at FC9–FC10 (180 then 420 on the Furnace alone), it — not raw FC, not resources — becomes the gate on how fast you finish the FC era.
 

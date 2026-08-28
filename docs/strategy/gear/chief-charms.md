@@ -38,6 +38,8 @@ Charms go from **Level 1 to 16.** From Level 4 on, each major level is split int
 
 Levels 1–11 need only **Charm Guides** and **Charm Designs**. Levels 12–16 add **Jewel Secrets**, the rarest charm material, and are gated behind your state's age. Community sources disagree on exactly where that gate sits — some report the whole 12–16 band opening at **Generation 7**, others report only Level 16 gated there with a Level 15 cap below it. Either way, if your state is young, plan around Level 11 as your working ceiling.
 
+**The band now runs to 18.** The August 2026 update added **Levels 17 and 18**, each with **nine sub-stages**, for states that have unlocked **Generation 8 heroes** (roughly Day 520). This does not change anything below Level 12 and does not resolve the Gen 7 question above — it extends the top of a range you cannot reach yet. Mentioned only so nobody treats Level 16 as a final ceiling when planning long-term material budgets.
+
 ## What a level costs and what it returns
 
 This is the part most charm advice skips, and it changes the whole strategy. Charm Designs are the bottleneck material — you always have fewer than you need. So the question that matters is **power gained per Charm Design spent.**
@@ -93,6 +95,18 @@ Before committing materials to a Level 11 push, open your charm screen and read 
 
 **The practical rule:** treat Level 11 as a project you start when your Charm Guides comfortably outnumber your Charm Designs in the bag, and when your state is within sight of the generation gate. Around Gen 5 is a reasonable point to begin funneling Designs into one charm so it is ready when the exchange becomes useful. Before that, every Design goes into raising your floor.
 
+## Charm Secrets and the Frostdragon truck
+
+Distinct from the Charm Guides and Charm Designs above, **Charm Secrets** are exchanged in the **Dragonborn's Truck** during Frostdragon Tyrant.
+
+As of the August 2026 update that exchange is **available only in states that have unlocked Fire Crystal 8** (roughly Day 315).
+
+::: warning Two different exchanges — do not confuse them
+This is **not** the Chief Charm Material Exchange discussed above. That one unlocks from your own charm progress (Level 11, possibly plus a generation gate — still unsettled, see below) and trades Guides for Designs. The Frostdragon exchange is an event shop gated on **state FC level** and trades in Charm Secrets.
+
+Confirming the FC8 gate on the Frostdragon exchange tells you nothing about the Level 11 exchange. **That question remains open** — read the in-game unlock text on your own charm screen.
+:::
+
 ## Materials
 
 | Material | Role | Main sources |
@@ -139,4 +153,4 @@ This is the discipline that wins states: not hoarding charm materials forever, b
 - [Frostfire Mine](/events/frostfire-mine) and [Sunfire Castle](/events/sunfire-castle) — your charm material supply
 - [SvS Prep Checklist](/events/svs/prep-checklist)
 
-*Last verified: August 2026 · Sources: Whiteout Survival Wiki (Chief Gear; Charm Secrets); WoSTools (Chief Charms calculator and wiki); WoS Guru (Chief Gear & Charms, Feb 2026); Heaven Guardian (Chief Charms upgrade chart, May 2026). Cost and power figures are per charm, per level, from the published upgrade chart. Verify against in-game changes.*
+*Last verified: August 2026 (revised) · Sources: Whiteout Survival Wiki (Chief Gear; Charm Secrets); WoSTools (Chief Charms calculator and wiki); WoS Guru (Chief Gear & Charms, Feb 2026); Heaven Guardian (Chief Charms upgrade chart, May 2026); Century Games update notes (August 17, 2026) for Charm Levels 17–18 and the Frostdragon Charm Secrets FC8 gate. Cost and power figures are per charm, per level, from the published upgrade chart. The Level 11 Material Exchange unlock condition remains unresolved. Verify against in-game changes.*

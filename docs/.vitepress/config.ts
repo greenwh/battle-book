@@ -83,6 +83,8 @@ export default defineConfig({
             { text: 'Research (Technology)', link: '/strategy/research' },
             { text: 'Furnace 20→30', link: '/strategy/furnace' },
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
+            { text: 'Crystal Laboratory', link: '/strategy/crystal-laboratory' },
+            { text: 'Wish Station', link: '/strategy/wish-station' },
             {
               text: 'Daybreak Island',
               collapsed: true,

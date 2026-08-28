@@ -26,10 +26,22 @@ Two alliances are matched against each other. Each holds a set of Strongholds. Y
 | Icon | What it means |
 |---|---|
 | **Flag** | The number of squads garrisoned in a Stronghold |
-| **Star** | Score. Every garrisoned squad contributes Stars to the Stronghold it sits in. The amount varies by Stronghold — check Stronghold Info in-game for the current values |
+| **Star** | Score. Every garrisoned squad contributes Stars to the Stronghold it sits in. The amount varies by Stronghold — typically **3 per squad in the Empowered centre and 1 in each Primitive outer**, with a Warden adding **+3** and **+1** respectively. Check Stronghold Info in-game each event |
 | **Heart** | A squad's health. A squad loses one Heart every time it loses a defensive battle |
 
 **The rule that shapes everything else:** a squad's Stars are only deducted when it loses **all** of its Hearts. Official example — a squad with 4 Hearts and 6 Stars must fail four defenses; at that fourth loss the Stronghold drops all 6 Stars at once. Take three of its four Hearts and you have scored nothing.
+
+**The board, as observed in live events.** These are per-event values that balance updates can change, but they have held so far:
+
+| | Empowered (centre) | Primitive (outer x3) |
+|---|---|---|
+| Stars per normal squad | **3** | **1** |
+| Stars per Warden | **6** (+3) | **2** (+1) |
+| Hearts, normal squad | **3** | **3** |
+| Hearts, Warden | **5** | **5** |
+| Garrison capacity | **30** | **30** |
+
+**Garrison capacity rarely binds.** 120 slots across the map against an alliance fielding perhaps 40–80 squads means nothing is rejected and nobody is benched. It also means every squad in a lightly held Stronghold is Warden-eligible, since the top-5 rule only bites at six or more squads.
 
 **Why it's distinctive:**
 
@@ -60,7 +72,10 @@ All times UTC.
 - A matchmaking **bye (Auto-Advance)** counts as a win. Rewards are settled after the Matchmaking Phase.
 - Tier rewards are based on your alliance's tier **at the start of the event**, not the finish.
 - A **Win Streak** means winning two consecutive events, and pays better than a single win.
-- There are **no ranking rewards** in this event.
+- **Four personal leaderboards run during the event:** **Carnage** (damage dealt), **Star Plucker** (enemy Stars removed), **Wins** (attacker victories), and **Fighting Spirit** (total enemy Morale reduced). A **Star Allies** screen names your alliance's leader in each, and a **Personal Tally** reports all four for you at the close.
+- **The Fighting Spirit board is the one to point weaker members at.** It scores *losing* attacks, so a member who cannot beat anything on the board still has a metric they can top — see The Grind Is Scored, below.
+
+**Tier movement (observed at the bottom tier):** Win Streak **+4** · Victory **+2** · **Loss +1**. A loss still advances the tier and there is no relegation at the bottom, so an alliance that expects to lose still gains by turning up.
 
 ## Preparation Phase
 
@@ -132,6 +147,10 @@ Attempts **bank**. You can save them and spend them all at once, which is what m
 
 Restoration completes about 14 hours into the 24-hour phase, so late-day attacking draws on banked attempts rather than fresh ones.
 
+::: warning Spend early — banked attacks may not survive
+When a garrison squad loses its last Heart, its panel shows **Attacks: 0** and *"Recovery limit reached."* It is not yet confirmed whether a destroyed squad forfeits attempts it had not spent. Until it is, treat the budget as perishable: **front-load your attacks** rather than hoarding them for a late coordinated wave. Both tiebreak rules already reward attacking early, so the conservative reading costs you nothing.
+:::
+
 ### The Attack Path
 
 Strongholds are connected. **You must defeat every garrison squad in a Stronghold before you can attack the Strongholds connected beyond it.** This is the same gating idea as Canyon Clash: the map is a network, not a menu.
@@ -140,6 +159,8 @@ Two consequences:
 
 - **Your weakest Stronghold is your front door.** A thin outer garrison is not a small loss, it is an opening to everything behind it.
 - **Clearing a Stronghold means killing every squad in it**, not damaging them. There is no partial progress toward opening a path.
+
+**The layout observed so far:** all three Primitive outers are directly attackable from the start, and the Empowered centre opens once **any one** of them is fully cleared. That makes the outers parallel doors rather than a chain — an alliance only needs to break the cheapest one to reach the centre, and so does the enemy.
 
 ### Morale
 
@@ -164,6 +185,26 @@ Following that schedule, a garrison squad's Morale runs 100 → 90 → 80 → 70
 Because Morale resets on every Heart lost, each Heart is a fresh grind. To take a squad with four Hearts you must wear its Morale down four separate times. Attacks that lose are not wasted — they are the mechanism. This is why a coordinated alliance of ordinary accounts can remove a heavily invested defender that no single member could beat.
 :::
 
+### Stronghold Conquest Rewards
+
+Separate from Stars, and easy to miss: **when every squad in an enemy Stronghold has been destroyed, every participant in your alliance can claim a reward.** Each Stronghold is calculated separately, and the reward must be **claimed manually** from the Rewards screen.
+
+| Enemy Stronghold cleared | Reward per participant (observed) |
+|---|---|
+| Empowered | 6 Fire Crystals, 6 purple chests, 6x 1hr speedups |
+| Each Primitive | 2 Fire Crystals, 2 purple chests, 2x 1hr speedups |
+
+**This pays out whether you win the event or lose it.** For an outmatched alliance it is often the most valuable thing on the table: clearing two cheap enemy outers banks real Fire Crystals regardless of the final Star count. It also doubles the focus-fire rule — a partially cleared Stronghold pays nothing at all.
+
+### The Grind Is Scored
+
+A losing attack is not a wasted attack. Every failed attempt drops the defender's Morale one step, and that reduction is credited to you on the **Fighting Spirit** leaderboard.
+
+Two things follow:
+
+- **Grinding widens the finisher pool.** One Morale step cuts a defender's effective power by 10%. A target only three of your squads could beat becomes one that five can beat. Two throwaway attacks from small accounts can unlock a target for your strongest squad.
+- **Your strongest attackers will sit at 0% on that board** — because every time they win, the defender loses a Heart and Morale resets to 100%. That is correct, not a failure. If your best squad is climbing the Fighting Spirit board, it is being spent on fights it cannot win.
+
 ### Winning
 
 1. If one alliance defeats **all** defending squads in the enemy's Strongholds and reduces the enemy's Stronghold Stars to zero first, it wins immediately.
@@ -174,6 +215,20 @@ Because Morale resets on every Heart lost, each Heart is a fresh grind. To take 
 Rule 4 is the one people get caught by. A quiet Saturday against an evenly matched opponent is not a draw — it is a double loss. Doing nothing is never the safe option.
 
 ## Strategy
+
+### Turn Out — It Decides the Event
+
+**Participation, not power, is the variable that decides most Winter Sieges.** A deployed-power gap between two alliances decomposes into two factors:
+
+```
+deployed power gap = per-player quality gap x participant count gap
+```
+
+In practice the second term dominates. A gap that looks like a brutal power mismatch is usually a roster-size-and-turnout problem wearing a costume — and turnout is the half you can fix inside a week.
+
+**Troops are free.** The game supplies the squads, nothing dies, nothing needs healing, and there is no resource cost to registering. **Every eligible member who sits out is a pure forfeit** of two squads, their Star contribution, and twenty attacks.
+
+**Do the recruiting during the Preview phase**, Monday and Tuesday. It is the only window where the number can still be changed, and it is worth more than every tactical decision below it combined.
 
 ### Every Player
 
@@ -206,14 +261,44 @@ Because the ratio locks with everything else, avoid a pure tank build for any sq
 - **Concentrate attacks.** Assign specific targets in a specific order and hold members to them.
 - **Strike early.** Rules 3 and 4 above both reward removing enemy Stars sooner rather than later.
 
-### Target Selection
+### Target Selection — Stars per Attack
 
-The maths follows directly from the Star rule.
+Neither the cheapest kill nor the biggest payout is the right sort key. **The right key is Stars divided by attacks**, and the spread between best and worst is nearly tenfold.
 
-- **Focus fire always beats spreading.** Twenty attacks that destroy one squad take its Stars. Twenty attacks spread across five squads take nothing.
-- **Count Hearts before committing.** A squad's cost is roughly its Heart count multiplied by a full Morale grind. Budget the whole kill before you start it, or you will spend attacks for zero score.
-- **Cheap squads first when you need a path open**, because opening a Stronghold requires clearing all of it. High-Star squads first when you are racing the Star count.
-- **A Warden is the most expensive target on the board and the highest payout.** Do not start one you cannot finish.
+| Target | Attacks | Stars | Stars per attack |
+|---|---|---|---|
+| **Wounded Empowered squad, 1 Heart left** | 1 | 3 | **3.00** |
+| Wounded Empowered squad, 2 Hearts left | 2 | 3 | 1.50 |
+| Fresh Empowered normal squad | 3 | 3 | 1.00 |
+| Wounded Primitive squad, 1 Heart left | 1 | 1 | 1.00 |
+| Empowered Warden | ~10 | 6 | 0.60 |
+| Primitive Warden | ~5 | 2 | 0.40 |
+| Fresh Primitive normal squad | 3 | 1 | **0.33** |
+
+*Assumes your attacker beats the target at full Morale, and one grind step against a top Empowered Warden. Recompute for your own roster.*
+
+**Four readings that follow directly:**
+
+- **The Empowered Stronghold is worth three times an outer, per attack.** Attacks spent in outers beyond what opening a door requires are a 3:1 loss.
+- **⭐ Finish before you start.** A wounded Empowered squad is nine times a fresh outer squad. Hearts do not regenerate, so by late in the Battle Phase the board fills with cheap finishes. **Scan for wounded squads before choosing any new target.** This single rule is worth more than any other instruction on the day.
+- **A wounded outer squad ties a fresh Empowered one.** Worth interrupting for.
+- **The Empowered Warden is the worst rate in the centre** but still beats every fresh outer target. Take it late, never first.
+
+**Why attack outers at all?** To open a door and to bank a Conquest Reward. Beyond that, they are the lowest-value action available.
+
+### Tier Your Attackers
+
+Free-for-all attacking and rigid single-target focus are both wrong. Sort your roster by **what each squad can actually kill**, publish the tiers before the Battle Phase, and let members act without waiting for a call.
+
+| Tier | Definition | Assignment |
+|---|---|---|
+| **Tier 1** | Beats the enemy's Empowered garrison at full Morale | **Empowered Stronghold only.** Never spend a Tier 1 attack on an outer |
+| **Tier 2** | Beats outer squads but not Empowered ones | **Outers.** Take the weakest thing you can beat and open a door |
+| **Tier 3** | Beats nothing currently standing | **Grind one named Empowered target.** Losses widen the finisher pool and score on Fighting Spirit |
+
+Cut the tiers off real numbers from the Scout Phase, not intuition. **A tier list beats an ordered target list** because an alliance acts across 24 hours and many time zones — a list needs a coordinator awake to re-sequence it, while a tier list lets someone logging in at 3am act correctly on their own. Publish both, tiers first.
+
+**Above all tiers sits the finishing rule.** A Tier 2 squad should finish a wounded Empowered squad it can beat rather than start a fresh outer one.
 
 ## Common Mistakes
 
@@ -268,4 +353,4 @@ The maths follows directly from the Star rule.
 
 ---
 
-*Last verified: August 2026 · Sources: Whiteout Survival Help Center Winter Siege section (Century Games Helpshift, articles 9136–9163, last updated July 2026), Whiteout Survival official X account (@WOS_Global) Winter Siege FAQ thread (July 19, 2026), Century Games official update notes (July 6, 2026), mone.gg Winter Siege guide (July 15, 2026) for the Morale decay schedule and stronghold path rule. Stronghold count, per-Stronghold Star values, and Heart totals vary and are not published — read them from the in-game Stronghold Info panel each event. Balance changes have already been applied to this event once; verify against the live event screen.*
+*Last verified: August 2026, after one completed event · Sources: Whiteout Survival Help Center Winter Siege section (Century Games Helpshift, articles 9136-9163, last updated July 2026), Whiteout Survival official X account (@WOS_Global) Winter Siege FAQ thread (July 19, 2026), Century Games official update notes (July 6, 2026), mone.gg Winter Siege guide (July 15, 2026) for the Morale decay schedule and stronghold path rule, plus direct observation of a completed Winter Siege. Stronghold values, Heart totals, garrison capacity, and Conquest Reward amounts in this guide are **observed**, not published — balance changes have already been applied to this event once, so read the live Stronghold Info panel each event. An earlier version of this page stated there are no ranking rewards in Winter Siege; four personal leaderboards do exist and that line has been corrected.*

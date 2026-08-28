@@ -23,7 +23,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Book of Knowledge** — Resource used to upgrade individual Expert skills inside the Dawn Academy. Consumed during Learning sessions.
 
-**Buff Snapshot** — Some events (notably Alliance Championship) lock in buffs at registration. Buffs activated after registration don't apply.
+**Buff Snapshot** — Some events lock in buffs at registration; buffs activated afterward don't apply. Alliance Championship still snapshots gem and facility buffs this way, but **pet skills were exempted in August 2026** and now activate automatically at squad deployment.
 
 **Chief** — Your governor character. The player avatar.
 
@@ -41,13 +41,15 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Exploration Skills** — Hero skills on the left side. Used in Arena, Lighthouse, and story chapters.
 
-**Crystal Laboratory** — Building that refines raw Fire Crystals into Refined Fire Crystals, limited per day by Lab level.
+**Crystal Laboratory** — Building that does two separate jobs: **Refinement** turns ordinary resources into raw Fire Crystals (daily, on a rising cost ladder), and **Super Refinement** turns raw Fire Crystals into Refined Fire Crystals (weekly, from FC6). Opens with the Fire Crystal Age at Furnace 30, not at FC5.
 
 **Design Plans** — Chief Gear material required from the Rare tier upward. From many events and event shops.
 
 **FC** — Fire Crystal. The premium upgrade currency once you reach Furnace 30.
 
-**Fire Crystal (FC)** — Upgrade currency for the post-Furnace-30 era (FC1–FC10). From Intel Missions, Arena/event shops, Castle Battle, and Fire Crystal event chests.
+**Fire Crystal (FC)** — Upgrade currency for the post-Furnace-30 era (FC1–FC10). From Intel Missions, Arena/event shops, Castle Battle, Fire Crystal event chests, and daily Crystal Laboratory refinement.
+
+**Fire Crystal Age** — The era that begins when your Furnace reaches Fire Crystal Lv. 1. Brings the Crystal Laboratory, the Wish Station, completed Survivor Profiles, and a reshuffled set of Chief Orders (Crunch Time, Advanced Training, and Dawn Alliance Commendation added; some older orders removed).
 
 **Frontier Trek** — Targeted Expert progression mode unlocked after 60 Tundra Treks. Pick a specific known Expert and grind their encounters exclusively. Frontier Supplies are mostly paid.
 
@@ -89,7 +91,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Rally** — A coordinated multi-player attack. The starter is the rally leader; joiners reinforce.
 
-**Refined Fire Crystal (RFC)** — Advanced Fire Crystal material required from the FC6 tier onward. Made only by refining raw Fire Crystals in the Crystal Laboratory, on a daily cap. The main bottleneck of the FC era.
+**Refined Fire Crystal (RFC)** — Advanced Fire Crystal material required from the FC6 tier onward. Made only by Super Refinement in the Crystal Laboratory, capped at 100 per week across five rising cost tiers. The main bottleneck of the FC era.
 
 **Relationship Level** — An Expert's progression tier (0–100, in 10 Advancement thresholds). Raised through Affinity. Crossing thresholds requires Sigils to Advance.
 
@@ -98,6 +100,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 **SFC** — Sunfire Castle. The state's central trophy building. Holding it gives presidency.
 
 **Sigil** — Currency that Advances an Expert through their 10 Relationship thresholds. Two types: Expert-specific (e.g., Cyrille Sigils) and Common (convertible to any). Romulus needs ~1,820 to max — by far the most expensive.
+
+**Super Refinement** — Crystal Laboratory operation that converts raw Fire Crystals into Refined Fire Crystals. Unlocks at FC6. Capped at 100 per week in five tiers of twenty at rising cost, with one half-price refinement available each day. The tiering penalizes rushing.
 
 **SvS** — State vs State (also called State of Power). Monthly cross-state war event.
 
@@ -109,7 +113,11 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Widget** — A hero's exclusive gear piece (5th slot), unlocked at 1★ Ascension. Provides multiplicative Special Bonus stats.
 
-**Wild Marks** — Refinement currency for pets (Common Wild Marks and Advanced Wild Marks).
+**Wild Marks** — Refinement currency for pets. The correct mark is decided by **refinement stage, not by which pet**: Commons for gray-to-blue on every pet and blue-to-purple on max-100-ceiling pets, Advanced Wild Marks reserved exclusively for purple-to-gold.
+
+**Wish Sigil** — Currency earned by completing Wishes at the Wish Station. Spent in the Wish Shop on construction materials for the nine Fire Crystal Age entertainment buildings.
+
+**Wish Station** — Fire Crystal Age building that replaces the Mailbox. Survivors post Wishes; completing them pays Wish Sigils. Announced to unlock at FC1; observed at FC3 on a Gen 2 state.
 
 ## Combat Terms
 

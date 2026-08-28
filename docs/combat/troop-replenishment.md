@@ -50,6 +50,14 @@ The reinforcing troops adopt the garrison leader's hero buffs. They don't need t
 - **Don't send heroless troops to an empty position.** With no hero present, the troops have zero hero buffs. Always ensure a hero is already garrisoned before sending reinforcements.
 - **Don't send low-tier troops.** Sending T5 into a T10 garrison wastes infirmary space when they get wounded. Send your highest available tier.
 
+## Infirmary Capacity Gates Auto-Join
+
+Since August 2026, **Auto-Join Rally cannot be enabled above 90% Infirmary capacity**, and it switches itself off with a mail notification if you cross that threshold while it is running.
+
+That makes Infirmary management an availability issue, not only a resource one. A full Infirmary now removes you from Alliance War rallies entirely rather than just costing you troops.
+
+**Do the clear-out before the event window**, not during it. See [Rally Joining](/combat/rally-joining).
+
 ## Common Mistakes
 
 1. **Not checking hospital capacity first.** If your Infirmary is full, wounded troops die instead of being hospitalized. Check capacity before committing more troops to a fight.

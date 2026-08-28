@@ -36,18 +36,22 @@ All three are rough. Keep your own notes when new content lands — that gives y
 | 40 | Legendary Hero Gear | |
 | 53 | Sunfire Castle event | |
 | 54 | Pet Generation 1 | Cave Hyena, Arctic Wolf, Musk Ox |
-| 60 | Fire Crystal Age | "Road to Recovery" Monument mission; needs Furnace 30 |
+| 60 | Fire Crystal Age + Crystal Laboratory | "Road to Recovery" Monument mission; needs Furnace 30. The Lab arrives with the Age — not at FC5 |
 | 80 | SvS (State of Power) & King of Icefield | Schedule-based; may land later if server is behind |
 | 90 | Pet Generation 2 | Titan Roc, Giant Tapir |
 | 120 | Hero Generation 3 | Logan, Mia, Greg |
 | 120 | Vision of Dawn, VIP Prestige Shop, Fortress event rewards | |
+| 120 | Experts: Holger, Agnes, Cyrille | Dawn Academy |
 | 140 | Pet Generation 3 | Snow Leopard, Giant Elk |
-| 150 | Fire Crystal 5 + Crystal Laboratory | |
+| 150 | Fire Crystal 5 | |
+| 160 | Expert: Romulus | Dawn Academy |
 | 180 | Legendary Chief Gear | Lands 7–14 days before Gen 4 |
-| 195 | Hero Generation 4 | Ahmose, Reina, Lynn |
+| 195 | Hero Generation 4 | Ahmose, Reina, Lynn — **confirmed on a Gen 2 state, Aug 2026** |
 | 195 | Gina's Revenge → Hero's Mission; Intel & Hero Hall updates | Shards shift to heroes 2 generations back |
 | 200 | Pet Generation 4 & 5 | Cave Lion, Snow Ape |
+| 200 | Experts: Valeria, Baldur, Fabian | Dawn Academy — **confirmed on a Gen 2 state, Aug 2026** |
 | 220 | War Academy + Fire Crystal Lab 5 | 6 refines/day |
+| 230 | Experts: Kathy, Ronne | Dawn Academy |
 | 270 | Hero Generation 5 | Hector, Nora, Gwen |
 | 280 | Pet Generation 6 & 7 | Iron Rhino, Saber-tooth |
 | 315 | Fire Crystal 8 + Fire Crystal Lab 6 | 7 refines/day; daily FC missions rise from 10x to 20x |
@@ -105,6 +109,14 @@ A new generation almost always beats the one before it for that troop type. If y
 | 8 & 9 | 370 | Frost Gorilla, Mammoth |
 | 10 | 450 | Frostscale Chameleon |
 
+::: warning Generation days are not hard gates
+Pets are gated **twice**: by the state's generation day above, and by a **pet leveling chain** in which each pet unlocks by leveling its predecessor. The chain is the gate you actually feel, and it can run ahead of the calendar.
+
+Confirmed on a Gen 2 state at Day 200: **Iron Rhino was available to unlock**, eighty days ahead of its Gen 6 & 7 row, through the chain behind Snow Ape. Saber-tooth sits further along the same chain and had not been reached.
+
+Read these days as *available by*, not *not before*. Check your Beast Cage.
+:::
+
 For which pets matter in combat and which to prioritize, see [Combat Pets](/strategy/pets/combat-pets).
 
 ## Fire Crystal milestones
@@ -113,13 +125,20 @@ The Fire Crystal Age opens at Day 60 (you must be at Furnace 30 to use it). Leve
 
 | Day | Fire Crystal milestone |
 | --- | --- |
-| 60 | Fire Crystal Age unlocks (Furnace 30 required) |
-| 150 | Fire Crystal 5 + Crystal Laboratory |
+| 60 | Fire Crystal Age unlocks (Furnace 30 required) — **Crystal Laboratory opens here** |
+| 150 | Fire Crystal 5 |
 | 220 | War Academy + Fire Crystal Lab 5 (6 refines/day) |
 | 315 | Fire Crystal 8 + Fire Crystal Lab 6 (7 refines/day) |
 | 500 | Fire Crystal 10 |
 
 FC6 and FC7 fall between FC5 and FC8; the per-level upgrade costs and prerequisites are on the [Fire Crystal guide](/strategy/fire-crystal).
+
+**Two systems belong to the Fire Crystal Age rather than to a day number:**
+
+| System | Gate |
+| --- | --- |
+| [Crystal Laboratory](/strategy/crystal-laboratory) | Opens with the Fire Crystal Age (Furnace 30 / FC1). Older guides place it at FC5 — that is wrong. Refinement *slot count* rises later |
+| [Wish Station](/strategy/wish-station) | Announced for FC1. **Observed at FC3** on a Gen 2 state, and absent on an FC2 account in the same state |
 
 ::: warning Emerging content
 The classic timeline tops out at **Fire Crystal 10 (Day 500)**. The oldest servers have begun receiving **Fire Crystal 11–12 and T12 troops** (T12 also arrives with Gen 10 / Flame Tech around Day 680). Server-age timing for FC11–12 is newer and less settled than the milestones above — verify against your own server before planning around it.
@@ -136,7 +155,9 @@ Experts unlock through the Dawn Academy after the Fire Crystal Age begins:
 | 200 | Valeria, Baldur, Fabian |
 | 230 | Kathy, Ronne |
 
-See the [Dawn Academy overview](/strategy/dawn-academy/) for expert roles and trek strategy.
+**Day 200 confirmed.** Valeria, Baldur, and Fabian unlocked on schedule on a Gen 2 state in August 2026.
+
+See the [Dawn Academy overview](/strategy/dawn-academy/) for expert roles and trek strategy, and [The Experts](/strategy/dawn-academy/experts) for development order.
 
 ## Events and other unlocks
 

@@ -79,6 +79,10 @@ Cyrille adds 5 Essence Stones and 500 XP per hunt as a flat bonus on top of dama
 
 **R5/R4 schedules the trap.** Most alliances run on a fixed cadence — e.g. every other day at 14:00 UTC + 02:00 UTC for the second trap. Confirm your alliance's schedule.
 
+::: tip Scheduled activations now survive a departure
+As of August 2026, a scheduled **Hunting Trap** activation is **no longer canceled if the member who scheduled it leaves the alliance**. Before this change, an R4 leaving mid-week could silently kill the next trap. Alliance Log entries for scheduled activations were also made clearer.
+:::
+
 **Donate arrowheads.** Anyone can contribute Explosive Arrowheads to enhance the trap. Maxing it to Lv.5 (+25% damage) before activation is the alliance's highest-leverage prep. Get into the habit of dumping arrowheads as you accumulate them.
 
 **Save the right teams.** Set up at least 3 ready-made formations:

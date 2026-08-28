@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-08-28 21:50:49 UTC
-**Last commit:** `02b7a50`
+**Last updated:** 2026-08-28 22:01:20 UTC
+**Last commit:** `baaea1d`
 
 ## Deployed Pages
 
@@ -290,6 +290,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+baaea1d Add Server Timeline link to homepage hero actions
+9aed7eb chore: regenerate MANIFEST.md [skip manifest]
 02b7a50 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages, pet section correction, August 17 patch absorption, Winter Siege expansion
 44a3d76 chore: regenerate MANIFEST.md [skip manifest]
 ca88d04 Add Winter Siege event guide
@@ -298,6 +300,4 @@ ca88d04 Add Winter Siege event guide
 1318229 chore: regenerate MANIFEST.md [skip manifest]
 8146f38 Add changelog entry for the pha Ghosts rebrand
 4fcd5ea chore: regenerate MANIFEST.md [skip manifest]
-75c6371 Merge remote main and regenerate MANIFEST.md
-a08dc42 Update remaining branding, config, and icon assets for pha Ghosts rebrand
 ```

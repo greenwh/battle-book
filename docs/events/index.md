@@ -104,7 +104,7 @@ Biweekly 5-hour state-internal battle where all alliances are enemies — whoeve
 ### Winter Siege
 **Monthly · Alliance vs. alliance Stronghold battle**
 
-Monthly top-20 alliance war fought over Stronghold Stars. Each Chief deploys two system-troop squads that both garrison and attack; everything locks Thursday and Saturday is a single 24-hour Battle Phase. Stars only move when a squad loses every Heart, and defender Morale decays with each successful defense — so focused, coordinated attacks beat raw power.
+Monthly top-20 alliance war fought over Stronghold Stars. Each Chief deploys two system-troop squads that both garrison and attack; everything locks Thursday, you cannot scout until Friday, and Saturday is a single 24-hour Battle Phase. Stars only move when a squad loses every Heart, and defender Morale decays with each successful defense down to a 60% floor — so coordinated grinding beats raw power, but only against targets inside a 1.67x band.
 
 - [Winter Siege Guide](/events/winter-siege)
 

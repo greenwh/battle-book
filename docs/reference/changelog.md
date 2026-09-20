@@ -8,6 +8,21 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## September 2026
+
+### Winter Siege rewritten after a second event
+
+A second completed Winter Siege plus a full capture of the in-game rules panel overturned four numbers the previous guide was built on. The page has been rewritten rather than patched.
+
+- **Morale floor corrected from 35% to 60%.** The decay schedule is 10 percentage points while above 80% and 5 at or below, reaching a floor of 60% after six successful defenses — not ten. This is the most consequential correction on the page: it means a defender more than about **1.67x** your best attacker can never be destroyed, where the old figure implied 2.85x. Grinding unlocks a narrow band of targets, not almost anything. The previous schedule came from a single community source and is retired.
+- **Hearts, capacity and the map all corrected.** Normal squads carry **4** Hearts, not 3 — every kill cost rises by a third. Garrison capacity is **20** per Stronghold, not 30, so a stacked Stronghold can now actually fill. The map appeared with **six Strongholds in three types** (Empowered, Advanced, Primitive) against the previous four in two, arranged as a funnel rather than a ring. Because every one of these changed between events, the page now says plainly that Stronghold Info must be read fresh each time.
+- **Warden targeting inverted.** The guide previously called the Empowered Warden the worst-rate target in the centre. With 4-Heart normal squads and a correctly computed grind cost, an enemy Warden you can beat outright is the **best** prize on its Stronghold — 25% more attacks for double the Stars. The page now gives the formula rather than a fixed ranking.
+- **Banked-attack warning withdrawn.** The guide warned that a destroyed squad might forfeit unspent attacks. The "Recovery limit reached" message that prompted it appears on undamaged, surviving squads that have simply spent all ten. Banking is safe.
+- **Tier movement corrected.** "A loss still advances you" holds only at Rookie and Stalwart. From Pioneer a loss pays nothing, and from Mythic it costs a star. Full six-tier table added, with relegation.
+- **New mechanics documented:** the 60% wall and the finisher threshold, three heroes per squad with no sharing between a Chief's two squads, mandatory deployment capacity, sparring after an opponent is zeroed, the **Phaethon Guard** system auto-fill squad, initial tier seeded from Alliance Championship tier, alliance-change rules that differ by phase, the surviving-troop-power tiebreak, and the fact that placement is committed blind because enemy garrisons cannot be scouted until after the Thursday lock.
+- **Conquest Rewards** now list the Advanced tier (4 Fire Crystals / 4 chests / 4 speedups); a full six-Stronghold clear pays 20 of each per participant, win or lose.
+- **Glossary** — Heart, Morale, Stronghold Star and Warden updated; **Phaethon Guard**, **Sparring** and **Stronghold Types** added.
+
 ## August 2026
 
 ### Fire Crystal Age update pass (late August)

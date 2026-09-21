@@ -30,7 +30,7 @@ You do **not** want offensive skills like Lethality buffs or Attack proc skills,
 
 ## The Captain Trio By Generation
 
-### Gen 1/2 Server (No Logan yet)
+### Before Logan is unlocked
 
 **Trio: Sergey + Patrick + Flint (or Bahiti)**
 
@@ -41,7 +41,7 @@ You do **not** want offensive skills like Lethality buffs or Attack proc skills,
 
 Lead **Sergey** (slot 1). His Defenders' Edge is the strongest defensive first-Expedition skill available to most rosters.
 
-### Gen 3 Server (Logan unlocked)
+### Once Logan is unlocked
 
 **Trio: Logan + Sergey + Patrick**
 
@@ -187,4 +187,4 @@ If you have a strong alliance member who you trust to defend you, ask them to re
 
 ---
 
-*Last verified: May 2026 · Sources: WOS Global on Bonus Source mechanics (X/Twitter), whiteoutsurvival.wiki Combat Stats & Special Bonuses, community consensus on garrison captain trios, internal alliance chat verifications, prior chat thread analysis*
+*Last verified: September 2026 · Sources: WOS Global on Bonus Source mechanics (X/Twitter), whiteoutsurvival.wiki Combat Stats & Special Bonuses, community consensus on garrison captain trios, internal alliance chat verifications, prior chat thread analysis*

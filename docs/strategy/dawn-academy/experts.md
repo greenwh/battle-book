@@ -8,7 +8,7 @@ description: All 9 Experts in the Dawn Academy — skills, Sigil costs, and F2P 
 ::: info Quick take
 There are **9 Experts** across three generations. The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
 
-**Baldur, Fabian, and Valeria unlock together around Day 200** and are live on Gen 2 states as of August 2026. If you have just received all three at once, skip to [Which of Baldur, Fabian, and Valeria First](#which-of-baldur-fabian-and-valeria-first).
+**Baldur, Fabian, and Valeria unlock together around Day 200** and were confirmed live on a state at Day 200 in August 2026. If you have just received all three at once, skip to [Which of Baldur, Fabian, and Valeria First](#which-of-baldur-fabian-and-valeria-first).
 :::
 
 ## Priority Order
@@ -56,7 +56,7 @@ Sigils come in two forms: **Expert-specific** (e.g., Cyrille Sigils) and **Commo
 
 ## Which of Baldur, Fabian, and Valeria First
 
-On a Gen 2 state these three unlock together around Day 200, which turns the "situational, pick what you play" advice above into a real decision with a real answer.
+These three unlock together around Day 200, which turns the "situational, pick what you play" advice above into a real decision with a real answer.
 
 **Sort by how many hours per month the matching content actually occupies your alliance.**
 
@@ -213,4 +213,4 @@ You don't need all of them. Pick one situational Expert and commit, then revisit
 
 ---
 
-*Last verified: May 2026 · Sources: AJackOf Experts guide, lootbar.gg Dawn Academy guide, BlueStacks Experts guide, ldshop.gg expert priority guide, wos-guide.com cultivation guide, whiteoutsurvival.wiki/experts/valeria, woscalculator.com experts*
+*Last verified: September 2026 · Sources: AJackOf Experts guide, lootbar.gg Dawn Academy guide, BlueStacks Experts guide, ldshop.gg expert priority guide, wos-guide.com cultivation guide, whiteoutsurvival.wiki/experts/valeria, woscalculator.com experts*

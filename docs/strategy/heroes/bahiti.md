@@ -28,7 +28,7 @@ A-tier for an Epic hero. Bahiti is the strongest Epic Marksman available and wil
 
 ### Skill Priority
 
-Bahiti's Exploration skills drive her Arena value. Push all three to Lv4 — this is one of the highest-impact Skill Manual investments available on a Gen 2 roster for Arena performance.
+Bahiti's Exploration skills drive her Arena value. Push all three to Lv4 — this is one of the highest-impact Skill Manual investments available on a pre-Gen-3 roster for Arena performance.
 
 Expedition skills are lower priority since Bahiti isn't an ideal rally leader or joiner. Level them to Lv3+ for Labyrinth and general Expedition content.
 
@@ -72,4 +72,4 @@ Plan for Alonzo to replace her. When Alonzo hits 3★ with Expedition skills at 
 
 ---
 
-*Last verified: May 2026 · Sources: wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, allclash.com hero tier list (2026)*
+*Last verified: September 2026 · Sources: wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, allclash.com hero tier list (2026)*

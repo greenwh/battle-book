@@ -71,7 +71,7 @@ This is the consolidation phase — finishing what you've started before the Gen
 - Molly at 3–4★ with Mythic Goggles/Boots at +45 MF2
 - Bahiti at 4★ with Mythic Goggles/Boots at +52 MF2–3
 - All active heroes' Expedition skills at Lv4+
-- Begin targeting Lv5 skills on Flint (Burning Resolve → Lv5 is the #1 Lv5 target on any Gen 2 roster — requires 4★)
+- Begin targeting Lv5 skills on Flint (Burning Resolve → Lv5 is the #1 Lv5 target on any pre-Gen-3 roster — requires 4★)
 
 **Hero to watch:** Alonzo should be approaching 2–3★ from passive HoH accumulation. Don't force it — he's not roster-ready until 3★ with Expedition skills at Lv3+.
 
@@ -164,4 +164,4 @@ Don't worry about Gen 4 until your Gen 3 transition is well underway. Server pro
 
 ---
 
-*Last verified: May 2026 · Sources: allclash.com tier list (April 2026), bluestacks.com hero combinations 2026, lootbar.gg hero tier list, whiteoutsurvivalhandbook.com Mia/Greg/Logan guides, heaven-guardian.com Gen 3 heroes guide, whiteoutdata.com Gen 3 heroes*
+*Last verified: September 2026 · Sources: allclash.com tier list (April 2026), bluestacks.com hero combinations 2026, lootbar.gg hero tier list, whiteoutsurvivalhandbook.com Mia/Greg/Logan guides, heaven-guardian.com Gen 3 heroes guide, whiteoutdata.com Gen 3 heroes*

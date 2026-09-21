@@ -6,7 +6,7 @@ description: Gen 3 Mythic Infantry tank — strongest defensive hero in Gen 3, i
 # Logan
 
 ::: info Quick take
-A+ tier Gen 3 Infantry. Logan is the strongest tank available to Gen 3 servers — +25% troop Health and +20% damage reduction at max make him almost unkillable in the front line. He's not strictly a Flint replacement — Flint still has superior offense for rally leading. **Use Logan where Flint isn't ideal**: defensive garrisons, Sunfire Castle holds, Foundry Battle defense, sustained tank exchanges.
+A+ tier Gen 3 Infantry. Logan is the strongest tank available before Gen 4 — +25% troop Health and +20% damage reduction at max make him almost unkillable in the front line. He's not strictly a Flint replacement — Flint still has superior offense for rally leading. **Use Logan where Flint isn't ideal**: defensive garrisons, Sunfire Castle holds, Foundry Battle defense, sustained tank exchanges.
 :::
 
 ## At a Glance
@@ -146,4 +146,4 @@ Practical verdict: **don't use Logan for Bear Trap rally leading.** Use him to h
 
 ---
 
-*Last verified: May 2026 · Sources: whiteoutsurvival.wiki/heroes/logan, whiteoutsurvival.app heroes/s3/logan, pillarofgaming.com Logan guide, theriagames.com Logan guide, heaven-guardian.com Logan guide, allclash.com tier list (April 2026)*
+*Last verified: September 2026 · Sources: whiteoutsurvival.wiki/heroes/logan, whiteoutsurvival.app heroes/s3/logan, pillarofgaming.com Logan guide, theriagames.com Logan guide, heaven-guardian.com Logan guide, allclash.com tier list (April 2026)*

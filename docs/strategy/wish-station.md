@@ -29,7 +29,7 @@ Century Games has stated the construction materials are obtainable through ordin
 ::: warning The announced gate and the observed gate do not match
 **Announced:** the Wish Station appears once the Furnace reaches **Fire Crystal Lv. 1** — that is, on entering the Fire Crystal Age.
 
-**Observed on a Gen 2 state, August 2026:** an account at **FC3 has the Wish Station**. A second account on the same state at **FC2 does not**.
+**Observed on a live state, August 2026:** an account at **FC3 has the Wish Station**. A second account on the same state at **FC2 does not**.
 
 Two readings fit. Either the announced FC1 figure is imprecise, or the *building* exists from FC1 while the Wish board itself only surfaces once a prerequisite chain has been cleared — which the official wording allows, since it ties Wish availability to Furnace level and prerequisite completion rather than to a single unlock event.
 
@@ -67,7 +67,7 @@ Complete Wishes as they appear — they cost nothing but attention and the Sigil
 
 ## Common Mistakes
 
-1. **Assuming it unlocks at FC1 and worrying when it doesn't appear.** Observation says FC3 on at least one Gen 2 state. If you are at FC1 or FC2 without a Wish Station, that is normal.
+1. **Assuming it unlocks at FC1 and worrying when it doesn't appear.** Observation says FC3 on at least one live state. If you are at FC1 or FC2 without a Wish Station, that is normal.
 
 2. **Spending Wish Sigils before the buildings are understood.** Unspent currency is optionality. Nobody yet knows which materials matter.
 
@@ -79,7 +79,7 @@ Complete Wishes as they appear — they cost nothing but attention and the Sigil
 
 | Item | Status |
 | --- | --- |
-| **Unlock** | Announced at FC1; observed at FC3 on a Gen 2 state |
+| **Unlock** | Announced at FC1; observed at FC3 on a live state |
 | **Replaces** | The Mailbox |
 | **Currency** | Wish Sigils, earned by completing Wishes |
 | **Spent at** | The Wish Shop, on entertainment-building materials |
@@ -96,4 +96,4 @@ Complete Wishes as they appear — they cost nothing but attention and the Sigil
 
 ---
 
-*Last verified: August 2026 · Sources: Century Games Chief Concierge update notes (August 13 and 17, 2026, via the official Whiteout Survival wiki), official @WOS_Global posts on the Fire Crystal Age expansion, plus direct observation of two accounts at FC2 and FC3 on the same Gen 2 state. Wish Sigil rates, Wish Shop contents, and entertainment-building effects are unpublished as of this date and are deliberately left blank rather than estimated.*
+*Last verified: September 2026 · Sources: Century Games Chief Concierge update notes (August 13 and 17, 2026, via the official Whiteout Survival wiki), official @WOS_Global posts on the Fire Crystal Age expansion, plus direct observation of two accounts at FC2 and FC3 on the same state. Wish Sigil rates, Wish Shop contents, and entertainment-building effects are unpublished as of this date and are deliberately left blank rather than estimated.*

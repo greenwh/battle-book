@@ -31,7 +31,7 @@ Pets are gated **twice**, and confusing the two gates is the most common plannin
 
 The second gate is the real one. A pet can appear in your Beast Cage as available to unlock **ahead of its listed generation day**, provided you have leveled its predecessor far enough. Treat the timeline days as "available by," not "not before."
 
-**Worked example, Gen 2 state at Day 200:**
+**Worked example, a live state at Day 200 (August 2026):**
 
 - Unlocked: Cave Hyena, Musk Ox, Arctic Wolf, Titan Roc, Giant Tapir, Snow Leopard, Giant Elk, Cave Lion, Snow Ape, **Iron Rhino**
 - Iron Rhino is listed at Day 280 on the generation timeline but unlocked at Day 200 through the chain behind Snow Ape
@@ -155,4 +155,4 @@ See [Pre-Battle Checklist](/combat/pre-battle-checklist) for the complete pre-ev
 
 ---
 
-*Last verified: August 2026 · Sources: whiteoutsurvival.wiki pet pages, Century Games update notes (August 17, 2026) for the Alliance Championship pet auto-activation change, community refinement testing, verified alliance chat posts on the Titan Roc Bear Trap interaction, plus direct observation of a Day-200 Gen 2 account for the unlock chain. Unlock counts reflect that account and will differ on other server ages — read your own Beast Cage.*
+*Last verified: September 2026 · Sources: whiteoutsurvival.wiki pet pages, Century Games update notes (August 17, 2026) for the Alliance Championship pet auto-activation change, community refinement testing, verified alliance chat posts on the Titan Roc Bear Trap interaction, plus direct observation of a Day-200 account for the unlock chain. Unlock counts reflect that account and will differ on other server ages — read your own Beast Cage.*

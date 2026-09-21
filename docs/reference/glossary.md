@@ -55,6 +55,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Furnace** — The central building. Determines your overall progression tier (Lv. 1–30, then FC1–FC10).
 
+**Generation (Gen)** — Not one number. Heroes, pets, and experts each advance on their own generation track, and the tracks desync — a state can be on Gen 4 heroes while its experts are a step behind and a pet sits two generations ahead of its listed row. Fire Crystal content is gated by your own Furnace, not by state age at all. "A Gen 4 state" refers to the hero track only. See [Server Timeline](/reference/server-timeline).
+
 **Generation 3 (Gen 3)** — Hero generation unlocked at ~Day 120 server age. Brings Mia (Lancer/Lucky Wheel), Logan (Infantry/Hall of Heroes), and Greg (Marksman/multi-source). Provides ~+290% troop Attack/Defense buff, up from Gen 2's ~+240%.
 
 **Hardened Alloy** — Primary Chief Gear upgrade material. From Crazy Joe, Frostfire Mine, beasts/Polar Terror, and the Championship Shop.
@@ -117,7 +119,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Wish Sigil** — Currency earned by completing Wishes at the Wish Station. Spent in the Wish Shop on construction materials for the nine Fire Crystal Age entertainment buildings.
 
-**Wish Station** — Fire Crystal Age building that replaces the Mailbox. Survivors post Wishes; completing them pays Wish Sigils. Announced to unlock at FC1; observed at FC3 on a Gen 2 state.
+**Wish Station** — Fire Crystal Age building that replaces the Mailbox. Survivors post Wishes; completing them pays Wish Sigils. Announced to unlock at FC1; observed at FC3 on a live state.
 
 ## Combat Terms
 

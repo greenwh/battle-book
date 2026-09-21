@@ -10,6 +10,17 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## September 2026
 
+### Generation labels replaced with day + date anchors
+
+The site described server age as "a Gen 2 state." That label expires: a state on hero Generation 2 in April 2026 is on Generation 4 by September, which made every observation tagged that way unreadable and, to a current reader, wrong.
+
+- **Observations now carry a server day and a date instead of a generation.** "Confirmed on a live state at Day 200, Aug 2026" replaces "confirmed on a Gen 2 state" across the Server Timeline, Wish Station, Combat Pets, and Experts pages. Day numbers do not move.
+- **Server Timeline gained a section on the four generation tracks.** Heroes, pets, experts, and Fire Crystal content advance independently and desync in both directions — pets run ahead through the leveling chain, experts lag, and Fire Crystal is gated by your own Furnace rather than by state age. "A Gen 4 state" describes the hero track and nothing else.
+- **Why the day numbers drift is now stated.** Unlocks gate on state progression — clearing the required missions — not on the calendar, and the April 15, 2026 update lowered the state age required for several of them. Figures sourced before that date may sit later than what a state actually sees.
+- **"Gen 2 roster" clarified to "pre-Gen-3 roster"** on the Flint, Alonzo, Bahiti, Logan, and Development Roadmap pages, where the phrase describes which heroes a player owns rather than how old their state is. The Garrison Captain trio headings now read "Before Logan is unlocked" and "Once Logan is unlocked."
+- **Expert roster forward-dated.** Gareth, the fourth-generation Expert, had not arrived on an observed state as of September 2026; Justus was announced in the August 2026 patch notes for later. Neither is yet unlockable.
+- **Glossary** gained a **Generation (Gen)** entry covering the multi-track model.
+
 ### Winter Siege rewritten after a second event
 
 A second completed Winter Siege plus a full capture of the in-game rules panel overturned four numbers the previous guide was built on. The page has been rewritten rather than patched.

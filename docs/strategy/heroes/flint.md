@@ -31,7 +31,7 @@ S-tier overall. The strongest rally leader available on Gen 1/2 servers. His Jan
 
 **Pyromaniac** (1st Expedition skill) — Gives troops a 20% chance to set enemies on fire with DoT damage. Chance-based, not a flat buff. This is why Flint is a poor rally joiner — this skill wastes a joiner buff slot.
 
-**Burning Resolve** (2nd Expedition skill) — +25% all-troop Attack. S-tier rally leader skill. The #1 Lv5 target on any Gen 2 roster (requires 4★ gate).
+**Burning Resolve** (2nd Expedition skill) — +25% all-troop Attack. S-tier rally leader skill. The #1 Lv5 target on any pre-Gen-3 roster (requires 4★ gate).
 
 **Immolation** (3rd Expedition skill) — Post-January 2026 rework: flat +25% Lethality for all troops. Previously RNG fire DoT — now a guaranteed flat buff. This rework made Flint the undisputed best rally leader on Gen 1/2.
 
@@ -90,4 +90,4 @@ Any guide published before January 2026 that calls Immolation unreliable or chan
 
 ---
 
-*Last verified: May 2026 · Sources: allclash.com hero tier list (2026), whiteoutsurvival.wiki Flint page, January 2026 Immolation rework patch notes, community consensus*
+*Last verified: September 2026 · Sources: allclash.com hero tier list (2026), whiteoutsurvival.wiki Flint page, January 2026 Immolation rework patch notes, community consensus*

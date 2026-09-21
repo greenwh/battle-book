@@ -6,7 +6,7 @@ description: Long-term Mythic Marksman — worth the wait, but don't rush the de
 # Alonzo
 
 ::: info Quick take
-S-tier when fully developed. Alonzo is the endgame Marksman for Gen 2 rosters — Captain Ahab's 15% rally lethality makes him an elite rally leader. But "fully developed" takes months of passive shard accumulation. Don't rush him; don't force gem spending on his shards until Mia's Lucky Wheel is secured.
+S-tier when fully developed. Alonzo is the endgame Marksman for pre-Gen-3 rosters — Captain Ahab's 15% rally lethality makes him an elite rally leader. But "fully developed" takes months of passive shard accumulation. Don't rush him; don't force gem spending on his shards until Mia's Lucky Wheel is secured.
 :::
 
 ## At a Glance
@@ -80,4 +80,4 @@ The transition happens when Alonzo reaches 3★ and has enough skill levels to o
 
 ---
 
-*Last verified: May 2026 · Sources: wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, allclash.com hero tier list (2026)*
+*Last verified: September 2026 · Sources: wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, allclash.com hero tier list (2026)*

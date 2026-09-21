@@ -6,9 +6,11 @@ description: When heroes, pets, buildings, and events unlock based on your serve
 # Server Timeline
 
 ::: info Quick take
-Every server starts at **Day 0** and unlocks content on a fixed schedule tied to **server age** (days since the server opened). New hero generations arrive roughly every **80 days**. Pets, Fire Crystal levels, and major events have their own milestones. Knowing your server age lets you save resources before a new generation drops instead of spending into the old one.
+Every server starts at **Day 0**, and this page forecasts what unlocks when. But the gate is **state progression** — clearing the required missions — not the calendar. Day numbers are a shared yardstick, not a promise.
 
-Timing varies by server. Treat every day number here as **approximate (±7 to 21 days)** — your server unlocks faster or slower based on how quickly it clears the required missions.
+**"Generation" is not one number.** Heroes, pets, experts, and buildings each run their own track, and the tracks drift apart. A state can be on Gen 4 heroes, Gen 3 experts, and holding a pet two generations ahead of its listed row, all at the same time. See [Your state is several generations at once](#your-state-is-several-generations-at-once).
+
+Treat every day number here as **approximate (±7 to 21 days)**, and read it as *available by*, not *not before*. Knowing roughly where your state sits still lets you bank resources ahead of a generation instead of spending into the old one.
 :::
 
 ## How to read this page
@@ -26,6 +28,31 @@ Three methods, from most to least reliable:
 3. **First President date (Sunfire method).** If your server has held at least one Sunfire Castle battle, go to Battle History → Hall of Fame and find the date of the first President. Add about **54 days** to get your current server age. (Sunfire Castle itself opens around Day 53–54, so the first President is elected close to that point.)
 
 All three are rough. Keep your own notes when new content lands — that gives you the most accurate reference for predicting the next unlock.
+
+## Your state is several generations at once
+
+"Generation" is shorthand for four separate tracks that advance independently:
+
+| Track | Range | What actually gates it |
+| --- | --- | --- |
+| **Heroes** | Gen 1–16 | State progression. This is the track people mean by "a Gen 4 state" |
+| **Pets** | Gen 1–10 | State progression **and** the pet leveling chain — the chain usually binds first |
+| **Experts** | Gen 1–4 | State progression, loosely tracking hero generations but on its own schedule |
+| **Buildings / Fire Crystal** | FC1–FC12 | **Your own Furnace**, not state age at all |
+
+The tracks desync in both directions. A pet can be available two generations ahead of its listed row because you leveled its predecessor. Experts can lag the hero generation by a full step. Fire Crystal content is entirely personal — two accounts on the same state can be at FC2 and FC5 on the same day.
+
+So "a Gen 4 state" describes the hero track and nothing else. It is not an age, and it does not tell you what that state has unlocked anywhere else.
+
+### Why the day numbers move
+
+- **The gate is mission completion, not the calendar.** A state that clears its required missions quickly unlocks early; a slow state unlocks late. Same day number, different reality.
+- **The published numbers have been lowered.** The April 15, 2026 update reduced the state age required for several unlocks. Any day figure sourced before that date may sit later than what your state actually sees.
+- **Two states of the same age can differ.** Do not plan off another state's report without checking both its day number and the date it was made.
+
+### How this page records observations
+
+Every confirmed sighting below is tagged with the **server day and the month it was seen** — never with a generation label. A note that reads "confirmed on a Gen 2 state" is worthless six months later, because that state is Gen 4 by then and the reader has no way to recover what age was meant. Day numbers do not move.
 
 ## Master timeline
 
@@ -46,10 +73,10 @@ All three are rough. Keep your own notes when new content lands — that gives y
 | 150 | Fire Crystal 5 | |
 | 160 | Expert: Romulus | Dawn Academy |
 | 180 | Legendary Chief Gear | Lands 7–14 days before Gen 4 |
-| 195 | Hero Generation 4 | Ahmose, Reina, Lynn — **confirmed on a Gen 2 state, Aug 2026** |
+| 195 | Hero Generation 4 | Ahmose, Reina, Lynn — **confirmed on a live state, Aug 2026** |
 | 195 | Gina's Revenge → Hero's Mission; Intel & Hero Hall updates | Shards shift to heroes 2 generations back |
 | 200 | Pet Generation 4 & 5 | Cave Lion, Snow Ape |
-| 200 | Experts: Valeria, Baldur, Fabian | Dawn Academy — **confirmed on a Gen 2 state, Aug 2026** |
+| 200 | Experts: Valeria, Baldur, Fabian | Dawn Academy — **confirmed on a live state, Aug 2026** |
 | 220 | War Academy + Fire Crystal Lab 5 | 6 refines/day |
 | 230 | Experts: Kathy, Ronne | Dawn Academy |
 | 270 | Hero Generation 5 | Hector, Nora, Gwen |
@@ -112,7 +139,7 @@ A new generation almost always beats the one before it for that troop type. If y
 ::: warning Generation days are not hard gates
 Pets are gated **twice**: by the state's generation day above, and by a **pet leveling chain** in which each pet unlocks by leveling its predecessor. The chain is the gate you actually feel, and it can run ahead of the calendar.
 
-Confirmed on a Gen 2 state at Day 200: **Iron Rhino was available to unlock**, eighty days ahead of its Gen 6 & 7 row, through the chain behind Snow Ape. Saber-tooth sits further along the same chain and had not been reached.
+Confirmed on a live state at Day 200, Aug 2026: **Iron Rhino was available to unlock**, eighty days ahead of its Gen 6 & 7 row, through the chain behind Snow Ape. Saber-tooth sits further along the same chain and had not been reached.
 
 Read these days as *available by*, not *not before*. Check your Beast Cage.
 :::
@@ -138,7 +165,7 @@ FC6 and FC7 fall between FC5 and FC8; the per-level upgrade costs and prerequisi
 | System | Gate |
 | --- | --- |
 | [Crystal Laboratory](/strategy/crystal-laboratory) | Opens with the Fire Crystal Age (Furnace 30 / FC1). Older guides place it at FC5 — that is wrong. Refinement *slot count* rises later |
-| [Wish Station](/strategy/wish-station) | Announced for FC1. **Observed at FC3** on a Gen 2 state, and absent on an FC2 account in the same state |
+| [Wish Station](/strategy/wish-station) | Announced for FC1. **Observed at FC3** on a live state, and absent on an FC2 account in the same state |
 
 ::: warning Emerging content
 The classic timeline tops out at **Fire Crystal 10 (Day 500)**. The oldest servers have begun receiving **Fire Crystal 11–12 and T12 troops** (T12 also arrives with Gen 10 / Flame Tech around Day 680). Server-age timing for FC11–12 is newer and less settled than the milestones above — verify against your own server before planning around it.
@@ -155,7 +182,7 @@ Experts unlock through the Dawn Academy after the Fire Crystal Age begins:
 | 200 | Valeria, Baldur, Fabian |
 | 230 | Kathy, Ronne |
 
-**Day 200 confirmed.** Valeria, Baldur, and Fabian unlocked on schedule on a Gen 2 state in August 2026.
+**Day 200 confirmed.** Valeria, Baldur, and Fabian unlocked on schedule on a live state in August 2026. Kathy and Ronne followed. **Gareth**, the fourth-generation Expert, had not arrived on that state as of September 2026 — he is expected alongside Gen 5 heroes. A further Expert, **Justus**, was announced in the August 2026 patch notes for a later date.
 
 See the [Dawn Academy overview](/strategy/dawn-academy/) for expert roles and trek strategy, and [The Experts](/strategy/dawn-academy/experts) for development order.
 
@@ -193,4 +220,4 @@ From Day 195, several reward sources (Intel Missions, Hero Hall keys, Hero's Mis
 
 ---
 
-*Last verified: June 2026 · Sources: whiteoutsurvival.wiki (Server Timeline, updated May 2026), official Discord /timeline command, community compilation (sinti). Day numbers are approximate and vary ±7–21 days per server — verify against in-game changes.*
+*Last verified: September 2026 · Sources: whiteoutsurvival.wiki (Server Timeline, updated May 2026), official Discord /timeline command, community compilation (sinti). Day numbers are approximate and vary ±7–21 days per server — verify against in-game changes.*

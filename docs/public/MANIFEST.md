@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-09-21 12:48:56 UTC
-**Last commit:** `8d14843`
+**Last updated:** 2026-09-21 14:43:14 UTC
+**Last commit:** `210ea2e`
 
 ## Deployed Pages
 
@@ -304,6 +304,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+210ea2e Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
+03b390d chore: regenerate MANIFEST.md [skip manifest]
 8d14843 Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
 4f63a8f chore: regenerate MANIFEST.md [skip manifest]
 efdf437 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
@@ -312,6 +314,4 @@ efdf437 Replace generation labels with day+date anchors; add multi-track generat
 c808e80 chore: regenerate MANIFEST.md [skip manifest]
 79e7a23 Style the homepage Server Timeline hero action to match the other hub buttons
 74776b3 chore: regenerate MANIFEST.md [skip manifest]
-baaea1d Add Server Timeline link to homepage hero actions
-9aed7eb chore: regenerate MANIFEST.md [skip manifest]
 ```

@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-09-20 02:34:05 UTC
-**Last commit:** `8959c2a`
+**Last updated:** 2026-09-21 12:45:57 UTC
+**Last commit:** `efdf437`
 
 ## Deployed Pages
 
@@ -290,6 +290,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+efdf437 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
+34795a3 chore: regenerate MANIFEST.md [skip manifest]
 8959c2a Rewrite Winter Siege guide after second event — morale floor 60%, 4 Hearts, 6 Strongholds, Warden targeting inverted
 c808e80 chore: regenerate MANIFEST.md [skip manifest]
 79e7a23 Style the homepage Server Timeline hero action to match the other hub buttons
@@ -298,6 +300,4 @@ baaea1d Add Server Timeline link to homepage hero actions
 9aed7eb chore: regenerate MANIFEST.md [skip manifest]
 02b7a50 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages, pet section correction, August 17 patch absorption, Winter Siege expansion
 44a3d76 chore: regenerate MANIFEST.md [skip manifest]
-ca88d04 Add Winter Siege event guide
-2b70b19 chore: regenerate MANIFEST.md [skip manifest]
 ```

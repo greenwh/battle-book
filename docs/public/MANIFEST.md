@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-09-21 12:45:57 UTC
-**Last commit:** `efdf437`
+**Last updated:** 2026-09-21 12:48:56 UTC
+**Last commit:** `8d14843`
 
 ## Deployed Pages
 
@@ -31,6 +31,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/events/bear-trap` — bear-trap.md
 - `/events/canyon-clash` — canyon-clash.md
 - `/events/crazy-joe` — crazy-joe.md
+- `/events/endless-trials` — endless-trials.md
 - `/events/fishing-tournament` — fishing-tournament.md
 - `/events/foundry-battle` — foundry-battle.md
 - `/events/frostfire-mine` — frostfire-mine.md
@@ -64,6 +65,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/dawn-academy/trek-guide` — trek-guide.md
 - `/strategy/fire-crystal` — fire-crystal.md
 - `/strategy/furnace` — furnace.md
+- `/strategy/gear/ascension-empowerment` — ascension-empowerment.md
 - `/strategy/gear/chief-charms` — chief-charms.md
 - `/strategy/gear/chief-gear-costs` — chief-gear-costs.md
 - `/strategy/gear/chief-gear` — chief-gear.md
@@ -71,6 +73,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/gear/` — index.md
 - `/strategy/gear/mythic-transfer` — mythic-transfer.md
 - `/strategy/gear/reforge` — reforge.md
+- `/strategy/heroes/ahmose` — ahmose.md
 - `/strategy/heroes/alonzo` — alonzo.md
 - `/strategy/heroes/bahiti` — bahiti.md
 - `/strategy/heroes/development-roadmap` — development-roadmap.md
@@ -78,8 +81,11 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/heroes/greg` — greg.md
 - `/strategy/heroes/` — index.md
 - `/strategy/heroes/logan` — logan.md
+- `/strategy/heroes/lynn` — lynn.md
 - `/strategy/heroes/mia` — mia.md
 - `/strategy/heroes/molly` — molly.md
+- `/strategy/heroes/philly` — philly.md
+- `/strategy/heroes/reina` — reina.md
 - `/strategy/heroes/roster` — roster.md
 - `/strategy/` — index.md
 - `/strategy/island/buildings` — buildings.md
@@ -92,6 +98,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/power-checklist` — power-checklist.md
 - `/strategy/power-priority` — power-priority.md
 - `/strategy/research` — research.md
+- `/strategy/war-academy` — war-academy.md
 - `/strategy/wish-station` — wish-station.md
 
 ### `/troops/`
@@ -125,6 +132,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
             { text: 'Bear Trap', link: '/events/bear-trap' },
             { text: 'Canyon Clash', link: '/events/canyon-clash' },
             { text: 'Crazy Joe', link: '/events/crazy-joe' },
+            { text: 'Endless Trials', link: '/events/endless-trials' },
             { text: 'Fishing Tournament', link: '/events/fishing-tournament' },
             { text: 'Foundry Battle', link: '/events/foundry-battle' },
             { text: 'Frostfire Mine', link: '/events/frostfire-mine' },
@@ -149,6 +157,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
             { text: 'Crystal Laboratory', link: '/strategy/crystal-laboratory' },
             { text: 'Wish Station', link: '/strategy/wish-station' },
+            { text: 'War Academy (T11)', link: '/strategy/war-academy' },
             {
               text: 'Daybreak Island',
               collapsed: true,
@@ -173,6 +182,10 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
                 { text: 'Bahiti', link: '/strategy/heroes/bahiti' },
                 { text: 'Alonzo', link: '/strategy/heroes/alonzo' },
                 { text: 'Greg', link: '/strategy/heroes/greg' },
+                { text: 'Ahmose', link: '/strategy/heroes/ahmose' },
+                { text: 'Reina', link: '/strategy/heroes/reina' },
+                { text: 'Lynn', link: '/strategy/heroes/lynn' },
+                { text: 'Philly', link: '/strategy/heroes/philly' },
               ],
             },
             {
@@ -181,6 +194,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
               items: [
                 { text: 'Gear Hub', link: '/strategy/gear/' },
                 { text: 'Hero Gear', link: '/strategy/gear/hero-gear' },
+                { text: 'Ascension & Empowerment', link: '/strategy/gear/ascension-empowerment' },
                 { text: 'Reforge Strategy', link: '/strategy/gear/reforge' },
                 { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
                 { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },
@@ -290,6 +304,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+8d14843 Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
+4f63a8f chore: regenerate MANIFEST.md [skip manifest]
 efdf437 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
 34795a3 chore: regenerate MANIFEST.md [skip manifest]
 8959c2a Rewrite Winter Siege guide after second event — morale floor 60%, 4 Hearts, 6 Strongholds, Warden targeting inverted
@@ -298,6 +314,4 @@ c808e80 chore: regenerate MANIFEST.md [skip manifest]
 74776b3 chore: regenerate MANIFEST.md [skip manifest]
 baaea1d Add Server Timeline link to homepage hero actions
 9aed7eb chore: regenerate MANIFEST.md [skip manifest]
-02b7a50 Fire Crystal Age update pass: Crystal Laboratory and Wish Station pages, pet section correction, August 17 patch absorption, Winter Siege expansion
-44a3d76 chore: regenerate MANIFEST.md [skip manifest]
 ```

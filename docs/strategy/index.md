@@ -42,17 +42,21 @@ The Furnace gates every other system in the game. Knowing the resource costs and
 
 ## Heroes
 
-Hero priorities, development order, skill leveling, Lucky Wheel planning, and Gen 3 transitions. Generation 3 (Mia, Greg, Logan) is now available for servers past Day 120.
+Hero priorities, development order, skill leveling, Lucky Wheel planning, and Gen 3/4 transitions. Generation 4 (Ahmose, Reina, Lynn) is now available on states that have progressed that far — see the Hero Roster for the F2P must-have tier by generation.
 
 - [Hero Strategy Hub](/strategy/heroes/) — roster planning philosophy and hero index
 - [Development Roadmap](/strategy/heroes/development-roadmap) — Gen 1 F20 through Gen 3 transition
 - [Flint](/strategy/heroes/flint) — S-tier Infantry, Jan 2026 rework, rally leader king
 - [Logan](/strategy/heroes/logan) — Gen 3 Infantry tank, defensive specialist
+- [Ahmose](/strategy/heroes/ahmose) — Gen 4 Infantry wall, garrison and Arena anchor
 - [Molly](/strategy/heroes/molly) — Gen 1 Lancer, transitional until Mia
+- [Philly](/strategy/heroes/philly) — Gen 2 Lancer healer, long-lived Arena and garrison piece
 - [Mia](/strategy/heroes/mia) — Gen 3 Lancer, S-tier with Crystal Lv2 + Expedition Lv5
+- [Reina](/strategy/heroes/reina) — Gen 4 Lancer, offensive rally specialist
 - [Bahiti](/strategy/heroes/bahiti) — best Epic Marksman, placeholder until Alonzo
 - [Alonzo](/strategy/heroes/alonzo) — Gen 2 Mythic Marksman, strong rally leader
 - [Greg](/strategy/heroes/greg) — Gen 3 Marksman, debuff specialist + rally amplifier
+- [Lynn](/strategy/heroes/lynn) — Gen 4 Marksman, the generation's Lucky Wheel hero and F2P pick
 
 ## Gear
 

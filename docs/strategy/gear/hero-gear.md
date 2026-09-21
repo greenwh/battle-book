@@ -1,12 +1,12 @@
 ---
 title: Hero Gear
-description: Enhancement priority by troop type, Master Forgery strategy, widget scaling, and F2P stopping points.
+description: Enhancement priority by troop type, Mastery Forging strategy, widget scaling, and F2P stopping points.
 ---
 
 # Hero Gear
 
 ::: info Quick take
-Focus on priority slots by troop type, push to Mythic as fast as possible, and concentrate Master Forgery on one piece at a time. Mythic at +30 beats Epic at +50.
+Focus on priority slots by troop type, push to Mythic as fast as possible, and concentrate Mastery Forging on one piece at a time. Mythic at +30 beats Epic at +50.
 :::
 
 ## Slot-to-Stat Mapping
@@ -56,24 +56,19 @@ Enhancement levels (+1 through +60+) add stats incrementally. The cost per level
 
 **Keep both priority pieces roughly even.** No reason to max one while the other lags — the stat gains are symmetric.
 
-## Master Forgery (MF)
-
-Master Forgery is an additional enhancement tier available only on Mythic gear. Levels 1–5, each providing significant stat bumps that compound on top of base enhancement.
-
-**The golden rule:** Focus MF on one piece at a time. MF3 on one piece beats MF1 on three pieces.
-
-| MF Level | Investment | F2P Recommendation |
-|---|---|---|
-| MF1 | Moderate | Get this on both priority pieces early |
-| MF2 | Significant | Good F2P target for primary heroes |
-| MF3 | Heavy | Practical F2P ceiling — strong returns |
-| MF4–5 | Extreme | Whale territory — skip unless heavy spender |
-
-MF uses Essence Stones, which come from Master Forgery events, KoI rewards, and limited sources. Don't waste them on secondary pieces or non-primary heroes.
-
-## Mastery Forging
+## Mastery Forging (MF)
 
 Mastery is the tier above enhancement on Mythic gear, fed by **Essence Stones** from Bear Hunt and event rewards. It is where a mature hero's gear investment actually goes.
+
+::: warning Corrected September 2026
+This page previously described "Master Forgery" as a separate 1-to-5 system sitting alongside Mastery Forging. That was wrong on both counts. There is **one** system, Mastery Forging, and it runs well past Level 10 — **Level 11 is the gate for Gear Empowerment**. Any plan built on an MF5 ceiling is stale.
+:::
+
+**The golden rule:** concentrate Mastery on one piece at a time. A single piece deep in Mastery beats the same Essence Stones spread across three, because the multiplier compounds against that piece's entire stat block.
+
+**Cost formula:** Mastery level N costs **10 × N Essence Stones**, as five forge steps of 2N each. So Lv10 to Lv11 is 110 stones and takes Gear Stats from +100% to +110%. Levels past 10 also consume **Mythic Hero Gear** on top of stones.
+
+The full ladder — Enhancement, Mastery Forging, Ascension to Legendary, and Empowerment with Mithril — is on [Ascension and Empowerment](/strategy/gear/ascension-empowerment).
 
 ::: tip Changed in August 2026 — sub-stage upgrades
 Once Gear Mastery reaches **Level 4 or above**, Mastery upgrades changed from **full-level upgrades to sub-stage upgrades**. The **total cost of Mastery Forging is unchanged** — the same Essence Stone spend gets you to the same place. What changed is granularity: a progress bar now tracks how far you are toward the next Mastery level.
@@ -113,6 +108,7 @@ For rallies, only the rally leader's widget applies. Joiners' widgets don't cont
 
 ## Related Guides
 
+- [Ascension and Empowerment](/strategy/gear/ascension-empowerment) — the four-stage gear ladder and the Mastery 11 gate
 - [Reforge Strategy](/strategy/gear/reforge) — what to do with replaced Epic pieces
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — free same-type gear transfers
 - [Chief Gear](/strategy/gear/chief-gear) — separate gear system for your Chief
@@ -120,4 +116,4 @@ For rallies, only the rally leader's widget applies. Joiners' widgets don't cont
 
 ---
 
-*Last verified: August 2026 · Sources: wos-buff-strategy-roadmap.md § System 1 and § System 2, wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, Century Games update notes (August 17, 2026) for the Mastery sub-stage change*
+*Last verified: September 2026 · Sources: in-game Mastery Forging and Empowerment screens (September 2026), wos-buff-strategy-roadmap.md § System 1 and § System 2, wally-enhancement-roadmap.md, beav-enhancement-roadmap.md, Century Games update notes (August 17, 2026) for the Mastery sub-stage change*

@@ -59,6 +59,13 @@ Bi-weekly 40-minute alliance defense where 20 waves of AI bandits hit your citie
 
 - [Crazy Joe Guide](/events/crazy-joe)
 
+### Endless Trials
+**Daily · Solo boss damage challenge**
+
+Permanent daily mode against Wulfgar, the Windhowler, in the Wilderness. Up to 30 solo attacks, no rallies, scored on your highest single attack. City combat buffs, battle items, and Academy research bonuses do **not** apply — pet perks, State Position bonuses, and President skills do. That makes it a clean hero-lineup test bench, and the first-time damage milestones pay in Mithril, Mythic Gear materials, Charms, Books, and Sigils.
+
+- [Endless Trials Guide](/events/endless-trials)
+
 ### Foundry Battle
 **Bi-weekly · Alliance vs. alliance facility war**
 

@@ -22,7 +22,7 @@ A-tier Lancer and your only free Mythic hero. Molly is the backbone of every new
 
 Molly is your only Mythic hero at game start. That means:
 - Her base stats are significantly higher than your four Epic heroes (Bahiti, Sergey, Jessie, Gina)
-- She has access to Mythic-tier gear and Master Forgery
+- She has access to Mythic-tier gear and Mastery Forging
 - She unlocks an exclusive weapon (Super Snowball) at 1★
 - Her skill caps are higher than Epic heroes
 
@@ -53,7 +53,7 @@ She's your primary Lancer from day one through the entire Gen 2 lifecycle. Don't
 - Widget (Super Snowball): Level 4–6 (moderate investment)
 
 ::: tip Every Molly investment is a Mia investment
-Lancer-to-Lancer gear transfers are free. When Mia is ready, Molly's entire Mythic gear set — enhancement levels, Master Forgery, everything — transfers at zero cost. This makes Molly's gear one of the safest investments on your roster.
+Lancer-to-Lancer gear transfers are free. When Mia is ready, Molly's entire Mythic gear set — enhancement levels, Mastery Forging, everything — transfers at zero cost. This makes Molly's gear one of the safest investments on your roster.
 :::
 
 ## Best Used For

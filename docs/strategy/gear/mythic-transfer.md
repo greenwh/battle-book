@@ -11,7 +11,7 @@ Gear transfers between heroes of the same troop type are free. Infantry → Infa
 
 ## The Rule
 
-Same-type gear transfers cost nothing. The gear moves immediately with all enhancement levels, Master Forgery levels, and stats intact. Cross-type transfers cost resources and should be avoided.
+Same-type gear transfers cost nothing. The gear moves immediately with all enhancement levels, Mastery Forging levels, and stats intact. Cross-type transfers cost resources and should be avoided.
 
 | Transfer Type | Cost |
 |---|---|

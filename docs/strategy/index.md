@@ -59,7 +59,8 @@ Hero priorities, development order, skill leveling, Lucky Wheel planning, and Ge
 Enhancement priority slots by troop type, reforge strategy, Mythic transfer rules, Chief Gear, and F2P stopping points.
 
 - [Gear Strategy Hub](/strategy/gear/) — gear system overview and key principles
-- [Hero Gear](/strategy/gear/hero-gear) — enhancement priority, Master Forgery, widget scaling
+- [Hero Gear](/strategy/gear/hero-gear) — enhancement priority, Mastery Forging, widget scaling
+- [Ascension and Empowerment](/strategy/gear/ascension-empowerment) — the four-stage gear ladder, the Mastery 11 empowerment gate, and the milestone table
 - [Reforge Strategy](/strategy/gear/reforge) — when and what to reforge
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — free same-type transfers
 - [Chief Gear](/strategy/gear/chief-gear) — F22 unlock, set bonuses, upgrade order

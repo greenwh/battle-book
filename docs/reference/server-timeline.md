@@ -77,7 +77,7 @@ Every confirmed sighting below is tagged with the **server day and the month it 
 | 195 | Gina's Revenge → Hero's Mission; Intel & Hero Hall updates | Shards shift to heroes 2 generations back |
 | 200 | Pet Generation 4 & 5 | Cave Lion, Snow Ape |
 | 200 | Experts: Valeria, Baldur, Fabian | Dawn Academy — **confirmed on a live state, Aug 2026** |
-| 220 | War Academy + Fire Crystal Lab 5 | 6 refines/day |
+| 220 | [War Academy](/strategy/war-academy) + Fire Crystal Lab 5 | 6 refines/day; War Academy is the only route to T11 Helios troops |
 | 230 | Experts: Kathy, Ronne | Dawn Academy |
 | 270 | Hero Generation 5 | Hector, Nora, Gwen |
 | 280 | Pet Generation 6 & 7 | Iron Rhino, Saber-tooth |
@@ -154,7 +154,7 @@ The Fire Crystal Age opens at Day 60 (you must be at Furnace 30 to use it). Leve
 | --- | --- |
 | 60 | Fire Crystal Age unlocks (Furnace 30 required) — **Crystal Laboratory opens here** |
 | 150 | Fire Crystal 5 |
-| 220 | War Academy + Fire Crystal Lab 5 (6 refines/day) |
+| 220 | [War Academy](/strategy/war-academy) + Fire Crystal Lab 5 (6 refines/day) |
 | 315 | Fire Crystal 8 + Fire Crystal Lab 6 (7 refines/day) |
 | 500 | Fire Crystal 10 |
 

@@ -10,6 +10,20 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## September 2026
 
+### Gen 4 content: War Academy, gear ascension, four hero pages, Endless Trials
+
+Seven new pages and a set of corrections bringing the site up to Generation 4.
+
+- **[War Academy](/strategy/war-academy) — new page.** The state-gated military research building and the only route to T11 Helios troops. Covers the Fire Crystal Shard economy, the full T11 cost (13,421 Shards and 3,974,000 Steel per branch), and the trap of converting Fire Crystals into Shards before the building itself is finished. The section most players will care about is the **SvS overlay**: a Shard spent on research is worth 1,000 Preparation points on Days 1, 2, and 5, which makes shard *timing* a larger decision than shard allocation.
+- **[Ascension and Empowerment](/strategy/gear/ascension-empowerment) — new page.** Enhancement, Mastery Forging, Ascension, and Empowerment are four stages of one ladder, not four options. Includes the Mastery cost formula (level N costs 10 × N Essence Stones) and the empowerment milestone table, which alternates between Expedition and Exploration skills — so after +20 the next milestone that changes a rally is **+60**, not +40.
+- **Empowerment gate corrected to Mastery Forging Lv 11.** Most community guides, and Century's own help centre, state Lv 10. The in-game Empowerment screen states Lv 11 in red and refuses the action at Lv 10. The site follows the screen.
+- **"Master Forgery" retired.** [Hero Gear](/strategy/gear/hero-gear) carried two contradictory sections: a "Master Forgery" 1-to-5 system and a separate "Mastery Forging" section. There is only one system, it runs well past Level 10, and the 1-to-5 section has been removed.
+- **Four new hero pages** — [Ahmose](/strategy/heroes/ahmose), [Reina](/strategy/heroes/reina), and [Lynn](/strategy/heroes/lynn) for Gen 4, plus [Philly](/strategy/heroes/philly), the Gen 2 Lancer healer who had been missing while her generation-mates Flint and Alonzo both had pages.
+- **[Hero Roster](/strategy/heroes/roster) gained an F2P must-have tier** by generation, and a note reconciling Hall of Chiefs with King of Icefield — they are the same acquisition channel before and after a state's first SvS, which is why sources appear to disagree about Philly and Ahmose.
+- **[Endless Trials](/events/endless-trials) — new page.** The daily Wulfgar damage challenge. The mechanically important part: city combat buffs, battle items, and Academy research bonuses do **not** apply, while pet perks, State Position bonuses, and President skills do, and troop composition is chosen automatically. Saving battle items for a record attempt is wasted effort.
+- **[The Experts](/strategy/dawn-academy/experts) extended** with a Ronne and Kathy decision section, and a forward-looking entry for Gareth (fourth-generation Expert, expected with Gen 5 heroes) and Justus (announced August 2026, notable for producing Expert growth materials and Pet Adventure attempts).
+- **Gen 4 troop buff recorded** at roughly +370% Attack and Defense, against ~+290% at Gen 3.
+
 ### Generation labels replaced with day + date anchors
 
 The site described server age as "a Gen 2 state." That label expires: a state on hero Generation 2 in April 2026 is on Generation 4 by September, which made every observation tagged that way unreadable and, to a current reader, wrong.

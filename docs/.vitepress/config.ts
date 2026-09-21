@@ -61,6 +61,7 @@ export default defineConfig({
             { text: 'Bear Trap', link: '/events/bear-trap' },
             { text: 'Canyon Clash', link: '/events/canyon-clash' },
             { text: 'Crazy Joe', link: '/events/crazy-joe' },
+            { text: 'Endless Trials', link: '/events/endless-trials' },
             { text: 'Fishing Tournament', link: '/events/fishing-tournament' },
             { text: 'Foundry Battle', link: '/events/foundry-battle' },
             { text: 'Frostfire Mine', link: '/events/frostfire-mine' },
@@ -85,6 +86,7 @@ export default defineConfig({
             { text: 'Fire Crystal (FC1→FC10)', link: '/strategy/fire-crystal' },
             { text: 'Crystal Laboratory', link: '/strategy/crystal-laboratory' },
             { text: 'Wish Station', link: '/strategy/wish-station' },
+            { text: 'War Academy (T11)', link: '/strategy/war-academy' },
             {
               text: 'Daybreak Island',
               collapsed: true,
@@ -109,6 +111,10 @@ export default defineConfig({
                 { text: 'Bahiti', link: '/strategy/heroes/bahiti' },
                 { text: 'Alonzo', link: '/strategy/heroes/alonzo' },
                 { text: 'Greg', link: '/strategy/heroes/greg' },
+                { text: 'Ahmose', link: '/strategy/heroes/ahmose' },
+                { text: 'Reina', link: '/strategy/heroes/reina' },
+                { text: 'Lynn', link: '/strategy/heroes/lynn' },
+                { text: 'Philly', link: '/strategy/heroes/philly' },
               ],
             },
             {
@@ -117,6 +123,7 @@ export default defineConfig({
               items: [
                 { text: 'Gear Hub', link: '/strategy/gear/' },
                 { text: 'Hero Gear', link: '/strategy/gear/hero-gear' },
+                { text: 'Ascension & Empowerment', link: '/strategy/gear/ascension-empowerment' },
                 { text: 'Reforge Strategy', link: '/strategy/gear/reforge' },
                 { text: 'Mythic Transfer', link: '/strategy/gear/mythic-transfer' },
                 { text: 'Chief Gear', link: '/strategy/gear/chief-gear' },

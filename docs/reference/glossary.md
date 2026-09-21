@@ -53,11 +53,17 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Frontier Trek** — Targeted Expert progression mode unlocked after 60 Tundra Treks. Pick a specific known Expert and grind their encounters exclusively. Frontier Supplies are mostly paid.
 
+**Fire Crystal Shard** — Currency for War Academy research only, not for building upgrades. Earned by exchanging Steel (20 per day) or Fire Crystals. Worth **1,000 SvS Preparation points each** when spent on research, on Days 1, 2, and 5.
+
 **Furnace** — The central building. Determines your overall progression tier (Lv. 1–30, then FC1–FC10).
 
 **Generation (Gen)** — Not one number. Heroes, pets, and experts each advance on their own generation track, and the tracks desync — a state can be on Gen 4 heroes while its experts are a step behind and a pet sits two generations ahead of its listed row. Fire Crystal content is gated by your own Furnace, not by state age at all. "A Gen 4 state" refers to the hero track only. See [Server Timeline](/reference/server-timeline).
 
 **Generation 3 (Gen 3)** — Hero generation unlocked at ~Day 120 server age. Brings Mia (Lancer/Lucky Wheel), Logan (Infantry/Hall of Heroes), and Greg (Marksman/multi-source). Provides ~+290% troop Attack/Defense buff, up from Gen 2's ~+240%.
+
+**Gear Ascension** — Converting a Mythic hero gear piece into **Legendary** gear. Requires the piece at Enhancement 100 plus a Mastery threshold, state progression, and Mythic Hero Gear as material. Enhancement resets to 1 afterwards, with the cap still 100. See [Ascension and Empowerment](/strategy/gear/ascension-empowerment).
+
+**Gear Empowerment** — Stat bumps and milestone skills applied to **Legendary** gear at enhancement 20 / 40 / 60 / 80 / 100. Costs 10 Mithril + 3 Mythic Hero Gear per step. Gated at **Mastery Forging Lv 11**, not Lv 10, despite what most published guides say.
 
 **Hardened Alloy** — Primary Chief Gear upgrade material. From Crazy Joe, Frostfire Mine, beasts/Polar Terror, and the Championship Shop.
 
@@ -73,7 +79,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Lunar Amber** — Chief Gear material required at the top tiers; from Material Exchange and packs.
 
-**MF / Master Forgery** — Additional enhancement tier on Mythic gear. Levels 1–5, each providing significant stat boosts.
+**MF / Mastery Forging** — The multiplier tier above enhancement on Mythic gear, fed by Essence Stones. Runs well past Level 10; **Level 11 gates Gear Empowerment**. Level N costs 10 × N Essence Stones. Older guides calling it "Master Forgery" and capping it at Level 5 are wrong.
 
 **Mithril** — High-tier upgrade material. Used for hero exclusive gear and SvS scoring.
 
@@ -117,9 +123,13 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Wild Marks** — Refinement currency for pets. The correct mark is decided by **refinement stage, not by which pet**: Commons for gray-to-blue on every pet and blue-to-purple on max-100-ceiling pets, Advanced Wild Marks reserved exclusively for purple-to-gold.
 
+**War Academy** — State-gated late-game military research building, roughly day 220 on the old timeline. Its three research trees lead to **T11 Helios** troops. Fuelled by Fire Crystal Shards and Steel. See [War Academy](/strategy/war-academy).
+
 **Wish Sigil** — Currency earned by completing Wishes at the Wish Station. Spent in the Wish Shop on construction materials for the nine Fire Crystal Age entertainment buildings.
 
 **Wish Station** — Fire Crystal Age building that replaces the Mailbox. Survivors post Wishes; completing them pays Wish Sigils. Announced to unlock at FC1; observed at FC3 on a live state.
+
+**Wulfgar (the Windhowler)** — The boss of the [Endless Trials](/events/endless-trials) daily mode. A barbarian chieftain from the far north; challenged solo in the Wilderness, up to 30 attacks per day.
 
 ## Combat Terms
 

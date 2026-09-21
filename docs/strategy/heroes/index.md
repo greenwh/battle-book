@@ -6,7 +6,7 @@ description: Hero priorities, development order, skill leveling, and roster plan
 # Hero Strategy
 
 ::: info Quick take
-Your hero roster determines your ceiling in every game mode. The key insight: invest deeply in a few heroes rather than spreading thin across many. One fully developed Mythic hero outperforms three half-built ones. With **Generation 3 now available** (Mia, Greg, Logan), the meta has shifted — the transition plan from Gen 1/2 to Gen 3 is documented in the [Development Roadmap](/strategy/heroes/development-roadmap).
+Your hero roster determines your ceiling in every game mode. The key insight: invest deeply in a few heroes rather than spreading thin across many. One fully developed Mythic hero outperforms three half-built ones. With **Generation 4 available** (Ahmose, Reina, Lynn) on states that have progressed that far, the transition plan from Gen 1/2 through Gen 3 is documented in the [Development Roadmap](/strategy/heroes/development-roadmap). Gen 4 is an incremental generation for free players — see the must-have tier on the [Hero Roster](/strategy/heroes/roster).
 :::
 
 ## How Heroes Work
@@ -22,8 +22,9 @@ Each new generation of Mythic heroes provides progressively higher troop buffs:
 | Gen 1 | ~+200% |
 | Gen 2 | ~+240% |
 | **Gen 3** | **~+290%** |
+| **Gen 4** | **~+370%** |
 
-The roughly 50% Attack/Defense uplift from Gen 2 → Gen 3 is the single biggest reason to plan the transition properly.
+The roughly 50-point uplift from Gen 2 to Gen 3, and another 80 from Gen 3 to Gen 4, is the single biggest reason to plan each transition properly. The buff applies only to the matching troop type, and only at the hero's max skill level.
 
 ## Guides in This Section
 
@@ -46,19 +47,23 @@ Detailed breakdowns for each primary roster hero — skills, gear priority, F2P 
 **Infantry**
 - [Flint](/strategy/heroes/flint) — S-tier Gen 1 rally leader, post-rework
 - [Logan](/strategy/heroes/logan) — Gen 3 Infantry tank, defensive specialist
+- [Ahmose](/strategy/heroes/ahmose) — Gen 4 Infantry wall, garrison and Arena anchor
 
 **Lancer**
 - [Molly](/strategy/heroes/molly) — Gen 1 Lancer, bench depth once Mia takes over
+- [Philly](/strategy/heroes/philly) — Gen 2 Lancer healer, long-lived Arena and garrison piece
 - [Mia](/strategy/heroes/mia) — Gen 3 Lancer, S-tier with Crystal Lv2 + Expedition Lv5
+- [Reina](/strategy/heroes/reina) — Gen 4 Lancer, offensive rally specialist
 
 **Marksman**
 - [Bahiti](/strategy/heroes/bahiti) — best Epic Marksman, placeholder until Alonzo
 - [Alonzo](/strategy/heroes/alonzo) — Gen 2 Mythic Marksman, strong rally leader
 - [Greg](/strategy/heroes/greg) — Gen 3 Marksman, debuff specialist + rally amplifier
+- [Lynn](/strategy/heroes/lynn) — Gen 4 Marksman, the generation's Lucky Wheel hero and F2P pick
 
 ### Not Yet Covered
 
-B-team heroes (Sergey, Gina, Jessie, Jasser, Patrick) play important supporting roles — Jessie is an S-tier rally joiner, Sergey is a strong defensive joiner — but their development priority is lower than the heroes above. Pages will be added once the primary Gen 3 roster is documented.
+B-team heroes (Sergey, Gina, Jessie, Jasser, Patrick) play important supporting roles — Jessie is an S-tier rally joiner, Sergey is a strong defensive joiner — but their development priority is lower than the heroes above. The Gen 1 Mythic core (Natalia, Jeronimo, Zinman) is also not yet covered individually; see the [Hero Roster](/strategy/heroes/roster) for their channels.
 
 ## Key Principles
 
@@ -70,15 +75,15 @@ B-team heroes (Sergey, Gina, Jessie, Jasser, Patrick) play important supporting 
 
 **Same-type gear transfers are free.** When Mia replaces Molly, all of Molly's Lancer gear (Goggles, Boots, Gloves, Belt) transfers to Mia at zero cost. Same for Alonzo inheriting Bahiti's Marksman gear, or Logan inheriting Flint's Infantry gear if you go that route.
 
-**Generation acquisition pattern** (Gen 2 → Gen 3):
+**Generation acquisition pattern.** Each generation releases three Mythic heroes, one per channel — and the channel rotates between classes each generation:
 
-| Gen 2 | Gen 3 | Role | Primary Source |
+| Role | Gen 2 | Gen 3 | Gen 4 |
 |---|---|---|---|
-| Flint | **Logan** | Infantry | Hall of Heroes |
-| Philly | **Mia** | Lancer | Lucky Wheel |
-| Alonzo | **Greg** | Marksman | Multi-source (Hero Rally, Daily Deals, KoI, SvS) |
+| Infantry | Flint *(Wheel)* | Logan *(Hall of Heroes)* | Ahmose *(Hall of Chiefs / KoI)* |
+| Lancer | Philly *(Hall of Chiefs / KoI)* | Mia *(Wheel)* | Reina *(Hall of Heroes)* |
+| Marksman | Alonzo *(Hall of Heroes)* | Greg *(multi-source)* | Lynn *(Wheel)* |
 
-Each generation's Lucky Wheel hero is your primary gem-saving target. Mia is now that target.
+**Each generation's Lucky Wheel hero is your primary gem-saving target.** At Gen 4 that is Lynn — and she is the only Gen 4 hero a free account should plan around.
 
 ## Where to Start
 

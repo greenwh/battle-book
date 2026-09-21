@@ -6,7 +6,7 @@ description: All 9 Experts in the Dawn Academy — skills, Sigil costs, and F2P 
 # The Experts
 
 ::: info Quick take
-There are **9 Experts** across three generations. The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
+There are **9 Experts** unlockable across three generations, with a fourth generation beginning. Gareth and Justus are announced but have not reached most states — see [Not Yet Available](#not-yet-available-gareth-and-justus). The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
 
 **Baldur, Fabian, and Valeria unlock together around Day 200** and were confirmed live on a state at Day 200 in August 2026. If you have just received all three at once, skip to [Which of Baldur, Fabian, and Valeria First](#which-of-baldur-fabian-and-valeria-first).
 :::
@@ -194,6 +194,37 @@ After Agnes → Cyrille → Holger → Baldur, the next Expert depends on what y
 
 You don't need all of them. Pick one situational Expert and commit, then revisit the others only after you've hit useful stopping points everywhere else.
 
+## Ronne and Kathy — the third generation
+
+These two arrive together, roughly 30 days after Baldur, Fabian, and Valeria. Both are event specialists, and both are genuinely low priority for most accounts — which is the useful thing to know, because the temptation on unlocking two Experts at once is to start both.
+
+| Expert | Content | Cadence | Verdict |
+| --- | --- | --- | --- |
+| **Kathy** | Frostfire Mine | Bi-weekly | Take if your alliance pushes Mine rankings |
+| **Ronne** | Tundra Trade Route | Ongoing, passive | Take only if you actually run the Trade Route |
+
+**Neither should displace Agnes, Cyrille, Holger, or Baldur.** If you have unlocked Ronne and Kathy and your first four are not yet at their stopping points, keep feeding the first four.
+
+**Between the two, Kathy is usually the better pick.** Frostfire Mine is a scheduled competitive event with alliance-wide stakes and materials that feed Chief Charms; the Tundra Trade Route is a passive system whose rewards are convenient rather than contested. Ronne's ceiling is higher only for players who genuinely work the Trade Route.
+
+**If your alliance contests neither**, park both at Affinity thresholds that unlock their cheapest skills and redirect Sigils. There is no completion bonus for having every Expert developed.
+
+## Not Yet Available: Gareth and Justus
+
+Two more Experts exist beyond the nine above. Neither had reached an observed state as of September 2026.
+
+**Gareth** is the fourth-generation Expert and is expected to arrive alongside **Gen 5 heroes**. He is a military specialist: infirmary capacity and healing speed, troop stat bonuses, and enemy troop lethality reduction. His early troop-training reward skill has broad value, but his headline skills need deep investment to matter.
+
+**Verdict when he arrives:** treat him like Romulus. Strong for rally leaders and committed PvP players, a poor early target for anyone else. Do not derail an Agnes or Baldur plan to start him.
+
+**Justus** was announced in the August 2026 patch notes with a later release. His published skills grant **Dynasty Honor Chests** containing Expert growth materials, and he increases **Pet Adventure attempts** with a chance of doubled Adventure rewards.
+
+That combination is unusual and worth watching: an Expert whose skills produce Expert materials is self-funding in a way none of the current nine are. Reserve judgement until the numbers are visible, but he is the first Expert since Agnes with a plausible claim to being a compounding economic pick rather than an event specialist.
+
+::: tip A new Expert is not a reason to restart your order
+Each new Expert generation resets the temptation to spread Sigils. The priority order at the top of this page has not changed in three Expert generations, and it will not change when Gareth and Justus land. Finish what you started.
+:::
+
 ## Common Mistakes
 
 1. **Rushing Romulus because his stats look good.** His Sigil cost is structurally hostile to F2P. Develop him last or skip entirely.
@@ -213,4 +244,4 @@ You don't need all of them. Pick one situational Expert and commit, then revisit
 
 ---
 
-*Last verified: September 2026 · Sources: AJackOf Experts guide, lootbar.gg Dawn Academy guide, BlueStacks Experts guide, ldshop.gg expert priority guide, wos-guide.com cultivation guide, whiteoutsurvival.wiki/experts/valeria, woscalculator.com experts*
+*Last verified: September 2026 · Sources: heaven-guardian.com Experts guide (September 2026), ldplayer.net Gareth guide, Century Games patch notes (August 2026) for Justus, AJackOf Experts guide, lootbar.gg Dawn Academy guide, BlueStacks Experts guide, ldshop.gg expert priority guide, wos-guide.com cultivation guide, whiteoutsurvival.wiki/experts/valeria, woscalculator.com experts*

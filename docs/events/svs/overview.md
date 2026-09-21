@@ -72,7 +72,7 @@ You don't need to hold everything. Daily activities (dailies, gathering, beast h
 | Day | Theme | Highest-value activities |
 |---|---|---|
 | Day 1 (Mon) | City Construction | Refined Fire Crystal: 30,000 pts each. Fire Crystal: 2,000 pts. Speedups: 30 pts/min. Chief Charm: 70 pts/score point. |
-| Day 2 (Tue) | Basic Skills Up | Mythic Hero Shard: 3,040 pts. Lucky Wheel spin: 8,000 pts. Epic Hero Shard: 1,220 pts. Rare Hero Shard: 350 pts. |
+| Day 2 (Tue) | Basic Skills Up | Mythic Hero Shard: 3,040 pts. Lucky Wheel spin: 8,000 pts. Epic Hero Shard: 1,220 pts. Rare Hero Shard: 350 pts. **Fire Crystal Shard spent on War Academy research: 1,000 pts.** Expert Sigil: 6,000 pts. |
 | Day 3 (Wed) | Beast Slay | Polar Terror rally: 30,000 pts (rally **starter only** — joiners get 0). Lv.26–30 beast solo: 12,000 pts. |
 | Day 4 (Thu) | Hero Development | **Mithril: 144,000 pts each — biggest single-item lever.** T11 troop: 75 pts. T10 troop: 60 pts. Chief Charm continues. |
 | Day 5 (Fri 00:00 → Sat 10:00) | Power Boost (34 hrs) | Hero Gear enhancement (Essence Stones 4,000 pts, Exclusive Gear Widgets 8,000 pts), leftover Mithril, Chief Gear Score upgrades (~36 pts/point), everything else. |
@@ -101,7 +101,7 @@ Spend Fire Crystals on building/research upgrades. Use Construction and Research
 ### Preparation Phase — Day 2 (Tuesday 00:00 UTC)
 **Basic Skills Up · 24 hours**
 
-Use Mythic Hero Shards first, then Epic, then Rare. Lucky Wheel spins. Collect gathering rewards as marches return. If you have a Training Capacity Enhance boost (+200% capacity, 2hr), use it now and time a big training batch to **finish on Day 4**.
+Day 2 is Research Day. Spend banked **Fire Crystal Shards** on [War Academy](/strategy/war-academy) research — 1,000 points each, and the single most overlooked scoring line on this day. Spend **Expert Sigils** (6,000 points each) and Books of Knowledge. Then Mythic Hero Shards first, then Epic, then Rare. Lucky Wheel spins. Collect gathering rewards as marches return. If you have a Training Capacity Enhance boost (+200% capacity, 2hr), use it now and time a big training batch to **finish on Day 4**.
 
 ### Preparation Phase — Day 3 (Wednesday 00:00 UTC)
 **Beast Slay · 24 hours**
@@ -118,7 +118,7 @@ Use Mythic Hero Shards first, then Epic, then Rare. Lucky Wheel spins. Collect g
 
 The "everything counts" day. Chief Gear Score, leftover Mithril, leftover Fire Crystals, remaining Training/Construction/Research Speedups, Wild Marks — burn the entire stockpile.
 
-**Hero gear scoring:** Only **Essence Stones** (via Master Forgery, 4,000 pts each) and **Hero Exclusive Gear Widgets** (8,000 pts each) score on Day 5 hero gear. Raw hero gear enhancement — XP Components, feeder gear consumption — does **not** score. Do not burn XP Components expecting points.
+**Hero gear scoring:** Only **Essence Stones** (via Mastery Forging, 4,000 pts each) and **Hero Exclusive Gear Widgets** (8,000 pts each) score on Day 5 hero gear. Raw hero gear enhancement — XP Components, feeder gear consumption — does **not** score. Do not burn XP Components expecting points.
 
 ### Saturday 10:00 UTC — Prep Ends, Battle Phase Begins
 
@@ -295,7 +295,7 @@ The **Supreme President** is a single role created when the Attacker (the state 
 |---|---|
 | Pre-SvS week | Stop spending stockpile items |
 | Day 1 (Mon) | Fire Crystals, speedups, Chief Charm |
-| Day 2 (Tue) | Hero Shards (Mythic first), Lucky Wheel |
+| Day 2 (Tue) | Fire Crystal Shards (War Academy research), Expert Sigils, Hero Shards (Mythic first), Lucky Wheel |
 | Day 3 (Wed) | START Polar Terror rallies, solo high-level beasts |
 | Day 4 (Thu) | **MITHRIL.** Promote troops. |
 | Day 5 (Fri+Sat AM) | Burn everything left. Essence Stones + Gear Widgets for hero gear points (not raw enhancement). |

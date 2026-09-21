@@ -11,13 +11,14 @@ Gear is where your daily resource spending goes — and where the most common wa
 
 ## How Gear Works
 
-Every hero equips 4 gear pieces (Goggles, Gloves, Belt, Boots). Each piece provides hero stats (Attack, Defense, Health) and troop command stats (Troop Lethality and Troop Health). Gear comes in rarity tiers: Empty → Common → Rare → Epic → Mythic, with each tier being a massive stat jump.
+Every hero equips 4 gear pieces (Goggles, Gloves, Belt, Boots). Each piece provides hero stats (Attack, Defense, Health) and troop command stats (Troop Lethality and Troop Health). Gear comes in rarity tiers: Empty → Common → Rare → Epic → Mythic → **Legendary**, with each tier being a massive stat jump. Legendary is reached by ascending a Mythic piece — see [Ascension and Empowerment](/strategy/gear/ascension-empowerment).
 
 Beyond hero gear, your Chief has a separate 6-piece gear set (unlocks at Furnace 22) that provides troop-type-specific buffs with powerful set bonuses.
 
 ## Guides in This Section
 
-- [Hero Gear](/strategy/gear/hero-gear) — Enhancement priority by troop type, Master Forgery strategy, widget scaling, F2P stopping points
+- [Hero Gear](/strategy/gear/hero-gear) — Enhancement priority by troop type, Mastery Forging strategy, widget scaling, F2P stopping points
+- [Ascension and Empowerment](/strategy/gear/ascension-empowerment) — the four-stage ladder, the Mastery 11 empowerment gate, and the milestone table
 - [Reforge Strategy](/strategy/gear/reforge) — When to reforge replaced gear, what never to reforge, and how to fund new Mythic pieces
 - [Mythic Transfer](/strategy/gear/mythic-transfer) — Free same-type transfers, when to pull the trigger, and the transitions that matter
 - [Chief Gear](/strategy/gear/chief-gear) — The F22 unlock, 6-piece set bonuses, upgrade order, and enhancement materials
@@ -29,7 +30,7 @@ Beyond hero gear, your Chief has a separate 6-piece gear set (unlocks at Furnace
 
 **Priority slots first.** Infantry = Gloves + Belt. Lancer and Marksman = Goggles + Boots. Enhance priority slots before touching secondary ones.
 
-**MF3 on one piece beats MF1 on three.** Master Forgery compounds — a single piece at MF3 provides more combined stats than spreading MF1 across three pieces.
+**Concentrate Mastery on one piece.** Mastery Forging compounds against a piece's whole stat block, so one deeply forged piece beats the same Essence Stones spread across three. Mastery runs well past Level 10 — **Level 11 is the gate for Empowerment**, not Level 10.
 
 **Same-type transfers are free.** Infantry gear moves between Infantry heroes, Lancer gear between Lancers, Marksman between Marksmen — at zero cost. This makes gear investment in transitional heroes safe.
 
@@ -41,6 +42,8 @@ Beyond hero gear, your Chief has a separate 6-piece gear set (unlocks at Furnace
 
 **Hero transition coming?** Read [Mythic Transfer](/strategy/gear/mythic-transfer) to understand the mechanics.
 
+**Piece at Enhancement 100 and wondering what is next?** Read [Ascension and Empowerment](/strategy/gear/ascension-empowerment).
+
 ---
 
-*Last verified: May 2026*
+*Last verified: September 2026*

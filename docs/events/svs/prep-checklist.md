@@ -41,6 +41,8 @@ All times UTC.
 
 ## Day 2 — Tuesday 00:00 UTC · Basic Skills Up
 
+- [ ] **Spend banked Fire Crystal Shards on War Academy research (1,000 pts each)** — this is the day for them
+- [ ] Spend Expert Sigils (6,000 pts each) and Books of Knowledge
 - [ ] Use hero-specific shards (Mythic 3,040 pts, Epic 1,220 pts, Rare 350 pts) — burn Mythic first for best ratio
 - [ ] **General Shards do NOT score** — do not burn them expecting points
 - [ ] Lucky Wheel spins (8,000 pts each)
@@ -76,7 +78,7 @@ All times UTC.
 ## Day 5 — Friday 00:00 → Saturday 10:00 UTC · Power Boost (34 hours)
 
 - [ ] Burn the entire remaining stockpile — almost everything scores at full rate
-- [ ] Apply Essence Stones via Master Forgery (4,000 pts each)
+- [ ] Apply Essence Stones via Mastery Forging (4,000 pts each)
 - [ ] Apply Hero Exclusive Gear Widgets (8,000 pts each)
 - [ ] **Do NOT burn XP Components or feeder gear** — hero gear enhancement does not score in SVS
 - [ ] **Note:** The reforge trick does not work — re-enhancing after reforge does not score

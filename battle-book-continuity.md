@@ -1,9 +1,9 @@
 # Battle Book — Chat Claude Continuity
  
-**Purpose:** Persistent reference for any chat Claude session working on the pha Ghosts Battle Book. Paired with `CLAUDE.md` in the repo (which is Claude Code’s reference). This doc is for **chat-side work**: planning, research, drafting content, packaging handoffs.
+**Purpose:** Persistent reference for any chat Claude session working on the Ice Kings Battle Book. Paired with `CLAUDE.md` in the repo (which is Claude Code’s reference). This doc is for **chat-side work**: planning, research, drafting content, packaging handoffs.
  
-**Live sites:** pha <https://greenwh.github.io/battle-book/> · SOA <https://greenwh.github.io/soa-battle-book/>
-**Repos:** pha <https://github.com/greenwh/battle-book> · SOA <https://github.com/greenwh/soa-battle-book>
+**Live sites:** KNG <https://greenwh.github.io/battle-book/> · SOA <https://greenwh.github.io/soa-battle-book/>
+**Repos:** KNG <https://github.com/greenwh/battle-book> · SOA <https://github.com/greenwh/soa-battle-book>
 **Tech:** VitePress, GitHub Pages, GitHub Actions auto-deploy
  
 -----
@@ -12,9 +12,9 @@
  
 Use this exact prompt when starting a new Battle Book session:
  
-> *“I’m Bill, working on the Battle Book. There are now two synced sites: **battle-book** (pha Ghosts, full branding) and **soa-battle-book** (SOA, stripped landing image + alliance/personal names). Live sites — pha: <https://greenwh.github.io/battle-book/> · SOA: <https://greenwh.github.io/soa-battle-book/> — fetch whichever book we’re working on, follow its MANIFEST.md link to see current deployed state, then read the battle-book continuity doc in project files. Content is identical across both sites; only branding differs. Ask me what we’re working on today.”*
+> *“I’m Bill, working on the Battle Book. There are now two synced sites: **battle-book** (Ice Kings, full branding) and **soa-battle-book** (SOA, stripped landing image + alliance/personal names). Live sites — KNG: <https://greenwh.github.io/battle-book/> · SOA: <https://greenwh.github.io/soa-battle-book/> — fetch whichever book we’re working on, follow its MANIFEST.md link to see current deployed state, then read the battle-book continuity doc in project files. Content is identical across both sites; only branding differs. Ask me what we’re working on today.”*
  
-**The URL in that prompt is load-bearing, not decoration.** `web_fetch` can only reach a URL that appeared in a prior tool result *or in one of Bill’s messages*. At the start of a cold session there are no prior tool results, and this small repo does not surface in web search. So the homepage URL **must arrive in Bill’s message** — pasting the restart prompt (which now carries both the pha and SOA URLs) is what seeds it into the whitelist. The whitelist is **per-URL**: seeding the pha homepage does not make the SOA homepage fetchable, and vice versa — so fetch the URL for whichever book you need to check (both are in the prompt). Once a homepage is fetched, its “Recently updated” section links to that site’s MANIFEST.md, which chains the rest. If Bill starts a session without the URL, ask him to paste the relevant site URL before trying to fetch anything.
+**The URL in that prompt is load-bearing, not decoration.** `web_fetch` can only reach a URL that appeared in a prior tool result *or in one of Bill’s messages*. At the start of a cold session there are no prior tool results, and this small repo does not surface in web search. So the homepage URL **must arrive in Bill’s message** — pasting the restart prompt (which now carries both the KNG and SOA URLs) is what seeds it into the whitelist. The whitelist is **per-URL**: seeding the KNG homepage does not make the SOA homepage fetchable, and vice versa — so fetch the URL for whichever book you need to check (both are in the prompt). Once a homepage is fetched, its “Recently updated” section links to that site’s MANIFEST.md, which chains the rest. If Bill starts a session without the URL, ask him to paste the relevant site URL before trying to fetch anything.
  
 -----
  
@@ -44,11 +44,11 @@ The manifest lists every deployed page, the current sidebar config, and recent c
  
 -----
  
-## Dual-Site Operation (pha + SOA)
+## Dual-Site Operation (KNG + SOA)
  
 The Battle Book is deployed as **two synced sites** from two repos:
  
-- **`battle-book`** — pha Ghosts. Full branding. Live: <https://greenwh.github.io/battle-book/>
+- **`battle-book`** — Ice Kings. Full branding. Live: <https://greenwh.github.io/battle-book/>
 - **`soa-battle-book`** — SOA clone. Live: <https://greenwh.github.io/soa-battle-book/>
 **What's identical (everything that matters for content):** every page, the sidebar structure, all strategy / event / combat data. Content is alliance-agnostic, so the same files go into both repos byte-for-byte.
  
@@ -56,7 +56,7 @@ The Battle Book is deployed as **two synced sites** from two repos:
  
 **Deploy model:** Claude Code is launched from the parent folder **above both repos** and updates **both on every change** — content, sidebar, and each repo's own MANIFEST (regenerated independently; each served at its own URL). Do not share or copy one manifest into the other. Internal and asset links are written **root-absolute** (e.g. `/fc-era-upgrade-costs.csv`); VitePress prepends each repo's own `base` (`/battle-book/` vs `/soa-battle-book/`) at build, so the same markdown resolves correctly in each site. **Never hardcode one repo's base path into the other.**
  
-**Handoff pattern:** loop the same operation over both repos (`for REPO in battle-book soa-battle-book; do …`), confirm shared anchors exist in each before editing, and end with a per-repo post-deploy check (including: for SOA, confirm links resolve under the SOA base, not the pha base).
+**Handoff pattern:** loop the same operation over both repos (`for REPO in battle-book soa-battle-book; do …`), confirm shared anchors exist in each before editing, and end with a per-repo post-deploy check (including: for SOA, confirm links resolve under the SOA base, not the KNG base).
  
 **Chat-side bootstrap:** only the site whose URL Bill pasted this session is fetchable (per-URL whitelist — see Restart Prompt). Both URLs live in the prompt, so either book can be checked. Both are kept in sync, so checking one usually reflects the other — but verify the specific site if a change might not have reached it yet.
  
@@ -64,7 +64,7 @@ The Battle Book is deployed as **two synced sites** from two repos:
  
 ## What The Battle Book Is
  
-A public Whiteout Survival reference site, built by Bill (pha Ghosts R4, State 4104) for his multinational academy alliance and the broader community. The audience extends well beyond the alliance — links get shared, screenshots float around, players from other servers reference it.
+A public Whiteout Survival reference site, built by Bill (Ice Kings R4, State 4104) for his multinational academy alliance and the broader community. The audience extends well beyond the alliance — links get shared, screenshots float around, players from other servers reference it.
  
 **Design principles:**
  
@@ -381,10 +381,10 @@ These are loose threads. If a session starts and Bill says “let’s continue X
 - `FOUNDRY_CONTINUITY.md` — Foundry Battle planning (alliance-specific, not site content)
 **Key URLs:**
  
-- pha live site: <https://greenwh.github.io/battle-book/>
-- pha live manifest: <https://greenwh.github.io/battle-book/MANIFEST.md>
-- pha repo: <https://github.com/greenwh/battle-book>
-- pha Actions: <https://github.com/greenwh/battle-book/actions>
+- KNG live site: <https://greenwh.github.io/battle-book/>
+- KNG live manifest: <https://greenwh.github.io/battle-book/MANIFEST.md>
+- KNG repo: <https://github.com/greenwh/battle-book>
+- KNG Actions: <https://github.com/greenwh/battle-book/actions>
 - SOA live site: <https://greenwh.github.io/soa-battle-book/>
 - SOA live manifest: <https://greenwh.github.io/soa-battle-book/MANIFEST.md>
 - SOA repo: <https://github.com/greenwh/soa-battle-book>
@@ -409,5 +409,5 @@ These are loose threads. If a session starts and Bill says “let’s continue X
 - **Assume handoff = deployed.** When a Claude Code handoff is delivered to Bill, treat the changes as **live** and update continuity/state in the same session — don't wait for a post-deploy confirmation to record it (Bill's standing instruction, June 26 2026). The manifest remains the source of truth if byte-level verification is ever needed, but day-to-day, handoff means done. (Note: this relaxes the older "verify before claiming deployed" stance from the Incident Log — that history is kept as cautionary background, but Bill has explicitly chosen the assume-deployed default.)
 -----
  
-*Last updated: June 26, 2026 (confirmed Server Timeline + Hero Roster + FC cost CSV all live in both repos via repo-source check; logged Incident 6 + repo-verification reconciliation method; added "assume handoff = deployed" working pattern; same-day prior: dual-site SOA operation, Restart Prompt + Key URLs for both sites) · Maintained by: chat Claude · Companion to: CLAUDE.md in repo*
+*Last updated: October 14, 2026 (rebranded back from pha Ghosts to Ice Kings/KNG; prior: June 26, 2026 — confirmed Server Timeline + Hero Roster + FC cost CSV all live in both repos via repo-source check; logged Incident 6 + repo-verification reconciliation method; added "assume handoff = deployed" working pattern; same-day prior: dual-site SOA operation, Restart Prompt + Key URLs for both sites) · Maintained by: chat Claude · Companion to: CLAUDE.md in repo*
  

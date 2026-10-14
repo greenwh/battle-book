@@ -1,15 +1,15 @@
 ---
-title: pha Ghosts Battle Book
+title: Ice Kings Battle Book
 description: Whiteout Survival reference for State 4104 and beyond — events, heroes, combat, and strategy.
 layout: home
 
 hero:
-  name: pha Ghosts
+  name: Ice Kings
   text: Battle Book
   tagline: A reference manual for Whiteout Survival players. Events, heroes, combat, and strategy — verified, mobile-first, and updated.
   image:
-    src: /bear2.png
-    alt: pha Ghosts — a roaring bear flanked by archers in a frozen battlefield
+    src: /bear.JPG
+    alt: Ice Kings — a roaring bear flanked by archers in a frozen battlefield
   actions:
     - theme: brand
       text: Browse Events

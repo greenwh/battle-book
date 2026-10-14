@@ -1,4 +1,4 @@
-# pha Ghosts Battle Book
+# Ice Kings Battle Book
 
 A reference website for Whiteout Survival players. Live at **https://greenwh.github.io/battle-book/**
 

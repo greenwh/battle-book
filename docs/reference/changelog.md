@@ -8,6 +8,14 @@ search: false
 
 A log of every meaningful site update. Helps readers spot stale info and see what's new.
 
+## October 2026
+
+### Rebrand — Ice Kings
+
+- Alliance rebrand from **pha Ghosts (pha)** back to **Ice Kings (KNG)**.
+- Landing image, favicon, and all app/PWA icons restored to the Ice Kings artwork.
+- Content is unchanged — this was a branding-only update.
+
 ## September 2026
 
 ### Gen 4 content: War Academy, gear ascension, four hero pages, Endless Trials

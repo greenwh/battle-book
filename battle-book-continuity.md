@@ -1,9 +1,9 @@
 # Battle Book — Chat Claude Continuity
  
-**Purpose:** Persistent reference for any chat Claude session working on the pha Ghosts Battle Book. Paired with `CLAUDE.md` in the repo (which is Claude Code’s reference). This doc is for **chat-side work**: planning, research, drafting content, packaging handoffs.
+**Purpose:** Persistent reference for any chat Claude session working on the Ice Kings Battle Book. Paired with `CLAUDE.md` in the repo (which is Claude Code’s reference). This doc is for **chat-side work**: planning, research, drafting content, packaging handoffs.
  
-**Live sites:** pha <https://greenwh.github.io/battle-book/> · SOA <https://greenwh.github.io/soa-battle-book/>
-**Repos:** pha <https://github.com/greenwh/battle-book> · SOA <https://github.com/greenwh/soa-battle-book>
+**Live sites:** KNG <https://greenwh.github.io/battle-book/> · WOS <https://greenwh.github.io/wos-knowledge/>
+**Repos:** KNG <https://github.com/greenwh/battle-book> · WOS <https://github.com/greenwh/wos-knowledge>
 **Tech:** VitePress, GitHub Pages, GitHub Actions auto-deploy
  
 -----
@@ -12,9 +12,9 @@
  
 Use this exact prompt when starting a new Battle Book session:
  
-> *“I’m Bill, working on the Battle Book. There are now two synced sites: **battle-book** (pha Ghosts, full branding) and **soa-battle-book** (SOA, stripped landing image + alliance/personal names). Live sites — pha: <https://greenwh.github.io/battle-book/> · SOA: <https://greenwh.github.io/soa-battle-book/> — fetch whichever book we’re working on, follow its MANIFEST.md link to see current deployed state, then read the battle-book continuity doc in project files. Content is identical across both sites; only branding differs. Ask me what we’re working on today.”*
+> *“I’m Bill, working on the Battle Book. There are now two synced sites: **battle-book** (Ice Kings, full branding) and **wos-knowledge** (Waldo and Wilma's Knowledge Book, own branding: name, mascot hero image, icons, red/orange theme). Live sites — KNG: <https://greenwh.github.io/battle-book/> · WOS: <https://greenwh.github.io/wos-knowledge/> — fetch whichever book we’re working on, follow its MANIFEST.md link to see current deployed state, then read the battle-book continuity doc in project files. Content is identical across both sites; only branding differs. Ask me what we’re working on today.”*
  
-**The URL in that prompt is load-bearing, not decoration.** `web_fetch` can only reach a URL that appeared in a prior tool result *or in one of Bill’s messages*. At the start of a cold session there are no prior tool results, and this small repo does not surface in web search. So the homepage URL **must arrive in Bill’s message** — pasting the restart prompt (which now carries both the pha and SOA URLs) is what seeds it into the whitelist. The whitelist is **per-URL**: seeding the pha homepage does not make the SOA homepage fetchable, and vice versa — so fetch the URL for whichever book you need to check (both are in the prompt). Once a homepage is fetched, its “Recently updated” section links to that site’s MANIFEST.md, which chains the rest. If Bill starts a session without the URL, ask him to paste the relevant site URL before trying to fetch anything.
+**The URL in that prompt is load-bearing, not decoration.** `web_fetch` can only reach a URL that appeared in a prior tool result *or in one of Bill’s messages*. At the start of a cold session there are no prior tool results, and this small repo does not surface in web search. So the homepage URL **must arrive in Bill’s message** — pasting the restart prompt (which now carries both the KNG and WOS URLs) is what seeds it into the whitelist. The whitelist is **per-URL**: seeding the KNG homepage does not make the WOS homepage fetchable, and vice versa — so fetch the URL for whichever book you need to check (both are in the prompt). Once a homepage is fetched, its “Recently updated” section links to that site’s MANIFEST.md, which chains the rest. If Bill starts a session without the URL, ask him to paste the relevant site URL before trying to fetch anything.
  
 -----
  
@@ -44,19 +44,19 @@ The manifest lists every deployed page, the current sidebar config, and recent c
  
 -----
  
-## Dual-Site Operation (pha + SOA)
+## Dual-Site Operation (KNG + WOS)
  
 The Battle Book is deployed as **two synced sites** from two repos:
  
-- **`battle-book`** — pha Ghosts. Full branding. Live: <https://greenwh.github.io/battle-book/>
-- **`soa-battle-book`** — SOA clone. Live: <https://greenwh.github.io/soa-battle-book/>
+- **`battle-book`** — Ice Kings. Full branding. Live: <https://greenwh.github.io/battle-book/>
+- **`wos-knowledge`** — WOS clone. Live: <https://greenwh.github.io/wos-knowledge/>
 **What's identical (everything that matters for content):** every page, the sidebar structure, all strategy / event / combat data. Content is alliance-agnostic, so the same files go into both repos byte-for-byte.
  
-**What differs (the only divergence):** the landing-page hero image, and the alliance/personal-name strings stripped from the SOA copy. These are a small, fixed **do-not-touch** set that content work never modifies. Every handoff names them explicitly so Claude Code leaves them alone.
+**What differs (the only divergence):** the landing-page hero image, and the site name, icons, theme colors and alliance/personal-name strings in the WOS copy. These are a small, fixed **do-not-touch** set that content work never modifies. Every handoff names them explicitly so Claude Code leaves them alone.
  
-**Deploy model:** Claude Code is launched from the parent folder **above both repos** and updates **both on every change** — content, sidebar, and each repo's own MANIFEST (regenerated independently; each served at its own URL). Do not share or copy one manifest into the other. Internal and asset links are written **root-absolute** (e.g. `/fc-era-upgrade-costs.csv`); VitePress prepends each repo's own `base` (`/battle-book/` vs `/soa-battle-book/`) at build, so the same markdown resolves correctly in each site. **Never hardcode one repo's base path into the other.**
+**Deploy model:** Claude Code is launched from the parent folder **above both repos** and updates **both on every change** — content, sidebar, and each repo's own MANIFEST (regenerated independently; each served at its own URL). Do not share or copy one manifest into the other. Internal and asset links are written **root-absolute** (e.g. `/fc-era-upgrade-costs.csv`); VitePress prepends each repo's own `base` (`/battle-book/` vs `/wos-knowledge/`) at build, so the same markdown resolves correctly in each site. **Never hardcode one repo's base path into the other.**
  
-**Handoff pattern:** loop the same operation over both repos (`for REPO in battle-book soa-battle-book; do …`), confirm shared anchors exist in each before editing, and end with a per-repo post-deploy check (including: for SOA, confirm links resolve under the SOA base, not the pha base).
+**Handoff pattern:** loop the same operation over both repos (`for REPO in battle-book wos-knowledge; do …`), confirm shared anchors exist in each before editing, and end with a per-repo post-deploy check (including: for WOS, confirm links resolve under the WOS base, not the KNG base).
  
 **Chat-side bootstrap:** only the site whose URL Bill pasted this session is fetchable (per-URL whitelist — see Restart Prompt). Both URLs live in the prompt, so either book can be checked. Both are kept in sync, so checking one usually reflects the other — but verify the specific site if a change might not have reached it yet.
  
@@ -64,7 +64,7 @@ The Battle Book is deployed as **two synced sites** from two repos:
  
 ## What The Battle Book Is
  
-A public Whiteout Survival reference site, built by Bill (pha Ghosts R4, State 4104) for his multinational academy alliance and the broader community. The audience extends well beyond the alliance — links get shared, screenshots float around, players from other servers reference it.
+A public Whiteout Survival reference site, built by Bill (Ice Kings R4, State 4104) for his multinational academy alliance and the broader community. The audience extends well beyond the alliance — links get shared, screenshots float around, players from other servers reference it.
  
 **Design principles:**
  
@@ -338,7 +338,7 @@ The FC cost CSV — and this session's Server Timeline + Hero Roster — were re
  
 ## Deployment State (As Of June 26, 2026)
  
-**Nothing is currently pending.** Verified this session against live **repo source** for both repos — everything previously staged is confirmed live in both `battle-book` and `soa-battle-book`.
+**Nothing is currently pending.** Verified this session against live **repo source** for both repos — everything previously staged is confirmed live in both `battle-book` and `wos-knowledge`.
  
 > **Reconciliation note — why "pending" drifted, and the fix.** The GitHub Actions sync works correctly: a push to `main` auto-deploys and both repos stay in step. The drift was **bookkeeping, not sync** — this doc records *intent* ("a handoff was staged"), and nothing flipped those labels to "deployed" after Claude Code ran them, so stale "pending" entries accumulated. Compounding it, chat Claude repeated an inherited "pending" label without checking (the infer-vs-verify trap from Incident 2). **Fix: verify status against the repo, never trust an inherited label.** `raw.githubusercontent.com/greenwh/<repo>/main/<path>` returns the real file (200/404 + content) for any path with **no per-URL whitelist** (unlike `web_fetch`), so it's the cheap, reliable way to reconcile at session start. Paired with the "handoff = deployed" rule, a staged handoff gets recorded as live in the same session.
  
@@ -346,7 +346,7 @@ The FC cost CSV — and this session's Server Timeline + Hero Roster — were re
  
 - `/reference/server-timeline` — server-age unlock schedule: hero Gen 1–16, pets, Fire Crystal milestones, experts, events, plus the three server-age calculation methods. Sidebar: Reference, between Glossary and Changelog.
 - `/strategy/heroes/roster` — every hero by generation and class + acquisition source (Lucky Wheel / Hall of Heroes / Hall of Chiefs for Gen 1–5; Gen 6+ flagged as not-firmly-documented; Epic + Rare indexed). Sidebar: Heroes, after Hero Hub; linked from the Heroes hub.
-Source data verified June 2026 against whiteoutsurvival.wiki (Server Timeline, updated May 2026) and the whiteoutsurvivalhandbook Lucky Wheel guide. Supersedes the Aug-2025 community timeline image (wrong Gen 10–13 days; stopped at Gen 13). The pages cross-link to each other and were deployed together. **Confirmed live in both repos June 26, 2026** via repo-source check (`docs/reference/server-timeline.md` and `docs/strategy/heroes/roster.md` present in both; SOA `config.ts` carries both new sidebar entries).
+Source data verified June 2026 against whiteoutsurvival.wiki (Server Timeline, updated May 2026) and the whiteoutsurvivalhandbook Lucky Wheel guide. Supersedes the Aug-2025 community timeline image (wrong Gen 10–13 days; stopped at Gen 13). The pages cross-link to each other and were deployed together. **Confirmed live in both repos June 26, 2026** via repo-source check (`docs/reference/server-timeline.md` and `docs/strategy/heroes/roster.md` present in both; WOS `config.ts` carries both new sidebar entries).
  
 **Deployed — FC cost CSV download (both repos).** Previously tracked here as "pending"; **confirmed live June 26, 2026** via repo check — `docs/public/fc-era-upgrade-costs.csv` returns 200 and `strategy/fire-crystal.md` carries the "Detailed Build Data (Download)" section in **both** repos. The CSV covers Furnace, Embassy, the three camps, and War Academy; Command Centre + Infirmary FC detail are still not in it — a future regeneration can add them with no page change needed. Source files retained in project: `CLAUDE_CODE_HANDOFF_fc_cost_csv.md`, `fc-era-upgrade-costs.csv`, `fire-crystal-download-insert.md`.
  
@@ -381,14 +381,14 @@ These are loose threads. If a session starts and Bill says “let’s continue X
 - `FOUNDRY_CONTINUITY.md` — Foundry Battle planning (alliance-specific, not site content)
 **Key URLs:**
  
-- pha live site: <https://greenwh.github.io/battle-book/>
-- pha live manifest: <https://greenwh.github.io/battle-book/MANIFEST.md>
-- pha repo: <https://github.com/greenwh/battle-book>
-- pha Actions: <https://github.com/greenwh/battle-book/actions>
-- SOA live site: <https://greenwh.github.io/soa-battle-book/>
-- SOA live manifest: <https://greenwh.github.io/soa-battle-book/MANIFEST.md>
-- SOA repo: <https://github.com/greenwh/soa-battle-book>
-- SOA Actions: <https://github.com/greenwh/soa-battle-book/actions>
+- KNG live site: <https://greenwh.github.io/battle-book/>
+- KNG live manifest: <https://greenwh.github.io/battle-book/MANIFEST.md>
+- KNG repo: <https://github.com/greenwh/battle-book>
+- KNG Actions: <https://github.com/greenwh/battle-book/actions>
+- WOS live site: <https://greenwh.github.io/wos-knowledge/>
+- WOS live manifest: <https://greenwh.github.io/wos-knowledge/MANIFEST.md>
+- WOS repo: <https://github.com/greenwh/wos-knowledge>
+- WOS Actions: <https://github.com/greenwh/wos-knowledge/actions>
 **Sources Bill trusts (for fact-checking):**
  
 - whiteoutsurvival.wiki (official-adjacent community wiki)
@@ -409,5 +409,5 @@ These are loose threads. If a session starts and Bill says “let’s continue X
 - **Assume handoff = deployed.** When a Claude Code handoff is delivered to Bill, treat the changes as **live** and update continuity/state in the same session — don't wait for a post-deploy confirmation to record it (Bill's standing instruction, June 26 2026). The manifest remains the source of truth if byte-level verification is ever needed, but day-to-day, handoff means done. (Note: this relaxes the older "verify before claiming deployed" stance from the Incident Log — that history is kept as cautionary background, but Bill has explicitly chosen the assume-deployed default.)
 -----
  
-*Last updated: June 26, 2026 (confirmed Server Timeline + Hero Roster + FC cost CSV all live in both repos via repo-source check; logged Incident 6 + repo-verification reconciliation method; added "assume handoff = deployed" working pattern; same-day prior: dual-site SOA operation, Restart Prompt + Key URLs for both sites) · Maintained by: chat Claude · Companion to: CLAUDE.md in repo*
+*Last updated: October 14, 2026 (rebranded back from pha Ghosts to Ice Kings/KNG, sibling site updated from retired soa-battle-book (404) to wos-knowledge; prior: June 26, 2026 — confirmed Server Timeline + Hero Roster + FC cost CSV all live in both repos via repo-source check; logged Incident 6 + repo-verification reconciliation method; added "assume handoff = deployed" working pattern; same-day prior: dual-site operation, Restart Prompt + Key URLs for both sites) · Maintained by: chat Claude · Companion to: CLAUDE.md in repo*
  

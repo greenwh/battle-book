@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-09-21 14:43:14 UTC
-**Last commit:** `210ea2e`
+**Last updated:** 2026-10-14 16:15:21 UTC
+**Last commit:** `03a30a4`
 
 ## Deployed Pages
 
@@ -288,7 +288,7 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
     },
 
     footer: {
-      message: 'pha Ghosts Battle Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
+      message: 'Ice Kings Battle Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
       copyright: 'Built with VitePress · Hosted on GitHub Pages',
     },
 
@@ -304,14 +304,14 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+03a30a4 Merge branch 'rebrand-ice-kings'
+7db81b1 Continuity doc: sibling site is wos-knowledge (soa-battle-book retired)
+f49bc41 Rebrand back to KNG Ice Kings: name, icons, hero image, changelog, continuity doc
+75a13b8 chore: regenerate MANIFEST.md [skip manifest]
 210ea2e Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
 03b390d chore: regenerate MANIFEST.md [skip manifest]
 8d14843 Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
 4f63a8f chore: regenerate MANIFEST.md [skip manifest]
 efdf437 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
 34795a3 chore: regenerate MANIFEST.md [skip manifest]
-8959c2a Rewrite Winter Siege guide after second event — morale floor 60%, 4 Hearts, 6 Strongholds, Warden targeting inverted
-c808e80 chore: regenerate MANIFEST.md [skip manifest]
-79e7a23 Style the homepage Server Timeline hero action to match the other hub buttons
-74776b3 chore: regenerate MANIFEST.md [skip manifest]
 ```

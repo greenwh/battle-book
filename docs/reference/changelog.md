@@ -10,6 +10,22 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## October 2026
 
+### Winter Siege updated after a third event — new Heart and Morale rules
+
+An in-game mail on 11 October 2026 changed two core Winter Siege numbers, and a third completed event confirmed several mechanics the guide had marked as uncertain.
+
+- **Hearts raised:** normal squads 4 → **5**, Wardens 5 → **6**. The Phaethon Guard auto-fill takes the Warden count.
+- **Morale decay slowed:** now 5 points per successful defense above 90% and **2 points** at or below 90% (was 10 above 80%, 5 below). The **60% floor is unchanged**, but reaching it now takes 17 defenses instead of 6. The first steps of the new schedule (95 → 90 → 88) were read directly off the in-game Morale display.
+- **Kill costs roughly doubled.** The Stars-per-attack table is rebuilt; a wounded top-Stronghold squad is now worth 15× a fresh front-line one (was 12×).
+- **New section — the Practical Wall.** Below about 0.80× your finisher's power, each Heart costs nine or more attacks. Adds a table of attacks per Heart by power ratio, and guidance on when to hold finishers back (tight budget) and when not to (generous budget).
+- **Confirmed in play:** Wardens pay double Stars in every event observed; each flank front-line Stronghold opens the Advanced Stronghold on its own side; destroyed squads keep attacking; each tier holds three gears and promotion carries the overflow; first-time tier seeding does not repeat; Carnage accrues without attack wins.
+- **New advice:** read in-game mail before every event, post the defender's Morale while grinding, name the target with every power threshold, and screenshot every Stronghold before the final kill — the results screens don't show them.
+- **Glossary** — Heart, Morale and Warden updated.
+
+### Foundry Battle — map added
+
+- Added the in-game battlefield map to the Foundry Battle guide, showing all eleven buildings with their first-control and per-minute point values.
+
 ### Rebrand — Ice Kings
 
 - Alliance rebrand from **pha Ghosts (pha)** back to **Ice Kings (KNG)**.

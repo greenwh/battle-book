@@ -149,7 +149,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Garrison Swap** — Technique for replacing an attack march with a garrison march by timing a recall during the last seconds of a garrison march arrival.
 
-**Heart** — In Winter Siege, a garrisoned squad's health. The squad loses one Heart per failed defense. Its Stars are only deducted when every Heart is gone, so partial damage scores nothing. Observed at 4 Hearts for a normal squad and 5 for a Warden, but the figure has changed between events — check Stronghold Info.
+**Heart** — In Winter Siege, a garrisoned squad's health. The squad loses one Heart per failed defense. Its Stars are only deducted when every Heart is gone, so partial damage scores nothing. Since October 2026: 5 Hearts for a normal squad and 6 for a Warden (previously 4 and 5). The figure has changed between events — check Stronghold Info.
 
 **Hospital Capacity Signal** — In scout reports, a full or near-full hospital means the defender cannot absorb new wounded troops — additional casualties become permanent losses instead of healing. A scout-readable vulnerability indicator.
 
@@ -161,7 +161,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Lion Intimidation** — Logan's second Expedition skill. Reduces damage taken by 20% for all troops at max level. Unlike most defensive skills, it has no proc chance — flat application. Gen 3 garrison captain core.
 
-**Morale** — In Winter Siege, a multiplier on a squad's stats: Squad Stats = stats at the end of the Preparation Phase x Morale. Attacker Morale is fixed at 100%. A garrison squad's Morale drops each time it wins a defense — 10 points while above 80%, 5 points at or below it — down to a floor of **60%**, and resets to 100% whenever it loses a Heart but survives. The floor means a defender more than about 1.67x your best attacker can never be destroyed.
+**Morale** — In Winter Siege, a multiplier on a squad's stats: Squad Stats = stats at the end of the Preparation Phase x Morale. Attacker Morale is fixed at 100%. A garrison squad's Morale drops each time it wins a defense — 5 points while above 90%, 2 points at or below it (since October 2026; previously 10 above 80% and 5 below) — down to a floor of **60%**, seventeen successful defenses from full, and resets to 100% whenever it loses a Heart but survives. The floor means a defender more than about 1.67x your best attacker can never be destroyed.
 
 **Phaethon Guard** — In Winter Siege, the system-generated squad that fills any Stronghold left without a garrison at the start of the Scout Phase. It takes the Warden slot and carries the full Warden Heart count and Star value for that Stronghold type, at very low power. An undefended Stronghold is therefore cheap to clear but not free, and an alliance that barely turns out still has a Star total.
 
@@ -181,7 +181,7 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Troop Replenishment** — Sending additional troops without a hero to reinforce an existing garrison mid-battle.
 
-**Warden** — In Winter Siege, one designated squad per Stronghold, appointed by R4/R5 during the Preparation Phase. Observed carrying double its Stronghold's normal Star value and one extra Heart. Only the top 5 squads by power in that Stronghold are eligible. An unappointed Stronghold has its strongest squad promoted automatically at the start of the Scout Phase.
+**Warden** — In Winter Siege, one designated squad per Stronghold, appointed by R4/R5 during the Preparation Phase. Carries double its Stronghold's normal Star value (true in every event observed) and one extra Heart (6 against 5 since October 2026). Only the top 5 squads by power in that Stronghold are eligible. An unappointed Stronghold has its strongest squad promoted automatically at the start of the Scout Phase.
 
 **Wounded vs. Losses** — In a battle report's casualty breakdown: "lightly wounded" troops took damage but didn't need treatment; "wounded" troops require hospital healing (with resource cost); "losses" are permanent deaths. For defenders, a portion of losses are routed to Enlistment for recovery.
 

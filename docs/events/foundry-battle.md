@@ -41,6 +41,12 @@ The objective is simple: **earn more Arsenal Points than the enemy alliance by c
 
 Every previously-unlocked building remains contestable in subsequent phases. Phase 2 doesn't replace Phase 1 buildings — it adds new ones.
 
+### The Map
+
+![Foundry Battle map showing all eleven buildings with their first-control and per-minute point values](/foundry-map.webp)
+
+*All eleven buildings and their point values: Imperial Foundry in the centre, Prototype Sites on the west and east flanks, Repair Facilities I–IV around the edges, and Boiler, Mercenary, Munition and Transit on the north–south axis.*
+
 ### The Buildings
 
 Verified point values from official wiki and major guides:
@@ -247,4 +253,4 @@ If your alliance is invited to Tundra Arms League, treat it as a higher-stakes F
 
 ---
 
-*Last verified: April 2026 · Sources: whiteoutsurvival.wiki Foundry Battle page, BlueStacks Foundry Battle guide, ldplayer.net Foundry Battle walkthrough (Nov 2025), u7buy.com Foundry Battle guide (Dec 2025), whiteout-survival.com Foundry Battle guide (Dec 2025), mobi.gg Foundry Battle guide (Oct 2024), godlikebots Foundry Battle guide, heaven-guardian Foundry Battle guide (Dec 2025), thriveingaming Foundry Battle guide (March 2026), ldshop Tundra Arms League 2026 guide. Mechanics confirmed against post-Jan 2026 patch state.*
+*Last verified: October 2026 · Sources: whiteoutsurvival.wiki Foundry Battle page, BlueStacks Foundry Battle guide, ldplayer.net Foundry Battle walkthrough (Nov 2025), u7buy.com Foundry Battle guide (Dec 2025), whiteout-survival.com Foundry Battle guide (Dec 2025), mobi.gg Foundry Battle guide (Oct 2024), godlikebots Foundry Battle guide, heaven-guardian Foundry Battle guide (Dec 2025), thriveingaming Foundry Battle guide (March 2026), ldshop Tundra Arms League 2026 guide. Mechanics confirmed against post-Jan 2026 patch state.*

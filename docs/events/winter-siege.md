@@ -9,6 +9,10 @@ description: Whiteout Survival's monthly alliance-vs-alliance Stronghold battle.
 **Quick take:** Monthly alliance-vs-alliance Stronghold battle. Top 20 alliances in your state, Furnace Lv. 25 personal minimum. Each Chief deploys up to two squads on Wednesday and Thursday, everything locks Thursday 23:59 UTC, and Saturday is a single 24-hour Battle Phase. Troops are provided by the system and nothing dies permanently. The whole event is a Star count: your garrisoned squads carry Stars, and you only take an enemy's Stars by destroying a squad completely. Partial damage scores nothing.
 :::
 
+::: warning Updated October 2026 — the rules changed
+An in-game mail on **11 October 2026** changed two core numbers, effective immediately. Normal squads now carry **5 Hearts** (was 4) and Wardens **6** (was 5). Morale now drops **5 points per successful defense above 90%, and 2 points at or below 90%** (was 10 above 80% and 5 below). **The 60% floor did not change.** Every kill now costs considerably more than it did in September, and the tables below have been rebuilt. **Check your in-game mail before every Winter Siege** — the rules can change between events.
+:::
+
 ::: warning Rewritten September 2026
 This page previously published a Morale decay schedule with a **35% floor**, **3 Hearts** per normal squad, **30**-squad garrison capacity, and a **four-Stronghold** map. All four were wrong or have since changed. The current figures are below. If you have a copy of the older guidance, discard it — the Morale floor in particular changes which enemy squads are worth attacking at all.
 :::
@@ -33,7 +37,7 @@ Two alliances are matched against each other. Each holds a set of Strongholds. Y
 | **Star** | Score. Every garrisoned squad contributes Stars to the Stronghold it sits in. The amount varies by Stronghold **type** |
 | **Heart** | A squad's health. A squad loses one Heart every time it loses a defensive battle |
 
-**The rule that shapes everything else:** a squad's Stars are only deducted when it loses **all** of its Hearts, and then they drop all at once. Take three of a four-Heart squad's Hearts and you have scored nothing.
+**The rule that shapes everything else:** a squad's Stars are only deducted when it loses **all** of its Hearts, and then they drop all at once. Take four of a five-Heart squad's Hearts and you have scored nothing.
 
 **The converse is just as important.** A destroyed squad drops its Stars whether or not its Stronghold is cleared. You do **not** have to clear a Stronghold to take Stars from it — clearing matters only for the Conquest Reward and for opening the path onward.
 
@@ -96,6 +100,8 @@ An alliance entering Winter Siege for the **first time** is seeded off its **All
 
 This couples the two events: **how your alliance places in Alliance Championship in the weeks before its first Winter Siege sets where Winter Siege begins.** Higher is not automatically better — see the tier movement table below.
 
+**Seeding appears to happen once.** In the one case observed, an alliance that had already taken part was **not** re-seeded from its Alliance Championship tier; its own Winter Siege standing carried forward.
+
 ### Tier Movement and Rewards
 
 Tier change depends on your current tier, not just the result:
@@ -115,25 +121,29 @@ At Rookie and Stalwart a loss still advances you. From **Pioneer** upward a loss
 Two things still pay on a loss at every tier: the **loss rewards themselves**, roughly half a victory's, and **Stronghold Conquest Rewards**, which are independent of the result entirely.
 :::
 
+**Each tier holds three gears; the fourth promotes, and the overflow carries.** Promotion carries `total − 3` into the next tier. For example, an alliance holding 1 gear that wins a second event in a row takes the Win Streak bonus, reaches 4, promotes, and starts the next tier holding 1. Each promotion moves up one sub-tier — Pioneer II → Pioneer I → Exalted IV. Observed twice.
+
 **Personal leaderboards.** Four boards run during the event — **Carnage** (damage dealt), **Star Plucker** (enemy Stars removed), **Wins** (attacker victories), and **Fighting Spirit** (total enemy Morale reduced). A **Star Allies** screen names the leader in each category **across both alliances**, and a **Personal Tally** screen reports all four for you at the close.
+
+**Carnage accrues even without wins** — a player with zero attacker victories still scored on it. **Fighting Spirit totals are much smaller under the October 2026 Morale schedule**, because once a defender is at or below 90% each losing attack takes only 2 points off. Don't compare totals across months.
 
 **Point weaker members at Fighting Spirit.** It scores *losing* attacks, so a member who cannot beat anything on the board still has a metric they can top — and those losing attacks are what make the alliance's kills possible. See The Grind Is Scored, below.
 
 ## The Board — read it every event
 
-**The map is not fixed.** Across observed events it has appeared as **four Strongholds in two types** and as **six Strongholds in three types**. Star values, Heart counts and garrison capacity have all changed between events too. **Open Stronghold Info in-game every event and rebuild your numbers from it.**
+**The map is not fixed.** Across observed events it has appeared as **four Strongholds in two types** and as **six Strongholds in three types**. Star values, Heart counts and garrison capacity have all changed between events too — Hearts twice, most recently by in-game mail. **Open Stronghold Info in-game every event and rebuild your numbers from it.**
 
-The most recent observed board:
+The most recent observed board (October 2026):
 
 | | Empowered | Advanced | Primitive |
 |---|---|---|---|
 | Stars per normal squad | **3** | **2** | **1** |
 | Stars per Warden | **6** | **4** | **2** |
-| Hearts, normal squad | **4** | **4** | **4** |
-| Hearts, Warden | **5** | **5** | **5** |
+| Hearts, normal squad | **5** | **5** | **5** |
+| Hearts, Warden | **6** | **6** | **6** |
 | Garrison capacity | **20** | **20** | **20** |
 
-**The Warden carries double the normal Star value and one extra Heart** in every Stronghold type. That is a tidier rule than earlier events showed, and it may or may not be general — check it.
+**The Warden carries double the normal Star value** in every Stronghold type — true in every event observed — **and one extra Heart** in the two most recent events.
 
 **Deriving the Warden bonus without a second screen.** A Stronghold's Star total decomposes as `(normal squad count × normal value) + (Warden value)`. If the header total is higher than the count-derived figure, the difference is the live Warden bonus, readable directly.
 
@@ -147,7 +157,7 @@ A squad that fails to garrison still gets its full attack budget on Saturday. It
 
 Strongholds are connected. **You must defeat every garrison squad in a Stronghold before you can attack the Strongholds connected beyond it.** This is the same gating idea as Canyon Clash: the map is a network, not a menu.
 
-The observed six-Stronghold layout is a funnel — three Primitive Strongholds on the front line, two Advanced behind them, one Empowered at the back, with a lateral link joining the two Advanced Strongholds. The centre Primitive opens **both** Advanced Strongholds.
+The observed six-Stronghold layout is a funnel — three Primitive Strongholds on the front line, two Advanced behind them, one Empowered at the back, with a lateral link joining the two Advanced Strongholds. The centre Primitive opens **both** Advanced Strongholds, and **each flank Primitive opens the Advanced Stronghold on its own side.** That second point has been confirmed in play: an Advanced Stronghold was cleared through its flank door while the centre Primitive still held. So every front-line door matters, not just the centre. Whether the Empowered Stronghold opens after one Advanced Stronghold falls, or only after both, is not yet confirmed.
 
 Two consequences:
 
@@ -160,7 +170,7 @@ A Stronghold's job is set by its **position**, not by its Star value. A front-li
 
 ### Undefended Strongholds — the Phaethon Guard
 
-A Stronghold with no garrisoned squads at the start of the Scout Phase is filled by a system-generated squad called the **Phaethon Guard**. It takes the Warden slot, carries the full Warden Heart count and the full Warden Star value for that Stronghold type, and has very low power.
+A Stronghold with no garrisoned squads at the start of the Scout Phase is filled by a system-generated squad called the **Phaethon Guard**. It takes the Warden slot, carries the full Warden Heart count (6 under the October 2026 rules) and the full Warden Star value for that Stronghold type, and has very low power.
 
 Three things follow:
 
@@ -213,7 +223,7 @@ Each Stronghold can appoint **one Warden Squad**. Warden appointments can be cha
 - A Warden gains **extra Stars and extra Hearts**.
 - Warden marks and Star values differ between Stronghold types.
 
-The extra Heart is what matters defensively. A Warden forces the attacker through one more full Morale-grind cycle before it dies — 25% more attacks than a normal squad, for double the Stars.
+The extra Heart is what matters defensively. A Warden forces the attacker through one more full Morale-grind cycle before it dies — 20% more attacks than a normal squad (six Hearts against five), for double the Stars.
 
 **Practical Warden rules:**
 
@@ -221,6 +231,7 @@ The extra Heart is what matters defensively. A Warden forces the attacker throug
 2. Prefer a strong squad belonging to a player who will actually be online during the Battle Phase — Wardens still attack, and a Warden's attack budget is as valuable as anyone's.
 3. Do not stack every strong player into one Stronghold. Strongholds are connected, and a cheap Stronghold is a doorway.
 4. Rank is not a qualification. Appoint by squad power, not by title.
+5. **Put a strong Warden on every front-line door.** If you have more squads than your top Stronghold can hold, moving strong squads to the front costs no Stars — it only changes which squads sit at the back. A strong front Warden raises the price of opening that door. Against an opponent of similar strength it will not make the door unbreakable, and it does not protect the weaker squads beside it.
 
 ## Battle Phase
 
@@ -239,7 +250,7 @@ Attempts **bank**. You can save them and spend them all at once, which is what m
 Restoration completes about 14 hours into the 24-hour phase, so late-day attacking draws on banked attempts rather than fresh ones.
 
 ::: tip Banking is safe
-A squad whose panel reads **Attacks: 0** and *"Recovery limit reached"* has simply spent its 10 attacks and exhausted its 7 restorations. The same message appears on undamaged, surviving squads, so it is **not** a sign that destruction forfeits anything. A destroyed squad does not lose attempts it had not spent. An earlier version of this page advised front-loading on the opposite assumption; that warning has been withdrawn.
+A squad whose panel reads **Attacks: 0** and *"Recovery limit reached"* has simply spent its 10 attacks and exhausted its 7 restorations. The same message appears on undamaged, surviving squads, so it is **not** a sign that destruction forfeits anything. A destroyed squad does not lose attempts it had not spent. An earlier version of this page advised front-loading on the opposite assumption; that warning has been withdrawn. It has since been confirmed directly: an opponent whose squads had both been destroyed kept attacking afterwards.
 :::
 
 ### Morale
@@ -251,16 +262,20 @@ Officially: **Squad Stats = Squad Stats at the end of the Preparation Phase × M
 
 | Current Morale | Drop per successful defense |
 |---|---|
-| Above 80% | 10 percentage points |
-| 80% or below | 5 percentage points |
+| Above 90% | 5 percentage points |
+| 90% or below | 2 percentage points |
 | At 60% | **No further drop — this is the floor** |
 
-The ladder runs **100 → 90 → 80 → 75 → 70 → 65 → 60**, reaching the floor after **six successful defenses**. Maximum effective power reduction: **40%**.
+The ladder runs **100 → 95 → 90 → 88 → 86 → 84 → … → 62 → 60**, reaching the floor after **seventeen successful defenses**. Maximum effective power reduction: **40%**. The first steps of this schedule — 95, 90, 88 — have been read directly off the in-game Morale display during a grind.
+
+::: warning Changed October 2026
+Until October 2026 Morale dropped 10 points above 80% and 5 at or below, reaching 60% after six defenses. The floor is the same; the road to it is now nearly three times as long.
+:::
 
 **Morale resets to 100% when the squad loses a Heart but survives.**
 
 ::: danger The kill cycle is the core arithmetic of the event
-Because Morale resets on every Heart lost, each Heart is a fresh grind. To take a four-Heart squad you must wear its Morale down four separate times. Attacks that lose are not wasted — they are the mechanism. This is why a coordinated alliance of ordinary accounts can remove a heavily invested defender that no single member could beat.
+Because Morale resets on every Heart lost, each Heart is a fresh grind. To take a five-Heart squad you must wear its Morale down five separate times. Attacks that lose are not wasted — they are the mechanism. This is why a coordinated alliance of ordinary accounts can remove a heavily invested defender that no single member could beat.
 :::
 
 ### The 60% Wall — who can and cannot finish a target
@@ -278,6 +293,30 @@ Three things follow, and the third is the one alliances get wrong:
 - **On offense, route around it.** If an unkillable squad guards a gate, that branch is closed and the plan goes the other way. Do not feed finishing attacks into it.
 - **On defense, it is an opportunity.** A garrison squad more than 1.67× the enemy's best attacker holds its Stars for the whole event. Since the same squad attacks and defends, the enemy's best attacker is effectively their best squad.
 - **⭐ Sub-threshold squads should still attack it.** The threshold governs who can *finish*, not who should *attack*. Every losing attack drops the defender's Morale one step and helps whoever lands the kill. **Never publish a threshold to your alliance without saying this in the same breath** — otherwise half your roster reads it as "stay away" and the grind never happens.
+
+### The Practical Wall — where grinding gets expensive
+
+The 60% floor decides what is *possible*. The October 2026 schedule decides what is *affordable*: at or below 90% Morale each losing attack takes only 2 points off, so a defender much stronger than your finisher needs a long grind — **on every Heart**.
+
+| Your finisher's power ÷ defender's power | Losing attacks needed per Heart | Attacks per Heart |
+|---|---|---|
+| Above 1.00 | 0 | 1 |
+| 0.95 – 1.00 | 1 | 2 |
+| 0.90 – 0.95 | 2 | 3 |
+| 0.88 – 0.90 | 3 | 4 |
+| 0.80 – 0.88 | 4 – 7 | 5 – 8 |
+| 0.70 – 0.80 | 8 – 12 | 9 – 13 |
+| 0.60 – 0.70 | 13 – 17 | 14 – 18 |
+| **0.60 or below** | — | **Impossible** |
+
+A ratio exactly on a boundary counts as the more expensive row. **Below about 0.80, every Heart costs nine or more attacks** — 45+ for a normal squad and 54+ for a Warden.
+
+**Whether that matters depends on your attack budget.** Add up what your target list costs and compare it with what your alliance actually has (participants × 20):
+
+- **Tight budget** (less than about three times what the list costs): hold your strongest squads for the targets only they can finish, and treat anything below 0.80 as a wall.
+- **Generous budget** (five times the cost or more): don't lock squads to targets. Grind deep, and let whoever reaches a worn-down last Heart finish it — any squad above the 60% line can, once Morale is low enough. In one observed event, a Warden larger than every squad in the attacking alliance was finished by a squad about three-quarters its size after a long grind.
+
+**Publish thresholds in bands, per target, with the target's name and power:** *finisher* (0.90× or better), *expensive* (0.80–0.90×), *never* (0.60× or below). A threshold that is not tied to a named target gets read as the bar for the whole Stronghold.
 
 ### Stronghold Conquest Rewards
 
@@ -299,8 +338,9 @@ A losing attack is not a wasted attack. Every failed attempt drops the defender'
 
 Two things follow:
 
-- **Grinding widens the finisher pool — within limits.** The first two Morale steps cut a defender's effective power by 10 points each; steps three through six by 5 points each, to a cap of 40%. A target only three of your squads could beat becomes one five can beat. It never becomes one everybody can beat.
+- **Grinding widens the finisher pool — within limits.** The first two Morale steps cut a defender's effective power by 5 points each; every step after that by 2 points, to a cap of 40%. A target only three of your squads could beat becomes one five can beat. It never becomes one everybody can beat.
 - **Your strongest attackers will sit at 0% on that board** — because every time they win, the defender loses a Heart and Morale resets to 100%. That is correct, not a failure. If your best squad is climbing the Fighting Spirit board, it is being spent on fights it cannot win.
+- **Post the Morale number as you grind.** The garrison panel shows the defender's current Morale. Posting it after each loss tells your finisher exactly when to go.
 
 ### Winning
 
@@ -386,28 +426,31 @@ Cost to destroy a squad = Hearts x (G + 1)
 Stars per attack        = the squad's Star value / that cost
 ```
 
-Worked at the most recent board's values, assuming your attacker beats the target at full Morale (`G = 0`):
+Worked at the October 2026 board's values (5 Hearts normal, 6 Warden), assuming your attacker beats the target at full Morale (`G = 0`):
 
 | Target | Attacks | Stars | Stars per attack |
 |---|---|---|---|
+| **Wounded Empowered Warden, 1 Heart left** | 1 | 6 | **6.00** |
 | **Wounded Empowered squad, 1 Heart left** | 1 | 3 | **3.00** |
 | Wounded Advanced squad, 1 Heart left | 1 | 2 | 2.00 |
-| **Empowered Warden** | 5 | 6 | **1.20** |
-| Advanced Warden | 5 | 4 | 0.80 |
-| Fresh Empowered normal squad | 4 | 3 | 0.75 |
-| Fresh Advanced normal squad | 4 | 2 | 0.50 |
-| Primitive Warden | 5 | 2 | 0.40 |
-| Fresh Primitive normal squad | 4 | 1 | **0.25** |
+| **Empowered Warden** | 6 | 6 | **1.00** |
+| Advanced Warden | 6 | 4 | 0.67 |
+| Fresh Empowered normal squad | 5 | 3 | 0.60 |
+| Fresh Advanced normal squad | 5 | 2 | 0.40 |
+| Primitive Warden | 6 | 2 | 0.33 |
+| Fresh Primitive normal squad | 5 | 1 | **0.20** |
+
+Use the Practical Wall table above to get `G` for your actual finisher; the costs rise quickly below 0.90.
 
 **Four readings that follow directly:**
 
-- **⭐ Finish before you start.** A wounded Empowered squad is twelve times a fresh Primitive one, and a wounded Empowered **Warden** at one Heart is six Stars for a single attack. Hearts do not regenerate, so by late in the Battle Phase the board fills with cheap finishes. **Scan for wounded squads before choosing any new target.** This single rule is worth more than any other instruction on the day.
+- **⭐ Finish before you start.** A wounded Empowered squad is fifteen times a fresh Primitive one, and a wounded Empowered **Warden** at one Heart is six Stars for a single attack. Hearts do not regenerate, so by late in the Battle Phase the board fills with cheap finishes. **Scan for wounded squads before choosing any new target.** This single rule is worth more than any other instruction on the day. In one observed clear, a single player removed 12 Stars with three attacks in 35 seconds, by finishing three squads others had already worn down to their last Heart.
 - **Stronghold rank is worth more per attack than anything except finishing.** Attacks spent on front-line Strongholds beyond what opening a door requires are a 3:1 loss.
 - **A wounded low-rank squad beats a fresh high-rank one.** Worth interrupting for.
-- **An enemy Warden you can beat outright is the best prize on its Stronghold**, not the worst — 25% more attacks for double the Stars. A Warden only becomes expensive when its higher power forces a long grind. **Sort Wardens by `G`, not by the Warden flag.**
+- **An enemy Warden you can beat outright is the best prize on its Stronghold**, not the worst — 20% more attacks for double the Stars. A Warden only becomes expensive when its higher power forces a long grind. **Sort Wardens by `G`, not by the Warden flag.**
 
 ::: warning Correction
-An earlier version of this page said the Empowered Warden was the worst-rate target in the centre and should be taken late. That was an artefact of the old Morale table and the old Heart counts. With four-Heart normal squads and a correctly computed `G`, the opposite is true at equal `G`.
+An earlier version of this page said the Empowered Warden was the worst-rate target in the centre and should be taken late. That was an artefact of the old Morale table and the old Heart counts. With the current Heart counts and a correctly computed `G`, the opposite is true at equal `G`.
 :::
 
 **Why attack front-line Strongholds at all?** To open a door and to bank a Conquest Reward. Beyond that, they are the lowest-value action available.
@@ -427,6 +470,8 @@ Cut the tiers off real numbers from the Scout Phase, not intuition. **A tier lis
 **Tier each squad, not each player.** A Chief's two squads often land in different tiers. Publish the power thresholds and tell members to check both squads separately, or the list gets read as a roster of people.
 
 **Above all tiers sits the finishing rule.** A Tier 2 squad should finish a wounded high-value squad it can beat rather than start a fresh front-line one.
+
+**With a generous attack budget, tiers are guidance, not locks.** See The Practical Wall above — when the alliance has several times the attacks its target list needs, holding named squads back for named targets costs more than it saves.
 
 ## Common Mistakes
 
@@ -458,6 +503,12 @@ Cut the tiers off real numbers from the Scout Phase, not intuition. **A tier lis
 
 14. **Chasing a State Title or President skill for the event.** State Positions, President Skills, City Bonuses, Territory bonuses, and Frostdragon Tyrant titles are all excluded.
 
+15. **Missing a rule change.** The October 2026 Heart and Morale changes arrived by in-game mail days before the event. Read your mail before every Winter Siege.
+
+16. **Publishing a power threshold without naming its target.** "Under 185M, don't try to finish" meant one squad; it was read as the bar for the whole Stronghold. Put the target's name and power next to every number.
+
+17. **Letting the per-Stronghold map go uncaptured.** The results screens don't show a per-Stronghold breakdown. Screenshot every Stronghold, yours and theirs, before the last enemy squad falls. The **Battle Journal** (Alliance tab) lists every kill afterwards, with time, attacker, target and Stars.
+
 ## Quick Reference
 
 | Action | Why |
@@ -470,6 +521,8 @@ Cut the tiers off real numbers from the Scout Phase, not intuition. **A tier lis
 | **Compute `Hearts × (G + 1)` before committing** | A target you cannot finish is worth zero |
 | **Compute `power × 0.60` for every priority target** | Below it, that squad can never land the kill |
 | **Grind with ordinary squads, finish with strong ones** | Attacker Morale is fixed; defender Morale decays to a 60% floor |
+| **Post the defender's Morale while grinding** | Tells the finisher exactly when to go |
+| **Below 0.80× your finisher, budget the grind first** | Every Heart costs 9+ attacks |
 | **R4/R5 place every squad and appoint every Warden** | Leadership can move all squads; auto-appointment is a worse default |
 | **Fill the top Stronghold to capacity, weakest-out** | Same Star gain, stronger front line |
 | **Keep the Facility buff active during setup** | It is the only bonus with a timing condition |
@@ -478,6 +531,8 @@ Cut the tiers off real numbers from the Scout Phase, not intuition. **A tier lis
 | **Claim Conquest Rewards manually after every clear** | They pay win or lose, and they do not auto-collect |
 | **Never coast on a tie** | Equal Stars before and after means both sides lose |
 | **Furnace Lv. 25 minimum, top-20 alliance only** | Hard entry gates |
+| **Read your in-game mail before each event** | Hearts and Morale changed by mail in October 2026 |
+| **Screenshot every Stronghold before the final kill** | The results screens don't show per-Stronghold breakdowns |
 
 ## Related Guides
 
@@ -489,4 +544,4 @@ Cut the tiers off real numbers from the Scout Phase, not intuition. **A tier lis
 
 ---
 
-*Last verified: September 2026, after two completed events · Sources: in-game Winter Siege rules panel (full capture, September 2026), Whiteout Survival Help Center Winter Siege section (Century Games Helpshift, articles 9136–9163), Whiteout Survival official X account (@WOS_Global) Winter Siege FAQ thread (July 19, 2026), Century Games official update notes (July 6, 2026), plus direct observation of two completed Winter Sieges. Stronghold values, Heart totals, garrison capacity, map size and Conquest Reward amounts are **observed, not published**, and every one of them changed between the two events — read the live Stronghold Info panel each time. Two earlier claims on this page have been corrected: the Morale decay schedule (the floor is 60%, not 35%) and the ranking of the Empowered Warden as a target. An earlier warning that destroyed squads may forfeit banked attacks has been withdrawn.*
+*Last verified: October 2026, after three completed events · Sources: in-game mail from the Whiteout Survival Team announcing Winter Siege Heart and Morale adjustments (11 October 2026), in-game Winter Siege rules panel (full capture, September 2026), Whiteout Survival Help Center Winter Siege section (Century Games Helpshift, articles 9136–9163), Whiteout Survival official X account (@WOS_Global) Winter Siege FAQ thread (July 19, 2026), Century Games official update notes (July 6, 2026), plus direct observation of three completed Winter Sieges, including the in-game Battle Journal. Stronghold values, Heart totals, garrison capacity, map size and Conquest Reward amounts are **observed, not published**, and every one of them changed between the two events — read the live Stronghold Info panel each time. Two earlier claims on this page have been corrected: the Morale decay schedule (the floor is 60%, not 35%) and the ranking of the Empowered Warden as a target. An earlier warning that destroyed squads may forfeit banked attacks has been withdrawn. In October 2026 the game itself changed the Heart counts (now 5 / 6) and the Morale decay schedule (now 5 points above 90%, 2 at or below); the floor stayed at 60%.*

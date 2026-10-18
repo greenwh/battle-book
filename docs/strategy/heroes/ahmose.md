@@ -73,7 +73,7 @@ Exploration, if he is an Arena piece: **Cthugha's Protection first**, then Ances
 
 **Skip unless you are already invested.** He has no free acquisition channel, he does nothing on offense, and a well-developed [Logan](/strategy/heroes/logan) covers most of the same defensive ground on an account that already owns him. A lightly built Ahmose loses to a 4-star Logan in every role they share.
 
-If you do spend, he becomes the correct Infantry answer for garrison work and gets stronger again at Gen 5 when paired with Hector.
+If you do spend, he becomes the correct Infantry answer for garrison work. His Defender Health widget also pairs with [Hector](/strategy/heroes/hector)'s Defender Attack, [Lynn](/strategy/heroes/lynn)'s Defender Lethality, and [Norah](/strategy/heroes/norah)'s Defender Defense — four widgets covering four different defender stats.
 
 ::: warning Do not bench a developed Gen 3 hero for a fresh Gen 4 one
 A 5-star Logan beats a 2-star Ahmose everywhere. The generation buff is real, but star level and skill level dominate it at low investment. Transition when the new hero is actually built, not when it is unlocked.

@@ -122,7 +122,7 @@ The match was close enough that neither side had room for error. The first move 
 
 ## The Hero/Widget Adjustment
 
-The story Bill watched — experienced player reads report, identifies enemy buffs and ratio, adjusts rally, wins — is almost always a hero or widget swap. Here are the most common swaps:
+The pattern — experienced player reads report, identifies enemy buffs and ratio, adjusts rally, wins — is almost always a hero or widget swap. Here are the most common swaps:
 
 | If they have... | Swap to... | Why |
 |---|---|---|

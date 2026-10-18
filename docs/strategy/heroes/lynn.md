@@ -77,7 +77,7 @@ Exploration, if you run Arena: Discordant Tune first, then Hymn of Sidrak, then 
 
 **Build her.** She is free, she is the first free Marksman of the generation genuinely worth having, and nothing in Gen 5 makes her obsolete — the Gen 5 Marksman, Gwen, is a paid hero who takes the offensive slot rather than Lynn's defensive one.
 
-**The plan:** Lynn to 4 stars, Melancholic Ballad to Lv5, then stop and bank gems for the Gen 5 Wheel.
+**The plan:** Lynn to 4 stars, Melancholic Ballad to Lv5, then stop and bank gems for the Gen 5 Wheel — which is [Hector](/strategy/heroes/hector), an Infantry hero, so Lynn keeps the Marksman slot for a full generation after that.
 
 ::: tip Do not bench a developed Greg for a fresh Lynn
 The same rule as everywhere else. A 5-star [Greg](/strategy/heroes/greg) with maxed skills beats a 2-star Lynn. Transition when she is built, not when she unlocks.

@@ -6,7 +6,7 @@ description: All 9 Experts in the Dawn Academy — skills, Sigil costs, and F2P 
 # The Experts
 
 ::: info Quick take
-There are **9 Experts** unlockable across three generations, with a fourth generation beginning. Gareth and Justus are announced but have not reached most states — see [Not Yet Available](#not-yet-available-gareth-and-justus). The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
+There are **10 Experts** across four generations. Gareth, the fourth-generation Expert, arrives with Gen 5 heroes — see [Gareth](#gareth-the-fourth-generation). Justus is announced but has not yet landed. The development order that matters for most players: **Agnes → Cyrille → Holger → Baldur → (your choice of Valeria/Fabian/Ronne/Kathy based on what you play most) → Romulus last**. Romulus alone requires more Sigils than the next four Experts combined — invest him last regardless of how strong his combat skills look.
 
 **Baldur, Fabian, and Valeria unlock together around Day 200** and were confirmed live on a state at Day 200 in August 2026. If you have just received all three at once, skip to [Which of Baldur, Fabian, and Valeria First](#which-of-baldur-fabian-and-valeria-first).
 :::
@@ -49,6 +49,7 @@ Two other things changed at the same time:
 | **Ronne** | Tundra Trade Route | ~440 | Low–Medium |
 | **Kathy** | Frostfire Mine | ~440 | Low–Medium |
 | **Romulus** | PvP / Military | **~1,820** | **Last** |
+| **Gareth** | PvP / Military | not published | Rally leaders and PvP only |
 
 Sigils come in two forms: **Expert-specific** (e.g., Cyrille Sigils) and **Common** (convertible to any Expert). When the calculator tells you to use specific sigils first and Common as fallback, do that — it's almost always correct.
 
@@ -209,20 +210,38 @@ These two arrive together, roughly 30 days after Baldur, Fabian, and Valeria. Bo
 
 **If your alliance contests neither**, park both at Affinity thresholds that unlock their cheapest skills and redirect Sigils. There is no completion bonus for having every Expert developed.
 
-## Not Yet Available: Gareth and Justus
+## Gareth — the fourth generation
 
-Two more Experts exist beyond the nine above. Neither had reached an observed state as of September 2026.
+Gareth arrives alongside **Gen 5 heroes** and is the tenth Expert. He is a military specialist, and the only Expert besides Romulus whose value is concentrated in direct combat rather than in an event or an economy.
 
-**Gareth** is the fourth-generation Expert and is expected to arrive alongside **Gen 5 heroes**. He is a military specialist: infirmary capacity and healing speed, troop stat bonuses, and enemy troop lethality reduction. His early troop-training reward skill has broad value, but his headline skills need deep investment to matter.
+| Skill | Effect |
+| --- | --- |
+| **Fearsome Reputation** | Reduces enemy troop Lethality. His strongest skill |
+| **Undefeated Will** | Increases troop Health |
+| **Porcupine** | Increases squad Defense |
+| **Rallying Cry** | Raises infirmary capacity and healing speed |
+| **Gifts of Iron** | Extra Ironwrought Chests and progression rewards from training troops |
 
-**Verdict when he arrives:** treat him like Romulus. Strong for rally leaders and committed PvP players, a poor early target for anyone else. Do not derail an Agnes or Baldur plan to start him.
+::: warning Numeric values are not published
+Community sources describe Gareth's skills without giving the percentages, and his total Sigil cost has not been documented. Read your own skill screens before planning around him. The guidance below is about *shape* — where he fits in the order — not about magnitudes.
+:::
 
-**Justus** was announced in the August 2026 patch notes with a later release. His published skills grant **Dynasty Honor Chests** containing Expert growth materials, and he increases **Pet Adventure attempts** with a chance of doubled Adventure rewards.
+**Where he fits: treat him like Romulus, with one exception.** His headline skills — the enemy Lethality debuff and the troop Health bump — are the kind that need deep investment before they move a battle, which puts them behind every compounding economic Expert for a free account. Do not derail an Agnes, Cyrille, Holger, or Baldur plan to start him.
+
+**The exception is Gifts of Iron.** An early skill that pays extra chests for training troops is broad, passive value that does not need deep investment to be worth having, unlike the rest of his kit. Unlocking Gareth and taking that one skill is a reasonable low-cost move even for an account that has no intention of developing him further.
+
+**Who should actually build him:** rally leaders, R4/R5 officers, and anyone who contests SvS and alliance wars seriously. Fearsome Reputation applies to every defender you hit and every attacker who hits you, which is the broadest combat effect any Expert offers. For a PvE or gathering-focused account, almost any other Expert returns more.
+
+**Acquisition is the usual Trek path:** meet him through Tundra Trek encounters, build Affinity with gifts and dialogue choices, and invite him to settle once his relationship level is high enough. Trek Supplies are the constraint, as always.
+
+## Still to come: Justus
+
+**Justus** was announced in the August 2026 patch notes with a later release and has not landed. His published skills grant **Dynasty Honor Chests** containing Expert growth materials, and he increases **Pet Adventure attempts** with a chance of doubled Adventure rewards.
 
 That combination is unusual and worth watching: an Expert whose skills produce Expert materials is self-funding in a way none of the current nine are. Reserve judgement until the numbers are visible, but he is the first Expert since Agnes with a plausible claim to being a compounding economic pick rather than an event specialist.
 
 ::: tip A new Expert is not a reason to restart your order
-Each new Expert generation resets the temptation to spread Sigils. The priority order at the top of this page has not changed in three Expert generations, and it will not change when Gareth and Justus land. Finish what you started.
+Each new Expert generation resets the temptation to spread Sigils. The priority order at the top of this page has not changed in four Expert generations, and Gareth does not change it either. Finish what you started.
 :::
 
 ## Common Mistakes
@@ -244,4 +263,4 @@ Each new Expert generation resets the temptation to spread Sigils. The priority 
 
 ---
 
-*Last verified: September 2026 · Sources: heaven-guardian.com Experts guide (September 2026), ldplayer.net Gareth guide, Century Games patch notes (August 2026) for Justus, AJackOf Experts guide, lootbar.gg Dawn Academy guide, BlueStacks Experts guide, ldshop.gg expert priority guide, wos-guide.com cultivation guide, whiteoutsurvival.wiki/experts/valeria, woscalculator.com experts*
+*Last verified: October 2026 · Sources: heaven-guardian.com Experts guide (September 2026), ldplayer.net Gareth guide, Century Games patch notes (August 2026) for Justus, AJackOf Experts guide, lootbar.gg Dawn Academy guide, BlueStacks Experts guide, ldshop.gg expert priority guide, wos-guide.com cultivation guide, whiteoutsurvival.wiki/experts/valeria, woscalculator.com experts*

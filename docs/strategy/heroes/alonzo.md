@@ -25,15 +25,15 @@ Captain Ahab's weapon buff (+15% rally lethality at max) makes Alonzo one of the
 
 **The key word is passive.** Alonzo's shard accumulation should not compete with other gem priorities.
 
-**Current state (both accounts):** 0–1★, 1/6 slivers. Hall of Heroes purchases at minimal pace.
+**Typical state on a minimal-spend account:** 0–1★ with a handful of slivers, accumulating slowly through Hall of Heroes. He is a long project, not a quick unlock.
 
 **Gem priority order:**
 1. Mia Lucky Wheel fund (~175,500 gems) — **must be secured first**
 2. VIP maintenance (10k gems/month)
 3. Alonzo HoH purchases — only with leftover gems after 1 and 2
 
-::: warning Beav account discipline
-On Beav (strict F2P), HoH gem purchases for Alonzo are paused entirely until Mia's Lucky Wheel fund is complete. Alonzo development resumes after Mia is secured.
+::: warning Strict F2P discipline
+On a strict free-to-play account, pause Hall of Heroes gem purchases for Alonzo entirely until the Lucky Wheel fund for the current generation's Wheel hero is complete. Wheel heroes are the gem-efficient channel; Hall of Heroes is not. Resume Alonzo only once the Wheel target is secured.
 :::
 
 ## Skills

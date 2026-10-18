@@ -65,6 +65,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 
 **Gear Empowerment** — Stat bumps and milestone skills applied to **Legendary** gear at enhancement 20 / 40 / 60 / 80 / 100. Costs 10 Mithril + 3 Mythic Hero Gear per step. Gated at **Mastery Forging Lv 11**, not Lv 10, despite what most published guides say.
 
+**Gifts of Iron** — Gareth's troop-training skill, which pays extra Ironwrought Chests and progression rewards for training troops. The one skill of his worth taking on an account that is not building him properly.
+
 **Hardened Alloy** — Primary Chief Gear upgrade material. From Crazy Joe, Frostfire Mine, beasts/Polar Terror, and the Championship Shop.
 
 **Hive** — The cluster of alliance members in one geographic area on the map.
@@ -128,6 +130,8 @@ In-game terms, alliance shorthand, and event names — defined for new players a
 **Wish Sigil** — Currency earned by completing Wishes at the Wish Station. Spent in the Wish Shop on construction materials for the nine Fire Crystal Age entertainment buildings.
 
 **Wish Station** — Fire Crystal Age building that replaces the Mailbox. Survivors post Wishes; completing them pays Wish Sigils. Announced to unlock at FC1; observed at FC3 on a live state.
+
+**Rampant** — [Hector](/strategy/heroes/hector)'s signature Expedition skill. Raises Infantry Damage Dealt and, unusually for an Infantry hero, Marksman Damage Dealt as well. Lasts 10 attacks, decaying to 85% of the previous value each attack. The reason Hector leads Marksman-heavy formations.
 
 **Wulfgar (the Windhowler)** — The boss of the [Endless Trials](/events/endless-trials) daily mode. A barbarian chieftain from the far north; challenged solo in the Wilderness, up to 30 attacks per day.
 

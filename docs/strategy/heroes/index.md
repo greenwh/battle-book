@@ -6,7 +6,7 @@ description: Hero priorities, development order, skill leveling, and roster plan
 # Hero Strategy
 
 ::: info Quick take
-Your hero roster determines your ceiling in every game mode. The key insight: invest deeply in a few heroes rather than spreading thin across many. One fully developed Mythic hero outperforms three half-built ones. With **Generation 4 available** (Ahmose, Reina, Lynn) on states that have progressed that far, the transition plan from Gen 1/2 through Gen 3 is documented in the [Development Roadmap](/strategy/heroes/development-roadmap). Gen 4 is an incremental generation for free players — see the must-have tier on the [Hero Roster](/strategy/heroes/roster).
+Your hero roster determines your ceiling in every game mode. The key insight: invest deeply in a few heroes rather than spreading thin across many. One fully developed Mythic hero outperforms three half-built ones. With **Generation 5 available** (Hector, Norah, Gwen) on states that have progressed that far, the transition plan from Gen 1/2 through Gen 3 is documented in the [Development Roadmap](/strategy/heroes/development-roadmap). Gen 4 was an incremental generation for free players; **Gen 5 is not** — [Hector](/strategy/heroes/hector) is a Lucky Wheel hero who changes which Infantry hero a free account should lead with. See the must-have tier on the [Hero Roster](/strategy/heroes/roster).
 :::
 
 ## How Heroes Work
@@ -23,8 +23,9 @@ Each new generation of Mythic heroes provides progressively higher troop buffs:
 | Gen 2 | ~+240% |
 | **Gen 3** | **~+290%** |
 | **Gen 4** | **~+370%** |
+| **Gen 5** | **~+444%** |
 
-The roughly 50-point uplift from Gen 2 to Gen 3, and another 80 from Gen 3 to Gen 4, is the single biggest reason to plan each transition properly. The buff applies only to the matching troop type, and only at the hero's max skill level.
+Each step is a large uplift — roughly 50 points from Gen 2 to Gen 3, 80 from Gen 3 to Gen 4, and 74 more to Gen 5 — and that is the single biggest reason to plan each transition properly. The buff applies only to the matching troop type, and only at the hero's max skill level, which is why a developed older hero routinely beats a freshly unlocked newer one.
 
 ## Guides in This Section
 
@@ -48,18 +49,21 @@ Detailed breakdowns for each primary roster hero — skills, gear priority, F2P 
 - [Flint](/strategy/heroes/flint) — S-tier Gen 1 rally leader, post-rework
 - [Logan](/strategy/heroes/logan) — Gen 3 Infantry tank, defensive specialist
 - [Ahmose](/strategy/heroes/ahmose) — Gen 4 Infantry wall, garrison and Arena anchor
+- [Hector](/strategy/heroes/hector) — Gen 5 Infantry, Lucky Wheel hero and the current F2P rally lead
 
 **Lancer**
 - [Molly](/strategy/heroes/molly) — Gen 1 Lancer, bench depth once Mia takes over
 - [Philly](/strategy/heroes/philly) — Gen 2 Lancer healer, long-lived Arena and garrison piece
 - [Mia](/strategy/heroes/mia) — Gen 3 Lancer, S-tier with Crystal Lv2 + Expedition Lv5
 - [Reina](/strategy/heroes/reina) — Gen 4 Lancer, offensive rally specialist
+- [Norah](/strategy/heroes/norah) — Gen 5 Lancer, mixed-formation support
 
 **Marksman**
 - [Bahiti](/strategy/heroes/bahiti) — best Epic Marksman, placeholder until Alonzo
 - [Alonzo](/strategy/heroes/alonzo) — Gen 2 Mythic Marksman, strong rally leader
 - [Greg](/strategy/heroes/greg) — Gen 3 Marksman, debuff specialist + rally amplifier
 - [Lynn](/strategy/heroes/lynn) — Gen 4 Marksman, the generation's Lucky Wheel hero and F2P pick
+- [Gwen](/strategy/heroes/gwen) — Gen 5 Marksman, offensive specialist and rally amplifier
 
 ### Not Yet Covered
 
@@ -77,13 +81,15 @@ B-team heroes (Sergey, Gina, Jessie, Jasser, Patrick) play important supporting 
 
 **Generation acquisition pattern.** Each generation releases three Mythic heroes, one per channel — and the channel rotates between classes each generation:
 
-| Role | Gen 2 | Gen 3 | Gen 4 |
-|---|---|---|---|
-| Infantry | Flint *(Wheel)* | Logan *(Hall of Heroes)* | Ahmose *(Hall of Chiefs / KoI)* |
-| Lancer | Philly *(Hall of Chiefs / KoI)* | Mia *(Wheel)* | Reina *(Hall of Heroes)* |
-| Marksman | Alonzo *(Hall of Heroes)* | Greg *(multi-source)* | Lynn *(Wheel)* |
+| Role | Gen 2 | Gen 3 | Gen 4 | Gen 5 |
+|---|---|---|---|---|
+| Infantry | Flint *(Wheel)* | Logan *(Hall of Heroes)* | Ahmose *(Hall of Chiefs / KoI)* | **Hector** *(Wheel)* |
+| Lancer | Philly *(Hall of Chiefs / KoI)* | Mia *(Wheel)* | Reina *(Hall of Heroes)* | Norah *(Hall of Chiefs / KoI)* |
+| Marksman | Alonzo *(Hall of Heroes)* | Greg *(multi-source)* | Lynn *(Wheel)* | Gwen *(Hall of Heroes)* |
 
-**Each generation's Lucky Wheel hero is your primary gem-saving target.** At Gen 4 that is Lynn — and she is the only Gen 4 hero a free account should plan around.
+**Each generation's Lucky Wheel hero is your primary gem-saving target.** At Gen 5 that is [Hector](/strategy/heroes/hector), and he is the strongest free pick in several generations — unlike Gen 4, where Lynn was the only hero worth a free account's attention.
+
+The rotation is not random: the Wheel moves Infantry, Lancer, Marksman, Infantry and so on, so a free account gets a top-tier hero of each class roughly every three generations.
 
 ## Where to Start
 

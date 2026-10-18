@@ -41,7 +41,7 @@ Heroes listed by class: Infantry, Lancer, Marksman. Day is approximate server ag
 | 2 | 40 | Flint | Philly | Alonso |
 | 3 | 120 | Logan | Mia | Greg |
 | 4 | 195 | Ahmose | Reina | Lynn |
-| 5 | 270 | Hector | Nora | Gwen |
+| 5 | 270 | Hector | Norah | Gwen |
 | 6 | 360 | Wu Ming | Renee | Wayne |
 | 7 | 440 | Edith | Gordon | Bradley |
 | 8 | 520 | Gatot | Sonya | Hendrik |
@@ -73,9 +73,9 @@ These assignments are well documented. Gen 1 is the starter set and uses differe
 | 4 | [Ahmose](/strategy/heroes/ahmose) | Infantry | Hall of Chiefs / King of Icefield (also SvS shop, Daily Deals, Foundry Shop) |
 | 4 | [Reina](/strategy/heroes/reina) | Lancer | Hall of Heroes (also Foundry Shop) |
 | 4 | [Lynn](/strategy/heroes/lynn) | Marksman | Lucky Wheel (also Foundry Shop) |
-| 5 | Hector | Infantry | Lucky Wheel |
-| 5 | Nora | Lancer | Hall of Chiefs |
-| 5 | Gwen | Marksman | Hall of Heroes |
+| 5 | [Hector](/strategy/heroes/hector) | Infantry | Lucky Wheel |
+| 5 | [Norah](/strategy/heroes/norah) | Lancer | Hall of Chiefs / King of Icefield (also SvS shop, Daily Deals, Foundry Shop) |
+| 5 | [Gwen](/strategy/heroes/gwen) | Marksman | Hall of Heroes (also Foundry Shop) |
 
 ::: warning Gen 6 and later
 The same three-channel rotation continues (one Lucky Wheel, one Hall of Heroes, one Hall of Chiefs per generation), but community sources do not firmly document which hero maps to which channel past Gen 5 — and Gen 12+ is especially unsettled. Renee (Gen 6) is widely reported as the Gen 6 Lucky Wheel hero, but treat anything beyond Gen 6 as "verify in your in-game Lucky Wheel and Hall of Heroes before planning a gem-saving cadence."
@@ -93,9 +93,11 @@ Not every generation is worth chasing on a free or minimal-spend account. The Lu
 | 2 | **Flint** *(Wheel)* | Philly — durable Arena and garrison value | Alonzo, unless you lead Marksman rallies |
 | 3 | **Mia** *(Wheel)* | Greg — multi-source, accumulates passively | Logan |
 | 4 | **Lynn** *(Wheel)* | Reina — only if you are the alliance rally lead | Ahmose |
-| 5 | **Hector** *(Wheel)* | — | Nora, Gwen |
+| 5 | **Hector** *(Wheel)* | Gwen — only if Marksman is your weak slot | Norah |
 
-**Gen 4 in particular is a quiet generation for free players.** Your Gen 1 to 3 core still carries the account; take Lynn, skip the other two, and bank gems toward the Gen 5 Wheel.
+**Gen 4 is a quiet generation for free players.** Your Gen 1 to 3 core still carries the account; take Lynn, skip the other two, and bank gems toward the Gen 5 Wheel.
+
+**Gen 5 is not quiet.** [Hector](/strategy/heroes/hector) is the best free hero in several generations — he is on the Wheel, and his signature skill buffs Marksman damage alongside Infantry damage, which displaces Flint as the free Infantry rally lead in the Marksman-heavy formations most events actually use. If you have been banking generic Mythic Hero Shards, he is a sound place to land them: a Wheel hero you were going to chase anyway, where the shards shorten a committed project rather than starting a new one.
 
 ::: warning Never bench a developed hero for a freshly unlocked one
 A 5-star hero with Level 5 skills beats a 2-star of the next generation in every role they share. The generation troop buff is real, but star count and skill level dominate it at low investment. Transition when the new hero is **built**, not when it unlocks.

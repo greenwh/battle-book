@@ -28,7 +28,7 @@ This mechanic makes every planned hero transition safe for your gear investment:
 
 **Bahiti → Alonzo (Marksman):** Bahiti's Mythic Goggles at +52 MF3 transfer to Alonzo at +52 MF3. Zero cost.
 
-**Sergey → Flint (Infantry):** Already executed on Beav's account. Sergey's Mythic Gloves and Belt transferred to Flint immediately when Flint arrived.
+**Sergey → Flint (Infantry):** Sergey's Mythic Gloves and Belt transfer to Flint the moment Flint arrives. This one is worth doing immediately — Sergey is a defensive joiner whose own gear matters far less than a rally leader's.
 
 ## When to Transfer
 

@@ -10,6 +10,18 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## October 2026
 
+### Generation 5: Hector, Norah, Gwen, and Gareth
+
+- **Three new hero pages** — [Hector](/strategy/heroes/hector), [Norah](/strategy/heroes/norah), and [Gwen](/strategy/heroes/gwen), with full Expedition, Exploration, and widget skill tables.
+- **Hector is the headline.** He is the Gen 5 Lucky Wheel hero, and his signature skill **Rampant** raises Marksman Damage Dealt alongside Infantry Damage Dealt — unusual for an Infantry hero, and the reason he has displaced Flint as the free-to-play Infantry rally lead in Marksman-heavy formations. The [Bear Trap](/events/bear-trap) page already said this; the hero section now explains why. The buff decays at 85% per attack over 10 attacks, so it rewards fast kills.
+- **Norah's oddity recorded.** Her best Expedition skill, Combined Arms, buffs **Infantry and Marksmen** rather than Lancers. That makes her a mixed-formation support piece rather than a Lancer carry, and it is why she places third within the generation for most accounts.
+- **"Nora" corrected to "Norah"** on the Server Timeline and Hero Roster. Older community charts use the short form; the game and current sources do not.
+- **Gen 5 troop buff recorded** at roughly **+444%** Attack and Defense, against ~+370% at Gen 4.
+- **The Lucky Wheel rotation is now visible.** With four generations of channel assignments on the [Hero Hub](/strategy/heroes/), the pattern is clear: the Wheel moves Infantry, Lancer, Marksman and repeats, so a free account gets a top-tier hero of each class roughly every three generations. Gen 4 was a quiet generation for free players; Gen 5 is not.
+- **Gareth promoted out of "not yet available"** on [The Experts](/strategy/dawn-academy/experts). He arrives with Gen 5 heroes and is the tenth Expert. His skills are listed, with an explicit warning that no numeric values or Sigil costs have been published. The useful finding: his early **Gifts of Iron** skill is broad passive value worth taking even on an account that will not develop him further, while his headline combat skills need deep investment and belong to rally leaders and PvP players only.
+- **Personal references removed from public pages.** A Combat page opened a section by naming the site's author, the Mythic Transfer page cited a specific account's completed transfer as its example, and the Alonzo page carried a named account's star count and a gem-priority warning addressed to that account. All four are rewritten generically. The site's stated design principle is alliance-agnostic content — no account-specific roster examples — and these predated it.
+- **Defender widget set completed.** Hector's Defender Attack, Ahmose's Defender Health, Lynn's Defender Lethality, and Norah's Defender Defense cover four different defender stats across Gens 4 and 5 — cross-linked on each hero page.
+
 ### Winter Siege updated after a third event — new Heart and Morale rules
 
 An in-game mail on 11 October 2026 changed two core Winter Siege numbers, and a third completed event confirmed several mechanics the guide had marked as uncertain.

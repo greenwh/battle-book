@@ -190,7 +190,7 @@ The leader's full 9-skill kit applies, so all three heroes' Expedition skills ma
 **Lancer leads:** Dominic > Mia (with Exclusive Gear ≥6) > Karol > Sonya / Renee / Reina
 **Marksman leads:** Newer-generation marksmen with strong base stats — most modern marksmen perform well here
 
-For F2P-leaning rosters, **Hector has replaced Flint as the go-to F2P infantry rally lead** in 2026 — his second skill lets infantry heroes contribute damage to a marksman-heavy formation.
+For F2P-leaning rosters, **[Hector](/strategy/heroes/hector) has replaced Flint as the go-to F2P infantry rally lead** in 2026 — his Rampant skill buffs Marksman damage alongside Infantry damage, so an Infantry lead no longer costs you the Marksman buff in a Marksman-heavy formation. The buff decays at 85% per attack over 10 attacks, so it rewards fast kills.
 
 ### Rally Joiner — Best Picks (Slot 1 only)
 
@@ -203,7 +203,7 @@ Only **+25% damage at Lv5** matters here. The S-tier joiners:
 | **Jasser** | Marksman (Mythic) | Same +25% damage skill |
 | **Seo-yoon** | Marksman (Mythic) | Same +25% damage skill |
 
-Tier-2 acceptable joiners (partial damage skills, not flat 25%): Philly, Reina, Gwen, Bradley.
+Tier-2 acceptable joiners (partial damage skills, not flat 25%): Philly, Reina, [Gwen](/strategy/heroes/gwen), Bradley.
 
 **Avoid in slot 1:** Patrick, Sergey, Giny, Renee (lancer-only buffs), and any hero whose first skill buffs defense, HP, or only one troop type the bear doesn't engage with.
 

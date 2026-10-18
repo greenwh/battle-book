@@ -115,6 +115,9 @@ export default defineConfig({
                 { text: 'Reina', link: '/strategy/heroes/reina' },
                 { text: 'Lynn', link: '/strategy/heroes/lynn' },
                 { text: 'Philly', link: '/strategy/heroes/philly' },
+                { text: 'Hector', link: '/strategy/heroes/hector' },
+                { text: 'Norah', link: '/strategy/heroes/norah' },
+                { text: 'Gwen', link: '/strategy/heroes/gwen' },
               ],
             },
             {

@@ -79,7 +79,8 @@ Every confirmed sighting below is tagged with the **server day and the month it 
 | 200 | Experts: Valeria, Baldur, Fabian | Dawn Academy — **confirmed on a live state, Aug 2026** |
 | 220 | [War Academy](/strategy/war-academy) + Fire Crystal Lab 5 | 6 refines/day; War Academy is the only route to T11 Helios troops |
 | 230 | Experts: Kathy, Ronne | Dawn Academy |
-| 270 | Hero Generation 5 | Hector, Nora, Gwen |
+| 270 | Hero Generation 5 | [Hector](/strategy/heroes/hector), [Norah](/strategy/heroes/norah), [Gwen](/strategy/heroes/gwen) — Hector is the Lucky Wheel hero |
+| 270 | Expert: Gareth | Dawn Academy — the fourth Expert generation, arrives with Gen 5 heroes |
 | 280 | Pet Generation 6 & 7 | Iron Rhino, Saber-tooth |
 | 315 | Fire Crystal 8 + Fire Crystal Lab 6 | 7 refines/day; daily FC missions rise from 10x to 20x |
 | 360 | Hero Generation 6 | Wu Ming, Renee, Wayne |
@@ -107,7 +108,7 @@ From Gen 5 onward, each generation arrives about **80 days** after the previous 
 | 2 | 40 | Flint | Philly | Alonso |
 | 3 | 120 | Logan | Mia | Greg |
 | 4 | 195 | Ahmose | Reina | Lynn |
-| 5 | 270 | Hector | Nora | Gwen |
+| 5 | 270 | Hector | Norah | Gwen |
 | 6 | 360 | Wu Ming | Renee | Wayne |
 | 7 | 440 | Edith | Gordon | Bradley |
 | 8 | 520 | Gatot | Sonya | Hendrik |
@@ -182,7 +183,7 @@ Experts unlock through the Dawn Academy after the Fire Crystal Age begins:
 | 200 | Valeria, Baldur, Fabian |
 | 230 | Kathy, Ronne |
 
-**Day 200 confirmed.** Valeria, Baldur, and Fabian unlocked on schedule on a live state in August 2026. Kathy and Ronne followed. **Gareth**, the fourth-generation Expert, had not arrived on that state as of September 2026 — he is expected alongside Gen 5 heroes. A further Expert, **Justus**, was announced in the August 2026 patch notes for a later date.
+**Day 200 confirmed.** Valeria, Baldur, and Fabian unlocked on schedule on a live state in August 2026. Kathy and Ronne followed. **Gareth**, the fourth-generation Expert, arrives alongside **Gen 5 heroes** (~day 270) — see [The Experts](/strategy/dawn-academy/experts). A further Expert, **Justus**, was announced in the August 2026 patch notes for a later date and has not yet landed.
 
 See the [Dawn Academy overview](/strategy/dawn-academy/) for expert roles and trek strategy, and [The Experts](/strategy/dawn-academy/experts) for development order.
 

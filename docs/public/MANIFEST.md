@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-18 17:35:06 UTC
-**Last commit:** `387a60f`
+**Last updated:** 2026-10-18 17:50:33 UTC
+**Last commit:** `8a4b22d`
 
 ## Deployed Pages
 
@@ -79,11 +79,14 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 - `/strategy/heroes/development-roadmap` — development-roadmap.md
 - `/strategy/heroes/flint` — flint.md
 - `/strategy/heroes/greg` — greg.md
+- `/strategy/heroes/gwen` — gwen.md
+- `/strategy/heroes/hector` — hector.md
 - `/strategy/heroes/` — index.md
 - `/strategy/heroes/logan` — logan.md
 - `/strategy/heroes/lynn` — lynn.md
 - `/strategy/heroes/mia` — mia.md
 - `/strategy/heroes/molly` — molly.md
+- `/strategy/heroes/norah` — norah.md
 - `/strategy/heroes/philly` — philly.md
 - `/strategy/heroes/reina` — reina.md
 - `/strategy/heroes/roster` — roster.md
@@ -186,6 +189,9 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
                 { text: 'Reina', link: '/strategy/heroes/reina' },
                 { text: 'Lynn', link: '/strategy/heroes/lynn' },
                 { text: 'Philly', link: '/strategy/heroes/philly' },
+                { text: 'Hector', link: '/strategy/heroes/hector' },
+                { text: 'Norah', link: '/strategy/heroes/norah' },
+                { text: 'Gwen', link: '/strategy/heroes/gwen' },
               ],
             },
             {
@@ -304,6 +310,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+8a4b22d Gen 5 update: Hector, Norah, Gwen hero pages; Gareth promoted to available; Nora->Norah spelling fix
+8c5d8f7 chore: regenerate MANIFEST.md [skip manifest]
 387a60f Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, practical wall, third-event confirmations; Foundry Battle: add battlefield map
 bf688d9 chore: regenerate MANIFEST.md [skip manifest]
 03a30a4 Merge branch 'rebrand-ice-kings'
@@ -312,6 +320,4 @@ f49bc41 Rebrand back to KNG Ice Kings: name, icons, hero image, changelog, conti
 75a13b8 chore: regenerate MANIFEST.md [skip manifest]
 210ea2e Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
 03b390d chore: regenerate MANIFEST.md [skip manifest]
-8d14843 Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
-4f63a8f chore: regenerate MANIFEST.md [skip manifest]
 ```

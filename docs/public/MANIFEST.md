@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-14 16:15:21 UTC
-**Last commit:** `03a30a4`
+**Last updated:** 2026-10-18 17:35:06 UTC
+**Last commit:** `387a60f`
 
 ## Deployed Pages
 
@@ -304,6 +304,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+387a60f Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, practical wall, third-event confirmations; Foundry Battle: add battlefield map
+bf688d9 chore: regenerate MANIFEST.md [skip manifest]
 03a30a4 Merge branch 'rebrand-ice-kings'
 7db81b1 Continuity doc: sibling site is wos-knowledge (soa-battle-book retired)
 f49bc41 Rebrand back to KNG Ice Kings: name, icons, hero image, changelog, continuity doc
@@ -312,6 +314,4 @@ f49bc41 Rebrand back to KNG Ice Kings: name, icons, hero image, changelog, conti
 03b390d chore: regenerate MANIFEST.md [skip manifest]
 8d14843 Gen 4 update: War Academy, gear ascension/empowerment, Ahmose/Reina/Lynn/Philly, Endless Trials; correct empowerment gate to MF11 and retire 'Master Forgery'
 4f63a8f chore: regenerate MANIFEST.md [skip manifest]
-efdf437 Replace generation labels with day+date anchors; add multi-track generation model to Server Timeline
-34795a3 chore: regenerate MANIFEST.md [skip manifest]
 ```

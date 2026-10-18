@@ -37,6 +37,7 @@ An in-game mail on 11 October 2026 changed two core Winter Siege numbers, and a 
 ### Foundry Battle — map added
 
 - Added the in-game battlefield map to the Foundry Battle guide, showing all eleven buildings with their first-control and per-minute point values.
+- Building table now carries the exact values from the map: Prototype Sites 6,000 / 1,200 per minute; Boiler Room, Munitions Warehouse and Transit 1,200 / 240 per minute. The Central Transit Station is a single building, not several — wording corrected throughout.
 
 ### Rebrand — Ice Kings
 

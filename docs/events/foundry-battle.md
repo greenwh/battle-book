@@ -35,7 +35,7 @@ The objective is simple: **earn more Arsenal Points than the enemy alliance by c
 
 | Phase | Time | Buildings unlocked |
 |---|---|---|
-| **Phase 1** | First 15 min | Prototype Sites, Repair Facilities, Boiler Room, Central Transit Stations |
+| **Phase 1** | First 15 min | Prototype Sites, Repair Facilities, Boiler Room, Central Transit Station |
 | **Phase 2** | Mid 15 min | **Imperial Foundry**, Munitions Warehouse, Mercenary Camp |
 | **Phase 3** | Final 30 min | Weapon Workshops spawn randomly across the map |
 
@@ -55,11 +55,11 @@ Verified point values from official wiki and major guides:
 |---|---|---|---|
 | **Imperial Foundry** ⭐ | 9,000 | 1,800 | **Highest-value building.** Centerpiece of Phase 2. |
 | **Repair Facilities** (4×) | 3,000 each | 600 each | One in each map corner. Repair foundry machinery. |
-| **Prototype Sites** | High | Medium | Second-highest first-capture value. |
-| **Munitions Warehouse** | Medium | Medium | **+15% troop damage reduction & boost** for occupier |
+| **Prototype Sites** (2×) | 6,000 each | 1,200 each | Second-highest first-capture value. |
+| **Munitions Warehouse** | 1,200 | 240 | **+15% troop damage reduction & boost** for occupier |
 | **Mercenary Camp** | 1,200 | 240 | Sends mercenary strike teams against enemy buildings, lowering their offense/defense |
-| **Boiler Room** | (must hold 50% of phase) | Phase-end bonus | Buildings need 50% control time to award points |
-| **Central Transit Stations** | Medium | Low | **Reduces Advance Teleport cooldown by 50%** |
+| **Boiler Room** | 1,200 | 240 | Buildings need 50% control time to award points |
+| **Central Transit Station** | 1,200 | 240 | **Reduces Advance Teleport cooldown by 50%** |
 | **Weapon Workshops** | Spawn-based | Steady | Phase 3 random spawns. Underrated F2P targets. |
 
 **Personal scoring (separate from alliance points):**
@@ -107,7 +107,7 @@ R4/R5 should:
 
 **Key targets in priority order:**
 
-1. **Central Transit Stations** — controlling these reduces your alliance's teleport cooldown by 50%, compounding mobility advantage for the rest of the battle. **Capture early.**
+1. **Central Transit Station** — controlling it reduces your alliance's teleport cooldown by 50%, compounding mobility advantage for the rest of the battle. **Capture early.**
 2. **Repair Facilities (4 corners)** — solid points (3,000 + 600/min each), four available, lower contention than central buildings.
 3. **Prototype Sites** — high first-capture value. Worth contesting.
 4. **Boiler Room** — requires 50% control time to award points, so getting here early matters.
@@ -158,7 +158,7 @@ A common high-performance structure used by competitive alliances:
 - Team A2 (4 players): Phase 1 building captures, then support A1
 
 **Defending Group (top player + 7 remaining):**
-- Team D1 (4 players): Defense of captured Phase 1 buildings (Repair Facilities, Transit Stations)
+- Team D1 (4 players): Defense of captured Phase 1 buildings (Repair Facilities, Transit Station)
 - Team D2 (4 players): Defense of Imperial Foundry once captured
 
 **Why this split:**
@@ -230,7 +230,7 @@ This isn't the only valid structure, but it's the most-cited high-performance ap
 | **Stock Advanced Teleports** | Mid-battle repositioning is essential |
 | **Clear infirmary, recall all troops, turn off Auto-Hunt** | Required to enter battlefield |
 | **Whales lead Imperial Foundry assault in Phase 2** | 9,000 + 1,800/min, biggest single building |
-| **Capture Central Transit Stations in Phase 1** | -50% teleport cooldown for whole alliance |
+| **Capture the Central Transit Station in Phase 1** | -50% teleport cooldown for whole alliance |
 | **Don't lose Phase 1 buildings to push Phase 2** | Lost passive points outweigh new gains |
 | **F2P focus on Phase 3 Weapon Workshops** | Random spawns, no power requirement |
 | **Personal points are individual; alliance points decide victory** | Don't be MVP on a losing team |

@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-18 17:50:33 UTC
-**Last commit:** `8a4b22d`
+**Last updated:** 2026-10-18 17:54:56 UTC
+**Last commit:** `d636c51`
 
 ## Deployed Pages
 
@@ -310,6 +310,8 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 ## Recent Deployment History
 
 ```
+d636c51 Foundry Battle: exact building values from map; Central Transit Station is a single building
+6f995c8 chore: regenerate MANIFEST.md [skip manifest]
 8a4b22d Gen 5 update: Hector, Norah, Gwen hero pages; Gareth promoted to available; Nora->Norah spelling fix
 8c5d8f7 chore: regenerate MANIFEST.md [skip manifest]
 387a60f Winter Siege: October 2026 rules — 5/6 Hearts, slower Morale decay, practical wall, third-event confirmations; Foundry Battle: add battlefield map
@@ -318,6 +320,4 @@ bf688d9 chore: regenerate MANIFEST.md [skip manifest]
 7db81b1 Continuity doc: sibling site is wos-knowledge (soa-battle-book retired)
 f49bc41 Rebrand back to KNG Ice Kings: name, icons, hero image, changelog, continuity doc
 75a13b8 chore: regenerate MANIFEST.md [skip manifest]
-210ea2e Fix strategy hub Heroes section missing Gen 4 hero links (Ahmose, Reina, Lynn, Philly)
-03b390d chore: regenerate MANIFEST.md [skip manifest]
 ```

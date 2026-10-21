@@ -1,9 +1,9 @@
 # Battle Book — Chat Claude Continuity
  
-**Purpose:** Persistent reference for any chat Claude session working on the Ice Kings Battle Book. Paired with `CLAUDE.md` in the repo (which is Claude Code’s reference). This doc is for **chat-side work**: planning, research, drafting content, packaging handoffs.
+**Purpose:** Persistent reference for any chat Claude session working on the Ember Battle Book. Paired with `CLAUDE.md` in the repo (which is Claude Code’s reference). This doc is for **chat-side work**: planning, research, drafting content, packaging handoffs.
  
-**Live sites:** KNG <https://greenwh.github.io/battle-book/> · WOS <https://greenwh.github.io/wos-knowledge/>
-**Repos:** KNG <https://github.com/greenwh/battle-book> · WOS <https://github.com/greenwh/wos-knowledge>
+**Live sites:** EmB <https://greenwh.github.io/battle-book/> · WOS <https://greenwh.github.io/wos-knowledge/>
+**Repos:** EmB <https://github.com/greenwh/battle-book> · WOS <https://github.com/greenwh/wos-knowledge>
 **Tech:** VitePress, GitHub Pages, GitHub Actions auto-deploy
  
 -----
@@ -12,7 +12,7 @@
  
 Use this exact prompt when starting a new Battle Book session:
  
-> *“I’m Bill, working on the Battle Book. There are now two synced sites: **battle-book** (Ice Kings, full branding) and **wos-knowledge** (Waldo and Wilma's Knowledge Book, own branding: name, mascot hero image, icons, red/orange theme). Live sites — KNG: <https://greenwh.github.io/battle-book/> · WOS: <https://greenwh.github.io/wos-knowledge/> — fetch whichever book we’re working on, follow its MANIFEST.md link to see current deployed state, then read the battle-book continuity doc in project files. Content is identical across both sites; only branding differs. Ask me what we’re working on today.”*
+> *“I’m Bill, working on the Battle Book. There are now two synced sites: **battle-book** (Ember Glow, full branding) and **wos-knowledge** (Waldo and Wilma's Knowledge Book, own branding: name, mascot hero image, icons, red/orange theme). Live sites — KNG: <https://greenwh.github.io/battle-book/> · WOS: <https://greenwh.github.io/wos-knowledge/> — fetch whichever book we’re working on, follow its MANIFEST.md link to see current deployed state, then read the battle-book continuity doc in project files. Content is identical across both sites; only branding differs. Ask me what we’re working on today.”*
  
 **The URL in that prompt is load-bearing, not decoration.** `web_fetch` can only reach a URL that appeared in a prior tool result *or in one of Bill’s messages*. At the start of a cold session there are no prior tool results, and this small repo does not surface in web search. So the homepage URL **must arrive in Bill’s message** — pasting the restart prompt (which now carries both the KNG and WOS URLs) is what seeds it into the whitelist. The whitelist is **per-URL**: seeding the KNG homepage does not make the WOS homepage fetchable, and vice versa — so fetch the URL for whichever book you need to check (both are in the prompt). Once a homepage is fetched, its “Recently updated” section links to that site’s MANIFEST.md, which chains the rest. If Bill starts a session without the URL, ask him to paste the relevant site URL before trying to fetch anything.
  
@@ -44,11 +44,11 @@ The manifest lists every deployed page, the current sidebar config, and recent c
  
 -----
  
-## Dual-Site Operation (KNG + WOS)
+## Dual-Site Operation (EmB + WOS)
  
 The Battle Book is deployed as **two synced sites** from two repos:
  
-- **`battle-book`** — Ice Kings. Full branding. Live: <https://greenwh.github.io/battle-book/>
+- **`battle-book`** — Ember Battle Book (Ember Glow, formerly Ice Kings). Full branding. Live: <https://greenwh.github.io/battle-book/>
 - **`wos-knowledge`** — WOS clone. Live: <https://greenwh.github.io/wos-knowledge/>
 **What's identical (everything that matters for content):** every page, the sidebar structure, all strategy / event / combat data. Content is alliance-agnostic, so the same files go into both repos byte-for-byte.
  
@@ -64,7 +64,7 @@ The Battle Book is deployed as **two synced sites** from two repos:
  
 ## What The Battle Book Is
  
-A public Whiteout Survival reference site, built by Bill (Ice Kings R4, State 4104) for his multinational academy alliance and the broader community. The audience extends well beyond the alliance — links get shared, screenshots float around, players from other servers reference it.
+A public Whiteout Survival reference site, built by Bill (Ember Glow R4, State 4104; Ember Glow is a subordinate alliance of Ember Lights, formerly Ice Kings) for his multinational academy alliance and the broader community. The audience extends well beyond the alliance — links get shared, screenshots float around, players from other servers reference it.
  
 **Design principles:**
  
@@ -381,10 +381,10 @@ These are loose threads. If a session starts and Bill says “let’s continue X
 - `FOUNDRY_CONTINUITY.md` — Foundry Battle planning (alliance-specific, not site content)
 **Key URLs:**
  
-- KNG live site: <https://greenwh.github.io/battle-book/>
-- KNG live manifest: <https://greenwh.github.io/battle-book/MANIFEST.md>
-- KNG repo: <https://github.com/greenwh/battle-book>
-- KNG Actions: <https://github.com/greenwh/battle-book/actions>
+- EmB live site: <https://greenwh.github.io/battle-book/>
+- EmB live manifest: <https://greenwh.github.io/battle-book/MANIFEST.md>
+- EmB repo: <https://github.com/greenwh/battle-book>
+- EmB Actions: <https://github.com/greenwh/battle-book/actions>
 - WOS live site: <https://greenwh.github.io/wos-knowledge/>
 - WOS live manifest: <https://greenwh.github.io/wos-knowledge/MANIFEST.md>
 - WOS repo: <https://github.com/greenwh/wos-knowledge>
@@ -409,5 +409,5 @@ These are loose threads. If a session starts and Bill says “let’s continue X
 - **Assume handoff = deployed.** When a Claude Code handoff is delivered to Bill, treat the changes as **live** and update continuity/state in the same session — don't wait for a post-deploy confirmation to record it (Bill's standing instruction, June 26 2026). The manifest remains the source of truth if byte-level verification is ever needed, but day-to-day, handoff means done. (Note: this relaxes the older "verify before claiming deployed" stance from the Incident Log — that history is kept as cautionary background, but Bill has explicitly chosen the assume-deployed default.)
 -----
  
-*Last updated: October 14, 2026 (rebranded back from pha Ghosts to Ice Kings/KNG, sibling site updated from retired soa-battle-book (404) to wos-knowledge; prior: June 26, 2026 — confirmed Server Timeline + Hero Roster + FC cost CSV all live in both repos via repo-source check; logged Incident 6 + repo-verification reconciliation method; added "assume handoff = deployed" working pattern; same-day prior: dual-site operation, Restart Prompt + Key URLs for both sites) · Maintained by: chat Claude · Companion to: CLAUDE.md in repo*
+*Last updated: October 21, 2026 (rebranded from Ice Kings/KNG to Ember Glow/EmB — Ember Battle Book, new hero image, banner icons, ember palette, generic new-member page); prior: October 14, 2026 (rebranded back from pha Ghosts to Ice Kings/KNG, sibling site updated from retired soa-battle-book (404) to wos-knowledge; prior: June 26, 2026 — confirmed Server Timeline + Hero Roster + FC cost CSV all live in both repos via repo-source check; logged Incident 6 + repo-verification reconciliation method; added "assume handoff = deployed" working pattern; same-day prior: dual-site operation, Restart Prompt + Key URLs for both sites) · Maintained by: chat Claude · Companion to: CLAUDE.md in repo*
  

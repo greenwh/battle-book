@@ -1,15 +1,15 @@
 ---
-title: Ice Kings Battle Book
+title: Ember Battle Book
 description: Whiteout Survival reference for State 4104 and beyond — events, heroes, combat, and strategy.
 layout: home
 
 hero:
-  name: Ice Kings
+  name: Ember
   text: Battle Book
   tagline: A reference manual for Whiteout Survival players. Events, heroes, combat, and strategy — verified, mobile-first, and updated.
   image:
-    src: /bear.JPG
-    alt: Ice Kings — a roaring bear flanked by archers in a frozen battlefield
+    src: /ember.jpg
+    alt: Ember Lights and Ember Glow armies meet in a frozen battlefield, joined by a merged fire-and-ice snowflake banner
   actions:
     - theme: brand
       text: Browse Events

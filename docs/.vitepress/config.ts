@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Ice Kings Battle Book',
+  title: 'Ember Battle Book',
   description: 'Whiteout Survival reference for State 4104 and beyond — events, heroes, combat, and strategy.',
   base: '/battle-book/',
   lastUpdated: true,
@@ -10,28 +10,28 @@ export default defineConfig({
   ignoreDeadLinks: ['/MANIFEST.md', '/MANIFEST'],
 
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/battle-book/icons/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/png', href: '/battle-book/icons/favicon.png' }],
     ['link', { rel: 'manifest', href: '/battle-book/manifest.webmanifest' }],
     ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/battle-book/icons/apple-touch-icon.png' }],
     ['meta', { name: 'theme-color', content: '#0d0f14' }],
     ['meta', { name: 'robots', content: 'index,follow' }],
     ['meta', { property: 'og:type', content: 'website' }],
-    ['meta', { property: 'og:title', content: 'Ice Kings Battle Book' }],
+    ['meta', { property: 'og:title', content: 'Ember Battle Book' }],
     ['meta', { property: 'og:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],
     ['meta', { property: 'og:url', content: 'https://greenwh.github.io/battle-book/' }],
-    ['meta', { property: 'og:image', content: 'https://greenwh.github.io/battle-book/og-image.png' }],
-    ['meta', { property: 'og:image:type', content: 'image/png' }],
+    ['meta', { property: 'og:image', content: 'https://greenwh.github.io/battle-book/og-image.jpg' }],
+    ['meta', { property: 'og:image:type', content: 'image/jpeg' }],
     ['meta', { property: 'og:image:width', content: '1200' }],
     ['meta', { property: 'og:image:height', content: '630' }],
-    ['meta', { property: 'og:image:alt', content: 'Ice Kings Battle Book — Whiteout Survival reference for State 4104' }],
+    ['meta', { property: 'og:image:alt', content: 'Ember Battle Book — Whiteout Survival reference for State 4104' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-    ['meta', { name: 'twitter:title', content: 'Ice Kings Battle Book' }],
+    ['meta', { name: 'twitter:title', content: 'Ember Battle Book' }],
     ['meta', { name: 'twitter:description', content: 'Whiteout Survival reference — events, heroes, combat, and strategy.' }],
-    ['meta', { name: 'twitter:image', content: 'https://greenwh.github.io/battle-book/og-image.png' }],
+    ['meta', { name: 'twitter:image', content: 'https://greenwh.github.io/battle-book/og-image.jpg' }],
   ],
 
   themeConfig: {
-    logo: { src: '/icons/logo.svg', alt: 'Battle Book' },
+    logo: { src: '/icons/logo.png', alt: 'Battle Book' },
     siteTitle: 'Battle Book',
 
     nav: [
@@ -220,7 +220,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: 'Ice Kings Battle Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
+      message: 'Ember Battle Book · Whiteout Survival reference · Best information available — verify against in-game changes.',
       copyright: 'Built with VitePress · Hosted on GitHub Pages',
     },
 

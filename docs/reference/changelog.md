@@ -10,6 +10,13 @@ A log of every meaningful site update. Helps readers spot stale info and see wha
 
 ## October 2026
 
+### Rebrand — Ember Glow
+
+- Ice Kings (KNG) merged with Ember Lights and is now **Ember Glow (EmB)**, a subordinate alliance of Ember Lights. The site is now the **Ember Battle Book**.
+- New landing image, Open Graph share image, favicon, and app/PWA icons (the merged fire-and-ice banner). Brand color moved from ice blue to ember orange.
+- **New Member Orientation** replaced with the generic version: the alliance rank tier system (R1–R5, earning R3) is removed because the two alliances rank differently.
+- Content is otherwise unchanged.
+
 ### Generation 5: Hector, Norah, Gwen, and Gareth
 
 - **Three new hero pages** — [Hector](/strategy/heroes/hector), [Norah](/strategy/heroes/norah), and [Gwen](/strategy/heroes/gwen), with full Expedition, Exploration, and widget skill tables.

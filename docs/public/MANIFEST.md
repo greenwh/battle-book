@@ -6,8 +6,8 @@ It is regenerated automatically by GitHub Actions on every push to main that tou
 Published at: `https://greenwh.github.io/battle-book/MANIFEST.md`
 Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/public/MANIFEST.md`
 
-**Last updated:** 2026-10-21 17:29:01 UTC
-**Last commit:** `4224cca`
+**Last updated:** 2026-10-21 17:29:14 UTC
+**Last commit:** `40b8d13`
 
 ## Deployed Pages
 
@@ -305,12 +305,12 @@ Source at: `https://raw.githubusercontent.com/greenwh/battle-book/main/docs/publ
 
     lastUpdatedText: 'Last updated',
   },
-})
 ```
 
 ## Recent Deployment History
 
 ```
+40b8d13 Rebrand Ice Kings to Ember Glow: Ember Battle Book
 4224cca chore: regenerate MANIFEST.md [skip manifest]
 d636c51 Foundry Battle: exact building values from map; Central Transit Station is a single building
 6f995c8 chore: regenerate MANIFEST.md [skip manifest]
@@ -320,5 +320,4 @@ d636c51 Foundry Battle: exact building values from map; Central Transit Station 
 bf688d9 chore: regenerate MANIFEST.md [skip manifest]
 03a30a4 Merge branch 'rebrand-ice-kings'
 7db81b1 Continuity doc: sibling site is wos-knowledge (soa-battle-book retired)
-f49bc41 Rebrand back to KNG Ice Kings: name, icons, hero image, changelog, continuity doc
 ```
